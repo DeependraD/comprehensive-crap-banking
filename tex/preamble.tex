@@ -1,0 +1,46 @@
+\usepackage{booktabs}
+
+\usepackage{geometry} % for custom layout of book and landscape geometry support
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\usepackage{enumerate}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{dcolumn}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{multirow}
+% \usepackage[table]{xcolor}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage[normalem]{ulem}
+\usepackage{rotating}
+\newcommand{\blandscape}{\begin{landscape}}
+\newcommand{\elandscape}{\end{landscape}}
+\usepackage[format=hang,labelfont=bf,margin=0.5cm,justification=centering]{caption}
+% \usepackage{exam} % this and exam.sty cause error
+\usepackage{pdfpages}
+\usepackage{siunitx}
+
+% \usepackage{subcaption} % doesn't work with tinytex in windows
+% \newcommand{\subfloat}[2][need a sub-caption]{\subcaptionbox{#1}{#2}}
+
+% simple fix for exam class features of questions and solution
+\usepackage{enumitem}
+\usepackage{alphalph}
+
+\newlist{questions}{enumerate}{3}
+\setlist[questions]{label=\arabic*.}
+\newcommand{\question}{\item}
+
+\newenvironment{solution}{ {\bfseries Solution}:}{}

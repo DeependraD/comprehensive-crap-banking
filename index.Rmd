@@ -1,0 +1,44 @@
+--- 
+title: "Comprehensive Crap Guide"
+subtitle: "Banking"
+author: "Deependra Dhakal"
+date: "November, 2019"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+classoption: openany # this will force for 2 side layout of book to open chapter at any side
+bibliography: [bibliography/bib.bib]
+biblio-style: apalike
+link-citations: yes
+# github-repo: deependrad/comprehensive_crap_banking
+description: "This is a guide book to users preparing for banking and financial institutions"
+header-includes: 
+  - \usepackage{fancyhdr}
+---
+
+```{r setup, include=FALSE, message=FALSE}
+require(knitr)
+knitr::opts_chunk$set(tidy = TRUE, cache = FALSE, 
+                      echo = FALSE, 
+                      tidy.opts = list(width.cutoff=50), 
+                      eval = TRUE, warning = FALSE, message = FALSE,
+                      # fig.show = "hold", 
+                      fig.align = "center", fig.width = 6,
+                      fig.asp = 0.9, out.width = "0.85\\linewidth")
+options(knitr.kable.NA = "", digits = 3, knitr.table.format = "latex")
+options(kableExtra.latex.load_packages = FALSE)
+require(kableExtra)
+require(tidyverse)
+ggplot2::theme_set(theme_bw())
+```
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown', "dplyr", "purrr"
+), './bibliography/bib.bib')
+```
+
+<!-- # Introduction -->
+
+<!-- This is a reference manual for self purpose only. -->

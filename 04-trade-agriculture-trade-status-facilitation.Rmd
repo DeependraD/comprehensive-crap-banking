@@ -1,0 +1,194 @@
+
+# Trade and export
+
+## Trade policy
+
+Nepal's Second Trade Policy Review (TPR) at the WTO covers the period between 2012 and 2018. Constitution of Nepal, 2072 promotes the role of the private sector in the economy and envisages that Nepal shall pursue policies to maintain competition and fairness in the market. In particular, the Constitution encourages foreign capital and technological investment as well as development and expansion of industries in areas of comparative advantage. This economic ecology is backed by the Constitution which provides a comprehensive list of thirty-one fundamental rights, including economic, social and cultural rights. The Constitution, therefore, is instrumental in fixing the politics and bringing the focus on economic development agenda through the realization of Nepal’s long-awaited goals and aspirations.
+
+Nepal’s annual growth was 4.3% on average in the last decade, during which the agricultural and non-agricultural sectors grew at yearly average rates of 2.9\% and 4.9\%, respectively.
+
+The Nepali economy suffered adversely from the devastating earthquakes in 2015 and its aftershocks as well as subsequent serious disruption of supplies (including fuel and other essentials) at the southern border. Nevertheless, Nepal’s economic growth has rebounded and moved in positive directions due to political stability, availability of energy, improvements in supplies, expansion of the trade sector, acceleration of construction work, and high growth in industrial output and services sector. While the nominal per-capita GDP was only USD 702 at the end of the last review period, it is expected to cross the thousand mark and reach USD 1004 in FY 2017/18. Bolstered by the political stability and positive outlook ahead, Nepal is aiming for near double-digit growth in the upcoming fiscal year (FY) and attaining double digit growth in the next five years. The gross capital formation to GDP ratio was 38.0% at the end of the last review period. It reached 45.7% in 2016/17 and is expected to increase further to 51.8% in 2017/18. The amount of Foreign Direct Investment (FDI) in Nepal is growing at a significant rate as it increased three-folds from 17 billion NRs. in 2016/17 to 61 billion NRs. in 2017/18. The Table \ref{tab:macroeconomic-indicators} macroeconomic indicators of Nepal.
+
+With the transformation from a unitary government structure to a federal one, Nepal’s first federal budget was launched for FY 2018/19. In its federal budget, Nepal has prioritised creation of employment opportunities, promotion of domestic and foreign investment in sectors such as energy, infrastructure, tourism, agriculture, and improvement of public service delivery. Moreover, according to the constitutional provision, the seven provincial and 753 local governments also presented their budgetary outlays, prioritising sectors and activities.
+
+Though trade is a key component of the economy, trade deficit has posed challenge to Nepal's development. After Nepal's accession to the WTO, share of export in total trade has decreased from 28.3% in FY 2004/05 to 6.9% in FY 2016/17. The share of import has increased from 71.7% in FY 2004/05 to 93.1% in FY 2016/17. As a consequence, export-import ratio has deteriorated from 1:2.5 in FY 2004/05 to 1:13.5 in FY 2016/17.Nepal’s trade deficit has grown by more than ten-folds. 
+
+### Investment and incentives to investors
+
+Several policies and acts have been developed in line with the Constitution to protect rights of the investors, including through Intellectual Property Policy, 2017, Foreign Investment Policy, 2015, and Industrial Enterprises Act, 2016, among others. Foreign Investment and Technology Transfer Act (FITTA), 1992 governs FDI. Foreign investors are allowed to invest up to 100% in almost all industries, except for few on the negative list. The Company Act, 2017 has made provisions for establishing, managing and administering companies in more simplified, convenient and transparent manner. The Industrial Enterprises Act, 2016 covers entry, operation and exit procedures for business and also outlines customs and tax payment requirement for investors. The Labour Act, 2017 has implemented no work no pay principle.
+
+Nepal has signed Bilateral Investment Promotion and Protection Agreement (BIPPA) with six countries and Double Tax Avoidance Agreement (DTAA) with ten countries. As an LDC, Nepal has duty free market access in many developed and developing countries. However, these market access opportunities are yet to be fully realized. Hence, there is a dearth of FDI to boost production and productivity by utilizing market access advantages.
+
+Several incentives are available to investors and there are further concessions for investment in certain priority sectors. Foreign investors are allowed to repatriate 100% of their profits after meeting legal requirements. Companies are allowed to hire foreign nationals. Tourist/non-tourist and business visas can be issued with recommendation from concerned government agencies and in case of investment of USD 100,000 or more, residential visa is granted directly to the investor. In terms of property rights, investors are allowed to buy or lease land in the name of their company.
+
+Nepal’s recent success in attracting foreign investment evidences improved investment climate in the country. Nepal has improved its Doing Business ranking and has the third most favourable business climate and fourth most competitive economy in South Asia. Nepal organized Investment Summit in 2017 to promote FDI as well as technology and skill transfer. The event was attended by more than 250 institutional and individual investors from 21 countries who pledged investment totalling USD 13.51 billion.
+
+The Government is committed to attract foreign investment by treating foreign investment as complementary to national capital formation. It is making further legal, institutional and procedural reforms to reduce cost of doing business and ensure an investment-friendly environment. It is planning to make the whole process from business registration to closure predictable, simplified, transparent and based on information technology. It is also making provisions to deliver all services from one point in a time-bound manner. The Government is strengthening the Investment Board Nepal (IBN) as an institution for granting investment approval through one-door system, including for public private partnerships (PPPs).
+
+### Monetary policy management
+
+Nepal Rastra Bank (NRB), the central bank of Nepal, has primary duties of maintaining macroeconomic and financial sector stability. Average consumer price inflation was 4.5% in FY 2016/17. Consumer price inflation rates for recent years is indicated in Table \ref{tab:cip-inflation}. Inflation has remained within a reasonable range. Broad money supply (M2) increased by 15.5% in FY 2016/17 compared to 12.2% in FY 2010/11. Average growth of money supply remained at around 18.08% during the last five years (2012-2017). Foreign Exchange reserve stood at NRs 1094 billion as of mid-June 2018 compared to NRs 272.3 billion at the end of last review period (2012).
+
+Moreover, Monetary Policy, 2018/19 has made significant investment-friendly reforms by simplifying the process of repatriation of foreign investment earnings, introducing exchange rate hedging facility for foreign investors, provisioning for loan facilities for foreign investors, and making it possible for commercial banks to provide additional services such as escrow fund management for foreign investors.
+
+### Tax system
+
+Nepal has one of the lowest corporate tax regimes in South Asia making it an attractive investment destination. Tax rates for various entities according to their nature is summarized in the Table \ref{tab:corporate-tax-nepal}.
+
+```{r corporate-tax-rates}
+tribble(
+ ~"Nature of entity", ~"Tax rate",
+ "Normal rate for entities", 25,
+ "Special industries registered under Section 3 of Industrial Enterprise Act, 1992", 20,
+ "Banks and Financial Institutions", 30,
+ "General Insurance", 30,
+ "Life insurance", 25,
+ "Enterprise involved in petroleum businesses", 30,
+ "Saving and credit cooperatives located in urban areas", 20,
+ "Enterprises operating roads, bridges, railways, hydropower stations, transmission lines, etc. on BOOT basis, etc.", 20
+) %>% 
+ knitr::kable(booktabs = TRUE, caption = "Corporate tax rates in Nepal") %>% 
+ kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
+ kableExtra::column_spec(column = 1, width = "18em")
+```
+
+(For details about sector-wise performance in economy, refer to the document at \url{https://moics.gov.np/uploads/shares/policy/Trade%20Policy%20Review%202018-Nepal.pdf} )
+
+### Trade policy, 2015
+
+Nepal has updated the trade policy to harmonize with other sectoral policies, create alignment between trade policy and NTIS, address increasing trade deficit, and promote exports by enhancing the supply-side capacities. Nepal’s first comprehensive trade policy after joining the WTO was Trade Policy, 2009 which replaced Trade Policy, 1992. Trade Policy, 2009 embraced the principles of liberal, open and transparent economic system and had primary objectives to increase trade sector’s contribution to the national economy and help reduce poverty and accelerate economic growth. However, results of the Policy remained mixed and hence have been replaced by Trade Policy, 2015.
+
+The vision of Trade Policy, 2015 is to achieve economic prosperity by enhancing trade sector’s contribution to the national economy through export promotion. The strategies focus on strengthening supply-side capacity, increasing exports of value-added competitive products and services in the world market, increasing access of goods, services, and intellectual property to regional and world markets, among others. The Trade Policy, 2015 also provisions for a Board of Trade under the Chairmanship of Minister of Industry, Commerce and Supplies. The Board includes the private sector and has responsibilities of assisting in formulating policies necessary for trade promotion, trade facilitation, policy monitoring and inter-agency coordination.
+
+### Nepal Trade Integration Strategy (NTIS), 2016
+
+Nepal has introduced its 3rd-generation trade integration strategy to strengthen trade and export enabling environment, focus on product development and strengthen supply capacity of priority products, strengthen institutional capacity, trade negotiation and inter-agency coordination, and build and enhance trade related infrastructures. Previously, Nepal had launched the Diagnostic Trade Integration Study (DTIS) in 2004 that could not be appropriately implemented due to various reasons. Later, DTIS was revised as NTIS and released in 2010 to complement the Trade Policy, 2009. This was further updated in 2016 in line with the updated Trade Policy, 2015.
+
+NTIS 2016 aims to enhance Nepal’s export competitiveness by addressing seven cross-cutting strategic areas: trade capacity, trade and investment environment, trade and transport facilitation, standards and technical regulations, SPS, intellectual property rights, and trade in services. NTIS 2016 focuses on value chain development of priority export products, including four agro-based (large cardamom, ginger, tea and MAPs), five craft and manufacturing (all fabrics, textile, yarn & ropes, leather, footwear, chyangra pashmina, and knotted carpets), and three services (skilled & semi-skilled professionals at various categories, IT and BPO, and tourism). It has identified one hundred and ninety actions to be implemented within the time-frame of five years.
+
+## Export import business
+
+Primary documents and processes required to export from Nepal:
+
+- Registering a manufacturing company or trading firm
+ - Manufacturing company: In the office of company registrar, 
+ - Trading firm: In the Department of Commerce
+
+Document requirements for registering a trading firm
+
+- Application letter is a predefined format and signed statement of consent.
+- Respective individual should present themselves with citizenship certificate and the attested copy of the certificate.
+- 3 copies of recently taken photograph of passport size.
+- For the firm engaging in money exchange, they should present approval letter from NRB.
+- For the firm engaging in transaction of medicines and drugs, they should present the recommendation letter from Department of Drug Administration.
+
+- Obtaining Permanent Account Number
+- Registering for VAT
+- Obtaining Exim Code
+
+EXIM Code refers to Export Import code with 13 letters. Any institution or establishment whether manufacturing or trading engaged in import and export of any goods and services has to obtain the EXIM Code. Current provisions relating to obtaining of EXIM code is described under EXIM code procedure, 2073.
+
+EXIM Code should be updated or renewed annually extending the Bank Guarantee for one more term. Anyone desirous to update the code exceeding a year can extend by submitting the bank guarantee for more than one year. Previous same EXIM Code remains valid until it is revoked.
+
+The Code is now issued by the Department of Customs. In order to obtain the EXIM Code, following documents should be submitted to the Department of Customs website.
+ - Application form (downloaded from the website)
+ - Company/firm registration Certificate
+ - PAN Certificate
+ - VAT Certificate
+ - Special certificates (if required)
+ - Recommendation from the bank where the applicant has an account.
+ - Recent photograph
+ - Map of the enterprise
+
+The applicant also needs to provide an NRS 300,000 cheque deposit issued by a Class A bank certified by Nepal Rastra Bank. The Code will be issued one week after the complete submission of the application.
+
+- Obtaining Certificate of Origin
+
+It contains following details:
+
+1. Exporter's name and address
+2. Consignee's name, address, country
+3. Means of transport and route
+4. Export licence number and date (when needed)
+5. Marks and number of packages
+6. Description of goods
+7. Value
+8. Quantity
+9. Place of production
+10. Number and date of invoice
+11. Declaration by the exporter
+12. Certification by issuing authority
+
+- Obtaining GSP Certificate 
+
+Exporting plant products:
+
+- Application for Phytosanitary Certificate
+- Application for permit to export seeds
+- Obtaining Quarantine Certificate
+
+Exporting animal products:
+
+- Obtaining Quarantine Certificate
+- Recommendation relating to export of animals
+- Terms to be abided by while exporting animal products
+
+Exporting Forest Products/Herbs:
+
+- Obtaining license to export forest products
+- Markings to be affixed to export forest products
+- Obtaining license to collect, sell and distribute of herbs
+- Obtaining permit to sale and distribute other forest products
+
+Exporting Edible Products:
+
+- Labelling on container of packed food
+- Mandatory labelling requirement on edible items
+- Criteria to be followed while labelling edible items
+- Writing edible item's name on packages
+- Getting approval for labels of edible items
+- Mentioning edible items that could cause allergy
+- Mentioning the weight or volume of food products
+- Mentioning lot number and batch number in packaged food items container label
+- Mentioning manufacturing date of food items and expiry date
+- Mentioning the directions of using food items
+- Language on food item labels
+- Mentioning name and address of the manufacturer or the sub manufacturer
+- Indicating if food items are Vegetarian and non-vegetarian
+
+## Trade status
+
+```{r source-trade-data-cleaning}
+source("./scripts/trade_status.R")
+```
+
+```{r countrywise-trade-balance}
+## Countrywise trade balance
+ls(pattern = "balance_country")
+balance_2017_19 <- reduce(list(ft_2017_balance_country %>% mutate(year = 2017), 
+                               ft_2018_balance_country %>% mutate(year = 2018), 
+                               ft_2019_balance_country %>% 
+                                 magrittr::set_colnames(c("SN", "Partner Countries", "Imports", "Exports", "Trade Balance")) %>% 
+                                 mutate(year = 2019)), 
+                          bind_rows)
+
+## Annual trade balance comparison
+ls(pattern = "quantity_comparison")
+reduce(list(ft_2017_quantity_comparison %>% 
+              magrittr::set_colnames(c("SN", "Trade Indicators", "FY 2073/74 (2016/17)", "FY 2072/73 (2015/16)", "Change (%)")) %>% 
+              select(-4, -5), 
+            ft_2018_quantity_comparison %>% 
+              select(-4, -5), 
+            ft_2019_quantity_comparison %>% 
+              magrittr::set_colnames(c("SN", "Trade Indicators", "FY 2075/76 (2018/19)", "FY 2074/75 (2017/18)", "Change (%)")) %>% 
+              select(-4, -5)), 
+       left_join, by = c("Trade Indicators", "SN")) %>% 
+  pivot_longer(cols = 3:5, names_to = "fiscal_year", "value") %>% 
+  filter(`Trade Indicators` %in% c("Imports (NPR.`000)", "Exports (NPR.`000)")) %>% 
+  ggplot(aes(x = `Trade Indicators`, y = value)) +
+  geom_col(aes(fill = fiscal_year), position = position_dodge2()) +
+  scale_y_continuous(labels = scales::label_comma(), breaks = scales::breaks_extended(n = 10)) +
+  scale_fill_discrete(name = "Fiscal year") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 0))
+```

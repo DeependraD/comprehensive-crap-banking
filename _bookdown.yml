@@ -1,0 +1,18 @@
+book_filename: comprehensive_crap_banking
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+# dput(list.files(".", pattern = ".*-(body)_.*"))
+rmd_files:
+  html: []
+  latex: ["index.Rmd",
+  "01-introduction-bank-background-history-types-status-problems.Rmd",
+  "02-banking-and-financial-institutions-act.Rmd",
+  "03-nrb-act.Rmd",
+  "04-trade-agriculture-trade-status-facilitation.Rmd",
+  "05-financing-in-agriculture.Rmd",
+  "05-status-of-financial-sector.Rmd"
+  ]
+  epub: []
+

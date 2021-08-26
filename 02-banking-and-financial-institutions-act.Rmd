@@ -1,0 +1,350 @@
+# Bank and Financial Institution Act, 2073 (2017)
+
+Date of authentication: 2073/01/10 BS (April 23, 2017 AD)
+
+Chapter-1
+
+Preliminary
+
+Short Title, Extension and Commencement
+
+- This Act may be called as "Banks and Financial Institutions Act, 2073 (2017)."
+- This Act shall extend to the whole territory of the state of Nepal and also enforce to a branch or liaison office opened outside of Nepal by a bank and financial institution incorporated in Nepal.
+- This Act shall come into force at once.
+
+Definitions: In this Act, unless the subject or the context otherwise requires,
+
+- "Court" means a Commercial Bench of the Court designated by the Government of Nepal with the approval of the Supreme Court by a notification published in the Nepal Gazette.
+- "Chairperson" means and includes the Chairperson of the Board of Directors and
+the Executive Chairperson.
+- "License" means a license issued by the Rastra Bank in the name of a bank or financial institution to carry out banking and financial transactions, pursuant to this Act.
+- "Licensed transaction" means banking and financial transactions to be carried out by a bank or financial institution by obtaining a license under this Act.
+- "Licensed Institution" means a bank or financial institution which has obtained a license pursuant to this Act for carrying out banking or financial transaction.
+- "Significant Ownership" means a situation where any person has, solely or jointly in association with any other individual or institution, subscribed two percent or more shares of a bank or financial institution and due to share ownership one may have influence on the management of the bank or financial institution.
+- "Borrower" means an individual, a firm, company or institution obtained credit from bank or financial institution.
+- "Credit" means, and includes any amount lent by a bank or financial institution to any individual, firm, company, institution or other business enterprise subject to the repayment of there on principal, interest or other charge within the certain time limit, direct or indirect gurantee, interest or other charge of the credit, re-finance, restructuring and renewal of the credit, guarantee given and other commitment made for the repayment of such credit and also any type of credit as specified by the Rastra Bank by publishing a public notice.
+- "Chief Executive" means, and includes the Chief Executive Officer having responsibility of operating a bank or financial institution and also the Executive Chairperson and Managing Director acting as the Chief Executive.
+- "Office" means, the registered and central office of a bank or financial institution and also includes any branch office of a bank or financial institution located within Nepal and outside Nepal and a branch office of a foreign bank or financial institution located in Nepal.
+- "Net worth" means any amount that remains after deducting the external liabilities from the grand total of the assets to be maintained in the balance-sheet of a bank or financial institution.
+- "Non-executive Director" means a Director excluding the Executive Director performing daily business of a bank or financial institution.
+- "Current account" means an account of funds deposited with a bank or financial institution by a costumer that may be withdrawn at any time on demand.
+- "Paid-up Capital" means the portion of the capital paid up on behalf of shareholders out of the issued capital of a bank or financial institution.
+- "Risk-weight asset" means the total assets calculated by multiplying the amounts coming under each heading of on-balance sheet and off-balance sheet operations of a bank or financial institution by the risk-weight in the format as prescribed by the Rastra Bank.
+- "Liquid assets" means the cash balance of a bank or financial institution, the balance remained in the current account, the balance maintained in the Rastra Bank and such assets of a bank or financial institution specified as liquid assets by the Rastra Bank from time to time.
+- "Prescribed" or "as prescribed" means prescribed or as prescribed in the Rules or
+Byelaws framed under this Act.
+- "Securities" means and includes a share, stock, bond, debenture, debenture stock or a mutual investment scheme certificate issued by a bank, financial institution or corporate body or a certificate, saving bond or bond issued by the Government of Nepal or by a corporate body against the guarantee of the Government of Nepal, and also other stock specified by the Securities Board as the stock to be transacted or transferrable through the stock market to sell or exchange such stock.
+- "Articles of Association" means the Articles of Association of a bank or financial
+institution framed pursuant to the prevailing laws relating to companies.
+- "Deposits" means and includes amounts deposited in current, savings or fixed accounts of a bank or financial institution through costumers with or without accruing interests and also such amounts which a bank or financial institution accepts through different financial instruments as specified by the Rastra Bank from time to time.
+- "Deposit Guarantee" means the act of security of deposit and guarantee of such deposit pursuant to Section 108.
+- "Office bearer" means a Director, Chief Executive, Company Secretary and an officer level employee of a bank or financial institution who is authorized to make a decision on any matter.
+- "Family" means a Director's husband or wife, son, daughter-in-law, daughter, adopted sun, adopted daughter, father, mother, stepmother and also the elder brother, elder sister-in-law, younger brother, younger sister-in-law, elder sister and younger sister of the Director, who are dependent on him or her: Provided that the term does not include members of the family being separated after the partition of the family property and carrying out his/her profession or business on his/her own.
+- "Capital" means the authorized capital, issued capital and paid up capital of a bank or financial institution.
+- "Capital Fund" means and includes the total sum of primary capital and supplementary capital of a bank or financial institution as specified by the Rastra Bank and also any other fund or amount as specified by the Rastra Bank from time to time.
+- "Infrastructure Development Bank" means the Infrastructure Development Bank incorporated to carry out financial transactions as referred to in sub-section (5) of section 49.
+- "Letter of credit" means a letter written by one bank or financial institution in the name of any other bank or financial institution authorizing the latter thereon to accept cheques, drafts, or bills of exchange of any specified person within the limit of the amount specified therein.
+- "Memorandum of Association" means the Memorandum of Association of a bank or financial institution framed pursuant to the prevailing companies' law. 
+- "Primary Capital" means and includes the funds of a bank or financial institution listed under such headings as the paid-up capital, share premium, non-redeemable preference shares, general reserve fund and accumulated profit and loss, and also such other funds listed under other headings as may be prescribed as primary capital by the Rastra Bank from time to time.
+- "Acquiring Institution" means the holding bank or financial institution acquiring an institution licensed pursuant to this Act.
+- "Acquisition" means the act of acquisition by a licensed institution to another licensed institution having settled the accounts of entire assets and potential liabilities by winding up the legal capacity of such institution and also the act of accepting all contractual liabilities by the acquiring bank or financial institution created by the targeted institution before its merger.
+- "Savings Account" means accounts containing details of the amounts deposited by any customer for savings in a bank or financial institution.
+- "Bank" means and includes corporate body incorporated to carry out banking and financial transactions as referred to in Sub-Section (1) of Section 49 and a branch office of a foreign bank located in Nepal, a branch office opened outside of Nepal by a bank incorporated in Nepal and an Infrastructure Development Bank to performing the functions as referred to the Section 49 and a branch office of the same bank.
+- "Banking and financial transaction" means the banking and financial transaction as referred in Section 49.
+- "Bonus share" means and includes share issued as an additional share to shareholders, by capitalizing the saving earned from the profits or the reserve fund of a bank or financial institution, and the increase of the paid up amount of a share by capitalizing the saving or other fund.
+- "Fixed Account" means a periodic account of funds deposited with a bank or financial institution for a specified term , during which normally the deposited amount cannot be withdrawn.
+- "Rastra Bank Act" means the Nepal Rastra Bank Act, 2058 (2002).
+- "Rastra Bank" means the Nepal Rastra Bank.
+- "Targeted Institution" means a bank or financial institution to be merged in an acquiring institution pursuant to this Act with entire assets and liabilities.
+- "Audit Committee" means the Audit Committee as referred to in section 60.
+- "Dividend" means cash dividend, interim dividend or bonus share to be given by a bank or financial institution according to this Act and the prevailing laws.
+- "Liquidator" means and includes a person appointed for carrying out the functions of liquidation of bank or financial institution according to an order of a court or a resolution adopted by a meeting of the creditors and as well as an office carrying out the function of a liquidator.
+- "Leasing" means an act of acquiring only the possessory right of a movable or immovable asset for a specified period of time by retaining the ownership thereof with the bank or financial institution in consideration of which a lessee is required to pay the rent within the schedule as per the agreement.
+- "Off-balance-sheet transaction" means and includes letters of credit, letters of guarantee, letters of acceptance, commitments, swaps, options and transaction in advance concerning foreign exchange having, the potential of bearing liabilities by a bank or financial institution and also transactions of the instruments as specified by the Rastra Bank, from time to time.
+- "Financial institution" means and includes a corporate body incorporated to carry out banking and financial transactions as referred to in to sub-sections (2), (3) or (4) of Section 49 and a branch office of a development bank, finance company, micro finance institution or a branch office of a foreign financial institution located in Nepal and also a branch office opened abroad by a financial institution incorporated in Nepal.
+- "Financial interests" means a situation where any Director, shareholder subscribing one percent or more shares or the Chief Executive or a family member of such a person or the individual, company, or corporate body having the authority to appoint a Director subscribes ten percent or more shares of a firm, company or corporate body separately or jointly, such a person or persons are deemed to have financial interests in the institution having ten percent or more shares, and also include the interests which the Rastra Bank specifies as having financial interests depending upon the nature and circumstance of a financial transaction.
+- "Branch of a foreign bank or financial institution" means a branch of any bank or
+financial institution having obtained a license from the Rastra Bank in accordance
+with this Act to carry out banking and financial transactions having opened a branch
+office in Nepal.
+- "Electronic transaction" means and includes the business of accepting deposits, making payments and transferring funds through telephone, telex, computers or magnetic tapes or other electronic equipment of a similar nature and transactions to be carried out through terminal, automated teller machines and cash dispensing machines, as well as those to be carried out through charge cards, debit or credit cards.
+- "Prospectus" means the prospectus to be published by a bank or financial institution pursuant to Section 8.
+- "Branch Office" means any branch, sub-branch, unit, area, and representative or liaison office of a bank or financial institution within and outside Nepal and any office including a branch or representative office or liaison office or any other office of a foreign bank or financial institution in Nepal.
+- "Share" means the divided portion of the share capital of a bank or financial institution.
+- "Shareholder" means a person having ownership in a share of a bank or financial institution.
+- "Director" means and includes a member of the Board of Directors and also the Chairperson of the Board of Directors as well as an Alternate Director. 
+- "Board of Directors" means the Board of Directors constituted pursuant Section 14.
+- "Promoter" means a person who, having undertaken to subscribe at least one share, signs the Articles of Association and the Memorandum of Association in the capacity of a Promoter for the incorporation of a bank or financial institution pursuant to this Act.
+- "Affiliated person" means a Director, office bearer of a bank or financial institution or his/her family member or any firm, company or institution having substantial ownership of such a person or any person, firm, company or institution having substantial ownership in such a firm, company or institution or also a beneficial owner with substantial ownership thereof.
+- "Independent Director" means the person appointed to the position of Independent Director pursuant to Sub-Section (3) of Section 14.
+- "Voluntary Liquidation" means a situation in which a bank or financial institution initiates voluntary liquidation pursuant to Chapter 11.
+- "Creditor" means and includes a person or a body corporate to whom/which a bank or financial institution has to pay and also a depositor and debenture-holder for the purpose of liquidation process.
+- "Hypothecation Loan" means a loan disbursed having entered into an agreement between a bank or financial institution and a Borrower against the collateral security of the stock having retained such stock under possession of the borrower concerned.
+
+Chapter-1
+
+Provisions Relating to Incorporation of a Bank or a Financial Institution
+
+3. Incorporation of Banks or Financial Institutions:
+
+(1) Any person, wishing to incorporate a bank or financial institution to carry out financial transactions according to this Act shall incorporate it by getting such a bank or financial institution registered as a public limited company in accordance with the prevailing laws: Provided that banks or financial institutions which are in operation at the commencement of this Act do not require to be incorporated pursuant to this sub-Section.
+(2) An official authorized in accordance with the prevailing laws in force to register a company pursuant to Sub-Section (1) shall register the company subject to Section 4.
+
+4. Prior-approval to be Obtained to Incorporate Banks or Financial Institutions: 
+
+(1) A person or an institution desires to incorporate a bank or financial institution for the purpose of Section 3 shall, while making an application for getting such a bank or a financial institution registered according to the prevailing laws, make an application to the Rastra Bank along with the prescribed fee for obtaining prior approval having enclosed therewith the following documents:
+
+(a) Memorandum of Association of the proposed bank or financial institution,
+(b) Articles of Association of the proposed bank or financial institution,
+(c) Feasibility study report of the proposed bank or financial institution,
+(d) Personal details of the applicant in the form as prescribed by the Rastra Bank,
+(e) A certified copy of the agreement, if any, concluded between the applicants prior to incorporation of the bank or financial institution in relation to incorporation of the bank or financial institution,
+(f) Evidence of the statement disclosing the sources of incomes and of tax clearance by the applicants up to the fiscal year immediately preceding the making of the application pursuant to this Section,
+(g) Details as to whether or not the applicant of the proposed bank or financial institution has become a bankrupt in Nepal or abroad, whether or not he/she has borrowed any loan from any bank or financial institution, whether or not the person has been blacklisted in any transaction with a bank or financial institution, if so, whether or not a period of three years has lapsed after having such a blacklisting,
+(h) Self-declaration of the applicant stating that no action has been taken against and no punishment has been imposed on the applicant in Nepal or abroad for being involved in cheating, fraud or any criminal offence deemed to be as such as per the prevailing laws,
+(i) Details as to whether or not any action has been taken against the applicant in Nepal or abroad by any regulatory or oversight authority or whether or not a license of the company or bank or financial institution in which he/she is associated with has been suspended, revoked or subjected to compulsory liquidation or is in the course of being so,
+(j) Details as to the names, surnames, addresses and relationship of the family members of the applicant; substantial ownership and capacity of each of them and if any of them is a Director, official or employee in any institution, details as to the title of the post each of them holds: Provided that in cases where a body, applicant is a corporate, details as to the person having substantial ownership or position in that body corporate body, the audited financial statements of the last three years as well as the tax clearance certificate of that corporate body shall also be enclosed.
+(k) Written authority given to the Rastra Bank to allow it to conduct or to cause to conduct an inquiry as to the financial and professional background of the applicant and to share such notice and information,
+(l) An undertaking that the deposits to the limits as prescribed by the Rastra Bank will be guaranteed,
+(m) Other details or documents as specified by the Rastra Bank from time to time.
+
+(2) The Rastra Bank may, if it finds appropriate to grant approval upon the examination of the application submitted for prior approval pursuant to Sub-Section (1) and enclosed documents, grant its approval to incorporate such a bank or financial institution within one hundred twenty days after filing of the application, with or without prescribing any conditions.
+(3) Notwithstanding anything contained in Sub-Section (2), no prior approval shall be given to incorporate a bank or financial institution to the following persons and the firms or companies having substantial ownership of such persons and of the members of their family if they had been:
+
+(a) Being investigated in regulatory actions of the Rastra Bank,
+(b) Convicted of any banking offence,
+(d) Convicted of cheating, fraud, forgery,
+(e) Convicted of any offence of money laundering and terrorist financing activities,
+(f) Convicted of any the offence of corruption,
+(g) Convicted of any serious types of offences such as trafficking-in-person, kidnapping,
+(h) Hostage, taking and rape.
+
+5. Prior Approval to be Obtained for Incorporation of Bank or Financial Institution in Foreign Investment: 
+
+(1) A foreign bank or financial institution shall, for the purpose of obtaining prior approval to incorporate a bank or financial institution as a subsidiary company in accordance with this Act in joint venture with a corporate body registered in Nepal or with a Nepali citizen or to maintain the share capital as specified by the Rastra Bank, shall submit in addition to the documents set forth in Sub-Section (1) of Section 4 the following documents and details along with the fee specified by the Rastra Bank:
+(a) The Memorandum of Association, Articles of Association of the foreign bank or financial institution and a copy of the certificate of incorporation of the bank or financial institution in the country concerned and capital structure thereof,
+(b) A copy of the license of the foreign bank or financial institution obtained from the country concerned for carrying out banking and financial transactions,
+(c) Details as to the principal place of business,
+(d) A certified copy of the audited balance-sheet and profit and loss account of the last three years of the foreign bank or financial institution,
+(e) Details as to the proposed business plan in Nepal, business strategies and types of transaction to be carried out, internal control, and risk management,
+(f) Decision made by the foreign bank or financial institution as per the prevailing laws of the country concerned to open bank or financial institution in Nepal and the authority granted by the regulatory body of the country concerned.
+
+(2) The Rastra Bank may, if it deems appropriate to grant approval upon examination of the application submitted for prior approval pursuant to Sub-Section (1) and enclosed documents, grant its approval to a foreign bank or financial institution for incorporation of the bank or financial institution in joint venture or within the prescribed share limit within one hundred twenty days after making of an application, with or without prescribing any conditions.
+(3) A foreign bank or financial institution may, with approval from the Rastra Bank, take share ownership of a local bank or financial institution having been in operation, as a joint venture by completing the procedures as prescribed by the Rastra Bank.
+(4) Notwithstanding anything contained elsewhere in this Act, investment made by any foreign bank or financial institution or other foreign institution by getting approval pursuant to the prevailing laws before the commencement of this Act shall be deemed to have been continued.
+
+6. Approval to be Obtained to Open Branch Office of Bank or Financial Institution:
+
+(1) If any internationally rated foreign bank or financial institution wishes to open a branch office to carry out banking and financial transactions or non-banking financial transactions within Nepal, prior approval of the Rastra Bank shall be obtained before opening such a branch office.
+(2) For the purpose of Sub-Section (1), an application shall be made to the Rastra Bank along with the capital and fees as prescribed by the Rastra Bank.
+(3) While making an application pursuant to Sub-Section (2), such a foreign bank or financial institution shall submit the following details and documents in addition to the details and documents as referred to in Sub-Section (1) of Section 5:
+(a) Written commitment made by the Board of Directors that it will make available on demand of the Rastra Bank the amount necessary for fulfilling its entire liabilities with regard to the business activities of its branch or representative or liaison office of the foreign bank or financial institution concerned in Nepal,
+(b) Details as to the location of the proposed branch office of the foreign bank or financial institution,
+(c) Details as to the possible office bearers in the proposed branch office of the foreign bank or financial institution.
+
+(4) The Rastra Bank may, if it deems necessary to demand further documents or details while carrying out inquiry into the documents or details submitted pursuant to Sub-Section (3), demand the required documents or details from the concerned applicants.
+(5) The Rastra Bank may, if it deems appropriate to grant prior approval while carrying out inquiry into additional documents submitted pursuant to Sub-Section (3) and of the documents asked for submission pursuant to Sub-Section (4), grant approval to open a branch office in Nepal within one hundred twenty days after filing of the application, with or without prescribing any conditions.
+(6) The foreign bank or financial institution, after obtaining prior approval as referred to in Sub-Section (5), shall register a branch office according to the prevailing companies laws.
+(7) The branch office of a foreign bank or financial institution registered pursuant to Sub-Section (6) shall make an application to the Rastra Bank along with the following documents and details as well as the charge or fee as prescribed by the Rastra Bank for approval to carry out banking and financial transactions in Nepal:
+
+(a) Registration certificate registered according to the prevailing laws to carry out baking and financial transactions in Nepal as a branch office,
+(c) Letter of approval or consent granted by the Government or Central Bank or regulating agency according to the law of the country concerned of the foreign bank or financial institution to open a branch office of such bank or financial institution in Nepal,
+(d) Details of the discrepancy, if any, in any matter to be completed by the foreign bank or financial institution concerned according to this Act after the submission of the application before the Rastra Bank for the establishment of a branch office of the foreign bank or financial institution or after obtaining approval from the Rastra Bank,
+(e) Other information and details as may be demanded by the Rastra Bank.
+
+(8) The Rastra Bank may, if it deems appropriate upon carrying out inquiry into the application received pursuant to Sub-Section (7), grant approval to such a branch office of a foreign bank or financial institution for carrying out banking and financial transactions in Nepal, within ninety days from the date of filing the application.
+(9) The Rastra Bank may, while granting approval pursuant to Sub-Section (8), prescribe the necessary terms and conditions.
+(10) A bank or financial institution may open a branch office outside Nepal by obtaining approval from the Rastra Bank.
+(11) The Rastra Bank may, from time to time, make policies as may be required with regard for opening branch office outside of Nepal pursuant to Sub-Section (10).
+
+7. Power to Refuse to Grant Prior Approval: (1) The Rastra Bank may refuse to grant prior approval for the incorporation of any bank or financial institution and for opening a branch office of the foreign bank or financial institution in any of the following circumstances:
+(a) If the name of or banking and financial transaction to be carried out by, the proposed bank or financial institution is not found to be appropriate from the point of view of public interest, religions, ethnicities or communities etc.,
+(c) If the objectives of the proposed bank or financial institution are contrary to the laws in force,
+(d) If incorporation of the proposed bank or financial institution does not seem to be technically appropriate,
+(e) If a study of the feasibility study report, details and documents and other infrastructures submitted by the proposed bank or financial institution does not provide a ground to believe that it may carry out financial transactions in a healthy and competitive manner,
+(f) If all promoters of the proposed bank or financial institution have not signed the Memorandum of Association and Articles of Association, stating their names, addresses and number of shares subscribed by them, in the presence of a witness and the name and address of the witnesses have not been mentioned,
+(g) If per person share investment limit and share ownership ratio has not been found to have been maintained as specified by the Rastra Bank from time to time,
+(h) If it is found to be contrary to the policy relating to incorporation of banks or financial institutions and licensing policy issued by the Rastra Bank,
+(i) If any condition as prescribed by the Rastra Bank has not been found to be fulfilled.
+(2) If the Rastra Bank refuses to grant prior approval to the proposed bank or financial institution for any of the reasons as referred to in Sub-Section (1), information shall be given to the applicant stating the reasons thereof.
+
+Chapter-3
+
+Provisions Relating to Transactions of Securities
+
+8. Prospectus
+9. Allotment of Shares
+10. Transactions of Securities
+11. Provisions Relating to the Sale of Shares or Pledging of Securities
+12. Prohibition on Transaction of Securities
+13. Prohibition on buy back by Bank or Financial Institutions of its' Own Shares.
+
+Chapter-4
+
+Provisions Relating to Board of Directors and Chief Executive
+
+14. Constitution of Board of Directors
+15. Term of Office of the Directors
+16. Qualifications of Director
+17. Qualifications of Independent Director
+18. Disqualification of Directors
+19. Ineligibility to Remain in Office of Director
+20. Provision Regarding a Person Holding Constitutional Position
+21. Meetings of Board of Directors
+22. Functions, Duties and Powers of Board of Directors
+23. Responsibility and Accountability of Director
+24. Details of Directors to be Collected
+25. Information of Director and Record
+26. Power to Constitute Sub-Committees
+27. Delegation of Power
+28. Allowances and Facilities of Director
+29. Appointment of Chief Executive and Terms and Conditions of Service
+30. Functions, Duties and Powers of Chief Executive
+
+Chapter-5
+Provisions Relating to Licenses
+
+31. Prohibition on carrying out Banking or Financial Transactions by anyone other than Banks or Financial Institutions
+32. Use of Name of Banks or Financial Institutions
+33. Application to be Made to Obtain a License for Carrying on Banking and Financial Transactions
+34. License may be granted for carrying out Banking and Financial Transactions
+35. Power to Refuse to Grant a License
+36. Power to Rastra Bank to Specify Conditions
+37. Classification of Bank or Financial Institutions
+38. Possibility of Being Converted into Higher Class of Bank or Financial Institution
+39. List to be Published
+40. Special Provisions Relating to Branches of Foreign Banks
+
+Chapter-6
+Provisions Relating to Capital, Capital Fund and Liquid Assets
+
+41. Capital to be Maintained
+42. Capital Fund
+43. Provisions Concerning Possible Loss
+44. General Reserve Fund
+45. Exchange Equalization Fund
+46. Liquid Assets to be Maintained
+47. Declaration and Distribution of Dividends
+48. Power to Issue Order to Decrease Capital
+
+Chapter-7
+Provisions Relating to Operation of Banking and Financial Transactions
+
+49. Powers of Banks or Financial Institutions to Carry out Banking and Financial Transactions
+50. Acts not Allowed to be carried out by Banks or Financial Institutions
+51. Provisions concerning Subsidiary Company
+52. Prohibition on carrying out transactions with relevant persons
+53. Information of Suspicious Transaction to be furnished
+54. Rastra Bank to issue Directives
+
+Chapter-8
+Provisions Relating to Disbursement and Recovery of Credits
+
+55. Provisions Relating to Disbursement of Credits
+56. Monitoring as to Utilization of Credit Amount
+57. Provisions on Recovery of Credit
+
+Chapter-9
+Provisions on Accounts, Records, Details and Reporting
+
+58. Accounts to be Maintained Accurately
+59. Balance-sheet, Profit and Loss Accounts to be Prepared
+60. Audit Committee
+61. Functions, Duties and Powers of the Audit Committee
+62. Auditing
+63. Appointment and Remuneration of Auditor
+64. Ineligibility for Appointment as Auditor
+65. Details to be Furnished
+66. Functions, Duties and Powers of Auditor
+67. Recommendation for taking actions against Auditor
+
+Chapter-10
+Provisions Relating to Merger or Acquisition of Banks or Financial Institutions
+
+69. Banks or Financial Institutions may be Merged or Acquisitioned
+70. Application to be submitted for Merger or Acquisition
+71. Provisions Concerning Valuation of Assets and Liabilities
+72. Provisions Relating Agreement
+73. Provisions Relating to Approval
+74. Transactions may be Acquired
+
+Chapter-11
+Voluntary Liquidation of Banks or Financial Institutions
+
+75. Voluntary Liquidation of Bank or Financial Institution
+76. Initiation of Voluntary Liquidation
+77. No Effect in Liability
+
+Chapter-12
+Provisions Relating to Mandatory Liquidation of Bank or Financial Institutions
+
+78. Application may be filed before the Court for Mandatory Liquidation of Banks or Financial Institutions
+79. Circumstances leading to Mandatory Liquidation of Bank or Financial Institutions
+80. Transaction to be Suspended
+81. Appointment of Liquidator
+82. Functions, Duties and Powers of Liquidator
+83. Effects of Order Relating to Liquidation
+84. Records of Assets and Liabilities
+85. Power to terminate Transactions
+86. Notice to submit claims
+87. Power of Liquidator to Accept or Reject Claims
+88. Classification of Claims
+89. Meeting of Creditors
+90. Liquidation Plan
+91. Advance Payment may be made to Depositors Immediately
+92. Power to Sell Assets
+93. Notice of Settlement of Claims
+94. Order of Priority of Payment
+95. Unclaimed Goods or Amount
+96. Decision of Liquidation
+97. Mandatory Liquidation of Bank or Financial Institution Carrying on Transactions in More than One Country
+98. No claim to be entertained
+
+Chapter-13
+Provisions Regarding Actions, Offences and Punishment
+
+99. Power to Take Regulatory Actions
+100. Power to impose fines
+101. Procedures of Actions
+102. Control Over Licensee Institutions
+103. Offences
+104. Punishment
+105. Appeal
+106. No Difficulty in Imposing Punishment
+
+Chapter-14
+Miscellaneous
+
+107. Special Provisions Relating to Infrastructure Development Bank
+108. Security of Deposits to be made
+109. Banking Secrecy to be Maintained
+110. Power to Give Directive to Freeze Accounts
+111. Right to Make Claims Over the Deposits
+112. Statement of Unclaimed Deposits
+113. Recovery from or confiscation of deposits
+114. Recovery from Director
+115. Prohibition of Making Claims
+116. Government of Nepal to be Plaintiff
+117. Provisions Relating to Transparency
+118. Provisions Relating to Protection of Customers' Interests
+119. Exemption and facilities
+120. Expenditure Management
+121. Statement of Assets to be Submitted
+122. Credit, Liabilities and Titles against the Collateral of Credit may be purchased or sold
+123. Settlement of Disputes
+124. Not to be liable for acts done in good faith
+125. Actions Taken not to be Invalid
+126. Study Committee and Sub-committee may be formed
+127. Taking Oath of Office
+128. Amendment of Memorandum of Association and Articles of Association
+129. This Act to Prevail
+130. Power to Remove Difficulties
+131. Power to issue Order or Direction
+132. Power to frame Rules, Bylaws
+133. Power to Frame Byelaws and Working Procedures
+134. Repeal and Saving
+
+
+
+
+
