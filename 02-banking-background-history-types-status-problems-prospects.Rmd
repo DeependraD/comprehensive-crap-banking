@@ -1,0 +1,43 @@
+# Background and history of banks, its types, status, problems and prospects
+
+## Meaning and definition of bank
+
+A bank is an institution that accepts various types of deposits and then advances money in form of loans to people requiring it. 
+
+## History of bank and banking
+
+(Refer to Section \ref{status-and-history}, Chapter \ref{bank-and-financial-institutions-adbl-their-status-operation-and-rural-financing-system} for a rich discourse on history of financial institution in general and banks in particular. This section also offers brief history of banking regulation and deregulation.)
+
+## Types of bank
+
+## Functions of bank
+
+(Refer to Chapter \ref{bank-and-financial-institutions-adbl-their-status-operation-and-rural-financing-system})
+
+## Status of bank and financial instiutions
+
+(Refer to Chapter \ref{bank-and-financial-institutions-adbl-their-status-operation-and-rural-financing-system})
+
+## Nepal Rastra Bank
+
+Established in 1956, the NRB is the country's central bank and is responsible for ensuring monetary and financial stability in coordination with the MoF. A committee chaired by the Minister of Finance recommends the appointment of the governor of the central bank. NRB's main functions include issuing currency, formulating and implementing appropriate monetary policy, formulating and implementing a foreign exchange policy and determining a foreign exchange system, managing a foreign exchange reserve, issuing banking licenses, regulating commercial banks and financial institutions and serving as their banker, functioning as a banker, advisor and financial agent of the government, and establishing, promoting and regulating the system of payment, clearing and settlement.
+
+## In addition
+
+### Comprehensive Guide (Contemporary and GA)
+
+- For discussion on:
+  - Budget
+  - Budget planning and implementation
+  - Budget types and importance
+- For brief notes on following topics under Public finance and regulatory bodies:
+  - Public auditing
+  - Financial comptroller general's office
+  - Revenue administration (Inland revenue department)
+- For a discussion of following topics
+  - Taxation
+  - Inventory management
+  - Public expenditure and financial accountability (PEFA)
+  - Accounting system (Double entry system of book-keeping)
+  - Public sector accounting standards
+  - Standards for preparation of financial statement
