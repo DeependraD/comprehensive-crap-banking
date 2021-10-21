@@ -199,7 +199,7 @@ read_csv("./data/bank_rate_refinancing_rate_compulsory_reserve_ratio.csv", skip 
 
 (Refer to Comprehensive Guide (Contemporary and GA) for a summary discussion of the topic.)
 
-## Agricultrue Development Bank Limited
+## Agriculture Development Bank Limited
 
 ### Establishment, vision, mission
 

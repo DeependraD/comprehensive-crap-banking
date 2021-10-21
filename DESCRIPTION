@@ -4,4 +4,4 @@ Title: Comprehensive Crap Guide (Banking)
 Version: 0.0.1
 Imports: 
     bookdown (>= 0.20)
-Remotes: deependrad/comprehensive_crap_banking
+Remotes: deependrad/comprehensive-crap-banking
