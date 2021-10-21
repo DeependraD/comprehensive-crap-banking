@@ -1,4 +1,4 @@
-book_filename: comprehensive_crap_banking
+book_filename: comprehensive-crap-banking
 delete_merged_file: true
 language:
   ui:
@@ -7,12 +7,15 @@ language:
 rmd_files:
   html: []
   latex: ["index.Rmd",
-  "01-introduction-bank-background-history-types-status-problems.Rmd",
-  "02-banking-and-financial-institutions-act.Rmd",
-  "03-nrb-act.Rmd",
-  "04-trade-agriculture-trade-status-facilitation.Rmd",
-  "05-financing-in-agriculture.Rmd",
-  "05-status-of-financial-sector.Rmd"
+  "01-banking-legislation-acts-regulations-guidelines-directives.Rmd",
+  "02-banking-background-history-types-status-problems-prospects.Rmd",
+  "03-banking-services.Rmd",
+  "04-management-and-information-technology.Rmd",
+  "05-economics-fiscal-monetary-policy.Rmd",
+  "06-bfis-adbl-status-operation-rural-finance.Rmd",
+  "07-agriculture-credit-financing-schemes-digitization.Rmd",
+  "08-agriculture-supply-chain-projects-business-economics-market.Rmd",
+  "09-agriculture-commercialization-export-import-status-facilitation.Rmd"
   ]
   epub: []
 

@@ -1,0 +1,69 @@
+# Banking services
+
+Traditionally banking services/banking products have been deposits (saving account, current account and term saving account) and credit (cash credit and term loans).
+
+Banks accept deposit at specified rates, fixed by the Central Bank, and lend amount that arrived by the formula, also prescribed by the Central Bank. Prime lending rate (PLR) was the benchmark for interest on the lending products. But PLR itself was mostly dictated by the Central Bank.
+
+Remittances products were limited to demand drafts, telegraphic transfers, bankers cheque and internal transfer of funds.
+
+As part of economic reforms that began around 1990s, banking industry is now subject to less stringent control and has been made more competitive. New players have been added to the competition. The IT revolution has made it possible to provide ease and flexibility in operations to customers. A surge in use of internet based services have prompted both individuals and corporate to demand better services with more products. As a consequence, bank's financial market has turned into a buyer's market.
+
+Banks are also changing with time and are trying to become one-stop financial supermarkets. By offering multiple products for all kinds of customers, market focus is shifting from mass banking products to class banking with introduction of value added and customized products. Futuristic banking institutions are making use of new product distribution channels, as more and more banks are outsourcing services such as disbursement and servicing of consumer loans, credit card businesses.
+
+Home/individual banking has become common with a preference for products like cheque deposit and withdrawal, ATM card, debit card, credit card, mobile and internet banking. Various deposit and credit schemes are dispensed by banks over a number of in-person, mobile and internet channels such as saving and fixed deposits, and personal loans including consumer loans, housing loans and vehicle loans.
+
+Corporate are deriving great benefit from the increased variety of products and competition among banks too. Certificates of deposit, commercial papers, ?Non-Convertible Debentures (CDs) that can be traded in the secondary market are gaining popularity.
+
+## Deposit
+
+
+
+## Credit
+
+## Remittance
+
+## Transfer of money
+
+## Depository
+
+## Types of credit
+
+## Fund and non-fund transaction
+
+## Credit cycle
+
+## Features of modern day banking services
+
+### Any branch banking service (ABBS)
+
+### Mobile banking
+
+### Internet banking
+
+### SWIFT
+
+### Debit card
+
+### Credit card
+
+### ATM
+
+### PoS
+
+### QR code
+
+### Online account
+
+### Good for payment cheque
+
+### Manager's cheque
+
+### Locker
+
+### Financial literacy
+
+### Digital literacy
+
+### Kishan credit card
+
+## Opportunities and challenges of digital banking in Nepal

@@ -1,4 +1,6 @@
-# Bank and Financial Institution Act, 2073 (2017)
+# Banking legislation: Acts, regulations, guidelines and directives
+
+## Bank and Financial Institution Act, 2073 (2017)
 
 Date of authentication: 2073/01/10 BS (April 23, 2017 AD)
 
@@ -15,8 +17,7 @@ Short Title, Extension and Commencement
 Definitions: In this Act, unless the subject or the context otherwise requires,
 
 - "Court" means a Commercial Bench of the Court designated by the Government of Nepal with the approval of the Supreme Court by a notification published in the Nepal Gazette.
-- "Chairperson" means and includes the Chairperson of the Board of Directors and
-the Executive Chairperson.
+- "Chairperson" means and includes the Chairperson of the Board of Directors and the Executive Chairperson.
 - "License" means a license issued by the Rastra Bank in the name of a bank or financial institution to carry out banking and financial transactions, pursuant to this Act.
 - "Licensed transaction" means banking and financial transactions to be carried out by a bank or financial institution by obtaining a license under this Act.
 - "Licensed Institution" means a bank or financial institution which has obtained a license pursuant to this Act for carrying out banking or financial transaction.
@@ -344,7 +345,75 @@ Miscellaneous
 133. Power to Frame Byelaws and Working Procedures
 134. Repeal and Saving
 
+## Nepal Rastra Bank Act, 2058 (2002)
 
+### Major features of the amended NRB Act
 
+- Preamble has been arranged with an emphasis on maintaining price and balance of payments stability, and overall financial sector stability supporting sustainable development.
+- Audit Committee will be established comprising one Board member nominated by the Board as the Coordinator, one expert of this discipline nominated by the Board as a Member and Chief of the Internal Audit Department of NRB as Member Secretary.
+- The NRB paid-up capital has been increased to five billion rupees from one billion rupees.
+- NRB may inspect and supervise payment service provider and payment system operator licensed by it.
+- Governor of NRB cannot be appointed in any designation of the BFIs after retirement.
+- Deputy Governer and Executive Director cannot be appointed in any designation of BFIs for three years and other officers for two years after retirement. Even after this period, they should obtain prior approval from NRB for engaging in any such designation.
+- Profit and loss statement shall be prepared by using Nepal Accounting Standards. Anything not expressly addressed by Nepal Accounting Standards shall be covered in accordance with the International Accounting Standards.
+- Provision for fund management has been included which requires allocation of amounts to different funds.
+- The provision of open market operation for maintaining liquidity has been reformulated in the Act. Besides repor and reverse repo, NRB could use other appropriate instruments and other measures for the purpose of OMO.
+- Under section 79, NRB can issue to BFIs directives on Anti-Money Laundering (AML) and Combating Financing of Terrorism (CFT) covering areas like identification of clients as well as the classification of client risks and their management, fund transfer, furnishing of details on border of suspicious transactions including deposits to the FIU.
+- The amendment has increased the power of NRB for remedial action in the resolution process of problem bank and financial institutions.
 
+- A separate Chapter has been provided for the resolution process.
+- Under this provision, Special Administration Group shall be formed for the settlement of the problem BFIs.
+- The group shall operate BFI except collecting deposit and providing loan.
+- There is also the provision of Bridge Institution or Unit for the operationalization of resolution of BFI.
+- During the resolution process, the rights of all the staff shall be suspended. Special Administration Group shall prepare new balance sheet and shall recommend for the improvement of financial status of BFIs.
+- All the actions and activities commenced prior to the resolution shall be suspended.
+- Special Administration Group could also request for, and obtain, mutual assistance from concerned institutions in foreign countries, if so required, to support resolution process, with the prior approval of the NRB.
 
+## Banking Offence and Punishment Act, 2064
+
+## Company act, 2063
+
+## Electronic transaction act, 2063
+
+## Money Laundering Prevention act, 2064
+
+(For a brief description of what is money laundering and what constitutes the offense for natural person or for business entity, refer to the topic "Money Laundering" on Comprehensive Guide (Contemporary and GA)).
+
+1. Reporting unit and reporting procedure -- Reporting units are those institutions which are assigned to report their financial transactions. It includes -- all the financial and non-financial firms, professional and businesses (e.g. B and FI, Casinos, Real estate).
+2. It defines money laundering terrorist financing offeses.
+3. Restriction to open account of a fictious person (imaginary person)
+4. Restriction to make anonymous transactions
+5. Restriction to operate shell banking (Shell banking -- carrying out banking operation by registering in registrar office but without physical existance)
+6. Provision of customer due diligence (CDD) -- All the B and FIs and other firms who carry otu the financial transaction must use Know Your Customer (KYC) to maintain customer due deligence (CDD).
+7. Monitoring and record keeping of cross broder corresponding banking. (Correspondence banking -- Performance of transaction by a bank of foreign country on behalf of home country based on correspondence)
+8. Institutional provision for the prevention of money laundering and terrorist financing (DLMI, FIU).
+9. Provision of seizure and confiscation of suspicious property and visa/travel documents of a suspicious person while investigating.
+10. Provision of punishment of ML and TF offenses as per natural person and legal person.
+11. Free/open time limitation for ML and TF case to case the file
+12. Provision of rewarding information providers upto 10 lakhs or 10% of the crime amount whichever is less.
+13. Provision relating punishment to false FIR providers as up to NRs 10000 in fines.
+14. Provision to prepare "National Risk Assessment Report" periodically.
+15. Provision of reporting of suspicious transaction to FIU promptly by reporting unit.
+
+### Achivements after formation of MLP act, 2064
+
+1. Establishment of reporting unit
+2. Increased use of KYC for CDD
+3. Need to disclose the source of income properly
+4. Restriction to operate shell banking
+5. Establishment and operation of FIU (Financial Information Unit)
+6. Establishment of DMLI (Department of Money Laundering Investigation)
+7. Support to control capital flight
+8. Compliance with other laws
+9. Suport promotion of financial good governance
+10. Control of ML and TF
+
+### Weaknesses of MLP act, 2064
+
+1. Lack of specialization in investigation
+2. The dilemma in functional jurisdiction
+3. Complex provision
+4. Open border
+5. Maximum use of Indian currency
+6. Problem in compliance with other legal provisions
+7. Political and crime nexus

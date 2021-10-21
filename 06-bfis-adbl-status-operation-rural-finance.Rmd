@@ -1,69 +1,35 @@
-## Financial System
+# Bank and financial institutions, ADBL; their status, operation and rural financing system
+
+## Financial institutions
 
 Financial sector refers to all the wholesale, retail, formal and informal institutions in an economy offering financial services to consumers, businesses and other financial institutions. In its broadest definition, it includes everything from banks, stock exchanges, and insurers, to credit unions, microfinance institutions and money lenders (DFID, 2004).
 
 **What does the financial system do and how could it promote economic growth?**^[The Finance and Growth Nexus" available at \url{www.philadelphiafed.org/files/br/brjf00ak.pdf}]
 
-To understand how the financial system might influence economic growth, we need to review the roles of the financial system in greater detail. First, the financial system mobilizes savings. Since an individual saver may be unable or unwilling to completely fund a borrower, financial markets and institutions pool the savings of diverse households and make these funds available for lending. This activity reduces the transaction costs associated with external finance for both firms and households. By going directly to a financial institution, firms seeking to borrow avoid the costs of having to contact a diverse group of savers. Similarly, savers avoid the costs of evaluating every potential borrower by placing their funds with a financial institution. Second, the financial system allocates savings by determining which borrowers obtain loans. Since financial institutions are specialists, they can determine worthwhile investment opportunities and judge the creditworthiness of borrowers at lower cost than the average small investor. The third role of the financial system is to reduce risk by spreading investors’ savings across many different investment opportunities. Spreading savings diversifies risk for households and reduces their exposure to the uncertainty associated with individual projects. This reduction in risk encourages savings. The fourth role of the financial system derives from its ability to generate liquidity. Some investments with potentially high returns involve projects that require long-term commitments of capital. However, some investors may unexpectedly need access to their savings. Fortunately, when the financial system pools the investments of many households, it allocates funds to both short- and long-term projects. Thus, investors obtain higher returns on their savings than they would if their investments were limited to short-term projects, but they still have access to their savings in unforeseen circumstances. Further, mixing investments in this way ensures that worthwhile long-term projects are funded. Sixth, the financial system facilitates trade by extending credit and guaranteeing payments. For example, currency, demand deposits, and credit card accounts all allow individuals to exchange goods and services without having to resort to barter. Additionally, letters of credit help firms order the inputs for current production when they experience delays in payment for past sales. The financial system also exerts corporate control and monitors managers. Entrepreneurs’ or managers’ information about the operation and outcome of their projects tends to be superior to information that outside creditors and shareholders have. Insiders’ attempts to exploit this informational advantage by engaging in opportunistic behavior would tend to discourage savings. For example, managers might underreport their firms’ profits to lenders and shareholders in order to raise their own earnings. To offset this information advantage, banks monitor borrowers, and equity markets allow shareholders to discipline managers by voting out poor management.
+To understand how the financial system might influence economic growth, we need to review the roles of the financial system in greater detail.
 
-A modern financial system is important in the economy in order to pool and utilize financial resources, reduce costs and risks, expand and diversify opportunities, increase the allocative efficiency of resources and promote the productivity and facilitate the economic growth. As a country's financial sector develops and becomes more efficient, it enables individuals and institutions to channel savings to more productive enterprises. This offers the prospect of significant growth in GDP. Hence, while a sound and healthy financial system contributes to the growth of the real sector on a sustainable basis, uncertainty and fragility in the financial system adversely affect the objectives of economic development in general and poverty reduction in particular, as witnessed by the experiences of the financial crises of the 1990s.
+1. Financial system mobilizes savings. Since an individual saver may be unable or unwilling to completely fund a borrower, financial markets and institutions pool the savings of diverse households and make these funds available for lending. This activity reduces the transaction costs associated with external finance for both firms and households. By going directly to a financial institution, firms seeking to borrow avoid the costs of having to contact a diverse group of savers. Similarly, savers avoid the costs of evaluating every potential borrower by placing their funds with a financial institution. 
+2. Financial system allocates savings by determining which borrowers obtain loans. Since financial institutions are specialists, they can determine worthwhile investment opportunities and judge the creditworthiness of borrowers at lower cost than the average small investor. 
+3. Financial system is to reduce risk by spreading investors' savings across many different investment opportunities. Spreading savings diversifies risk for households and reduces their exposure to the uncertainty associated with individual projects. This reduction in risk encourages savings.
+4. Financial system derives from its ability to generate liquidity. Some investments with potentially high returns involve projects that require long-term commitments of capital. However, some investors may unexpectedly need access to their savings. Fortunately, when the financial system pools the investments of many households, it allocates funds to both short- and long-term projects. Thus, investors obtain higher returns on their savings than they would if their investments were limited to short-term projects, but they still have access to their savings in unforeseen circumstances. Further, mixing investments in this way ensures that worthwhile long-term projects are funded. 
+5. Financial system facilitates trade by extending credit and guaranteeing payments. For example, currency, demand deposits, and credit card accounts all allow individuals to exchange goods and services without having to resort to barter. Additionally, letters of credit help firms order the inputs for current production when they experience delays in payment for past sales.
+6. Financial system also exerts corporate control and monitors managers. Entrepreneurs' or managers' information about the operation and outcome of their projects tends to be superior to information that outside creditors and shareholders have. Insiders' attempts to exploit this informational advantage by engaging in opportunistic behavior would tend to discourage savings. For example, managers might underreport their firms' profits to lenders and shareholders in order to raise their own earnings. To offset this information advantage, banks monitor borrowers, and equity markets allow shareholders to discipline managers by voting out poor management.
+
+A modern financial system is important in the economy in order to
+
+- pool and utilize financial resources,
+- reduce costs and risks,
+- expand and diversify opportunities,
+- increase the allocative efficiency of resources and
+- promote the productivity and facilitate the economic growth.
+
+As a country's financial sector develops and becomes more efficient, it enables individuals and institutions to channel savings to more productive enterprises. This offers the prospect of significant growth in GDP. Hence, while a sound and healthy financial system contributes to the growth of the real sector on a sustainable basis, uncertainty and fragility in the financial system adversely affect the objectives of economic development in general and poverty reduction in particular, as witnessed by the experiences of the financial crises of the 1990s.
 
 Moreover, from the point of view of central banks, developments in the financial sector have a special role that distinguishes them from other services. Financial developments influence the long term output and employment growth, they can affect the wide range of indicators and tools that central banks use to monitor and model the behavior of the economy.
 
-### Efficiency of financial system
+The efficiency of a financial system typically depends on several key factors, including its degree of integration, market competition, level of development and innovation capacity. Indeed, there is a significant amount of empirical evidence derived from cross-country data showing that countries in which more credit to the private sector is extended typically experience stronger economic growth.
 
-The efficiency of a financial system typically depends on several key factors, including its degree of integration, market competition, level of development and innovation capacity. Indeed, there is a significant amount of empirical evidence derived from cross-country data showing that countries in which more credit to the private sector is extended typically experience stronger economic growth
-
-## Status of financial sector (Economic Survey, 2019-20)
-
-The financial sector has been expanding rapidly in recent years. Access to banking, insurance and capital markets is increasing. The financial system has become more stable and financial instruments have become more productive. Investment is encouraged due to reforms in interest rates on loans. Financial services are being rural oriented and based on information technology. The share of bad loans of financial institutions is the lowest in South Asia. The scope of capital market is also widening with the use of electronic system in transactions.
-
-Due to the effective implementation and improvement of the policy arrangements for the development and consolidation of the financial sector in the last few years, access to finance has been increasing and financial transactions have also expanded significantly.
-
-```{r status-institutions-in-nepal}
-
-tribble(
-  ~"institution", ~"number", 
-  "Banks and financial institutions", 162,
-  "Insurance companies", 40,
-  "Cooperatives", 34837,
-  "Employees' provident fund", 1,
-  "Citizen investment trust", 1,
-  "Postal saving bank", 1
-) %>% 
-  knitr::kable(caption = "Institution as of mid-March 2020", booktabs = TRUE) %>% 
-  kableExtra::kable_styling(latex_options = "striped")
-```
-
-The banking sector's share has been increasing in the asset/liability structure of Nepal's financial system. By the mid-January 2019, the share of bank and financial institutions to the total assets/liability structure of the financial system is 88.1 percent. In this structure, share of Nepal Rastra Bank is 16.8 percent and that of commercial banks is 57.6 percent. Thus, the ratio of total assets/liabilities of organizations operating in banking sector and contractual savings to GDP is 161.3 percent.
-
-### Financial sector stability
-
-The indicators of financial sector stability in fiscal year 2019/20 are robust in totality. But the ratio of non-performing loan (NPL) of banks and financial institutions has increased to 1.8 percent in mid-January 2020 from 1.5 percent of mid-July 2019.
-
-### Major indicators of financial sector stability
-
-```{r financial-sector-stability-2020}
-read_csv("./data/major_indicators_financial_sector_stability.csv", skip = 2) %>% 
-  knitr::kable(caption = "Major indicators of financial sector stability (Source: NRB, 2020); by mid-January.")
-```
-
-
-### Province-wise branches of bank and financial institutions
-
-```{r provincewise-bfi-branches-2020}
-read_csv("./data/province-wise_branches_of_bfi.csv", skip = 3) %>% 
-  knitr::kable(caption = "Province-wise branches of bank and financial institutions (Source: NRB, 2020; by mid-March 2020)")
-```
-
-### Bank rate, re-financing rate and compulsory reserve ratio (in percent)
-
-```{r bfi-refinancing-rate-2020}
-read_csv("./data/bank_rate_refinancing_rate_compulsory_reserve_ratio.csv", skip = 3) %>% 
-  knitr::kable(caption = "Bank rate, re-financing rate and compulsory reserve ratio (in percent) (Source: NRB, 2020")
-```
-
-### Status and history of financial institutions^[https://www.nrb.org.np/contents/uploads/2020/11/Special_Publications-Nepalese_-Financial_-System_Growth_-and-_Challenges_July-2009.pdf]
+### Status and history^[https://www.nrb.org.np/contents/uploads/2020/11/Special_Publications-Nepalese_-Financial_-System_Growth_-and-_Challenges_July-2009.pdf]
 
 In Nepal, the process of financial liberalization was actually initiated in the mid-1980s when the government gave a green signal for the entry of commercial banks in joint venture with foreign banks. With the need to modernize banking services through the transfer of technology and managerial skills, Nabil Bank Limited was established in 1984 as the first joint-venture bank in Nepal, which was subsequently followed by the establishments of Nepal Investment Bank Limited and Standard Chartered Bank Nepal Limited.
 
@@ -108,23 +74,35 @@ In the process of accession to the World Trade Organization, Nepal had made comm
 Due to the various measures initiated by the NRB in the financial sector of the country and thus generating a hospitable environment for the entry of new financial institutions, many financial institutions have been established and competition has been boosted to some extent. Overall, as of mid-January 2021. Table \ref{tab:status-institutions-in-nepal} and \ref{tab:financial-sector-stability-2020} summarizes the categories and respective number of banks and financial institutions. Commercial banks, development banks, finance companies and cooperatives and NGOs licensed to undertake limited banking businesses fall under the regulatory and supervisory jurisdiction of the NRB. Given the relatively small and under-developed economic base of the country, Nepal has a reasonably diversified financial sector as evidenced by the number and variety of institutions that play an active role in the sector.
 
 ```{r disaggregated-status-institutions-in-nepal}
-read_csv("./data/banks_class-A_commercial.csv", skip = 3) %>% 
-  knitr::kable(booktabs = TRUE, caption = "Class A commercial banks of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE)
+read_csv("./data/banks_class-A_commercial.csv", skip = 3, show_col_types = FALSE) %>% 
+  knitr::kable(booktabs = TRUE, caption = "Class A commercial banks of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
+  kableExtra::column_spec(column = 1:6, width = c("1.5em", "14em", "5em", "8em", "4em", "10em"))
 
-read_csv("./data/banks_class-B_development_banks.csv", skip = 3) %>% 
-  knitr::kable(booktabs = TRUE, caption = "Class B development banks of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE)
+read_csv("./data/banks_class-B_development_banks.csv", skip = 3, show_col_types = FALSE) %>% 
+  knitr::kable(booktabs = TRUE, caption = "Class B development banks of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
+  kableExtra::column_spec(column = 1:6, width = c("1.5em", "14em", "5em", "8em", "4em", "10em"))
 
-read_csv("./data/banks_class-C_finance_companies.csv", skip = 3) %>% 
-  knitr::kable(booktabs = TRUE, caption = "Class B finance companies of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE)
+read_csv("./data/banks_class-C_finance_companies.csv", skip = 3, show_col_types = FALSE) %>% 
+  knitr::kable(booktabs = TRUE, caption = "Class B finance companies of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
+  kableExtra::column_spec(column = 1:6, width = c("1.5em", "14em", "5em", "8em", "4em", "10em"))
 
-read_csv("./data/banks_class-D_microfinance.csv", skip = 3) %>% 
-  knitr::kable(booktabs = TRUE, caption = "Class D microfinance of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE)
+read_csv("./data/banks_class-D_microfinance.csv", skip = 3, show_col_types = FALSE) %>% 
+  knitr::kable(booktabs = TRUE, caption = "Class D microfinance of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
+  kableExtra::column_spec(column = 1:6, width = c("1.5em", "14em", "5em", "8em", "4em", "10em"))
 
-read_csv("./data/banks_class-other-institutions.csv", skip = 2) %>% 
-  knitr::kable(booktabs = TRUE, caption = "Other financial institutions of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE)
+read_csv("./data/banks_class-other-institutions.csv", skip = 2, show_col_types = FALSE) %>% 
+  knitr::kable(booktabs = TRUE, caption = "Other financial institutions of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
+  kableExtra::column_spec(column = 1:4, width = c("1.5em", "16em", "6em", "10em"))
 
-read_csv("./data/banks_infrastructure_development_bank.csv") %>% 
-  knitr::kable(booktabs = TRUE, caption = "Infrastructure development bank of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE)
+read_csv("./data/banks_infrastructure_development_bank.csv", show_col_types = FALSE) %>% 
+  knitr::kable(booktabs = TRUE, caption = "Infrastructure development bank of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
+  kableExtra::column_spec(column = 1:6, width = c("1.5em", "14em", "5em", "8em", "4em", "10em"))
 ```
 
 Development banks and finance companies are not permitted to take demand deposits or undertake foreign currency business, but are otherwise treated similarly to commercial banks. A number of development banks were established with active participation of private sector after the Development Bank Act 1996 became effective with the aim of enhancing agriculture, industry and commerce through the provision of credit. Prior to this Act, there were only two development banks namely Agricultural Development Bank (which has been converted into commercial bank) and Nepal Industrial Development Corporation, both owned by the government. At present, development banks are operating under Bank and Financial Institutions Act 2006 possessing the status of "B" class financial institutions. NRB issues necessary directives on regular basis for the effective regulation of these banks.
@@ -170,3 +148,64 @@ The insurance sector was opened to the private sector in 1990. There are altoget
 - An essential prerequisite of fiscal and monetary control is reliable and timely information on the financial and nonfinancial sectors. Decision-makers in central banks, supervisory agencies, and finance ministries need adequate financial information to monitor and diagnose financial sector problems and to distinguish between illiquidity and insolvency of individual institutions. Similarly, banks and investors need good financial information to assess and monitor the creditworthiness of borrowers and issuers of shares.
 
 - Strong and reliable legal and regulatory frameworks are the foundations upon which policy credibility and financial stability rest. In their absence, economic and financial policies can not be implemented. Legal and regulatory enforcement is needed to ensure action is taken against those that violate their prudential and financial obligations, and to act as a credible deterrent for all market participants.
+
+## Status of financial sector (Economic Survey, 2019-20)
+
+The financial sector has been expanding rapidly in recent years. Access to banking, insurance and capital markets is increasing. The financial system has become more stable and financial instruments have become more productive. Investment is encouraged due to reforms in interest rates on loans. Financial services are being rural oriented and based on information technology. The share of bad loans of financial institutions is the lowest in South Asia. The scope of capital market is also widening with the use of electronic system in transactions.
+
+Due to the effective implementation and improvement of the policy arrangements for the development and consolidation of the financial sector in the last few years, access to finance has been increasing and financial transactions have also expanded significantly.
+
+```{r status-institutions-in-nepal}
+
+tribble(
+  ~"institution", ~"number", 
+  "Banks and financial institutions", 162,
+  "Insurance companies", 40,
+  "Cooperatives", 34837,
+  "Employees' provident fund", 1,
+  "Citizen investment trust", 1,
+  "Postal saving bank", 1
+) %>% 
+  knitr::kable(caption = "Institution as of mid-March 2020", booktabs = TRUE) %>% 
+  kableExtra::kable_styling(latex_options = "striped")
+```
+
+The banking sector's share has been increasing in the asset/liability structure of Nepal's financial system. By the mid-January 2019, the share of bank and financial institutions to the total assets/liability structure of the financial system is 88.1 percent. In this structure, share of Nepal Rastra Bank is 16.8 percent and that of commercial banks is 57.6 percent. Thus, the ratio of total assets/liabilities of organizations operating in banking sector and contractual savings to GDP is 161.3 percent.
+
+### Financial sector stability
+
+The indicators of financial sector stability in fiscal year 2019/20 are robust in totality. But the ratio of non-performing loan (NPL) of banks and financial institutions has increased to 1.8 percent in mid-January 2020 from 1.5 percent of mid-July 2019.
+
+```{r financial-sector-stability-2020}
+read_csv("./data/major_indicators_financial_sector_stability.csv", skip = 2) %>% 
+  knitr::kable(caption = "Major indicators of financial sector stability (Source: NRB, 2020); by mid-January.")
+```
+
+### Province-wise branches of bank and financial institutions
+
+```{r provincewise-bfi-branches-2020}
+read_csv("./data/province-wise_branches_of_bfi.csv", skip = 3) %>% 
+  knitr::kable(caption = "Province-wise branches of bank and financial institutions (Source: NRB, 2020; by mid-March 2020)")
+```
+
+### Bank rate, re-financing rate and compulsory reserve ratio (in percent)
+
+```{r bfi-refinancing-rate-2020}
+read_csv("./data/bank_rate_refinancing_rate_compulsory_reserve_ratio.csv", skip = 3) %>% 
+  knitr::kable(caption = "Bank rate, re-financing rate and compulsory reserve ratio (in percent) (Source: NRB, 2020")
+```
+
+## Current status of national debt of Nepal
+
+(Refer to Comprehensive Guide (Contemporary and GA) for a summary discussion of the topic.)
+
+## Agriculture Development Bank Limited
+
+### Establishment, vision, mission
+
+### Contribution to agriculture promotion, rural poverty and economic growth
+
+## Credit and finance management system
+
+- CPAS software
+- Credit administration (CAD) related services

@@ -1,10 +1,46 @@
-# Business organization and environment
+# Management, information and communication technology
 
-## Introduction
+## Organization: concept, structure, objectives
+
+### Organization change and development
+
+## Management: introduction, concept, objective, scope and function
+
+(Refer to Comprehensive Guide (Contemporary and GA))
+
+### New public management (NPM)
+
+(Refer to Comprehensive Guide (Contemporary and GA))
+
+### Management Information System 
+
+(Refer to Comprehensive Guide (Contemporary and GA))
+
+### Time management
+
+### Crisis management
+
+### Conflict management
+
+### Change management
+
+### Knowledge management
+
+### Resource management
+
+### Stress management
+
+## Human Resource management
+
+## Strategic and risk management
+
+## Information technology
+
+## Business organization and environment
 
 - A business is any organization set up to provide goods and/or services.
 - Business aim to satisfy the needs and desires of their customers by selling a good or providing service.
-- TO produce goods and services, a business needs to combine human, physical, financial, and entrepreneurial resources. These resources are referred to as the factors of production, combining land, labor, capital and enterprise:
+- To produce goods and services, a business needs to combine human, physical, financial, and entrepreneurial resources. These resources are referred to as the factors of production, combining land, labor, capital and enterprise:
 
 1. Land: Natural resources used in the production process, e.g. wood, water, physical land, fish, water, metal ores and minerals.
 2. Labor: Physical human effort and psychological intellect used in the production process.
@@ -15,7 +51,7 @@
 - Businesses strive to add value to a good or service so that the product better meets the needs arid wants of their customers.
 - Value added is measured as the difference between the cost of the inputs in the production process and the price of the final output.
 
-## Main business functions and their roles
+**Functions of business and their roles**
 
 ### Human resources
 
