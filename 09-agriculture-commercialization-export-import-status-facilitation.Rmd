@@ -164,7 +164,7 @@ source("./scripts/trade_status.R")
 
 ```{r countrywise-trade-balance}
 ## Countrywise trade balance
-ls(pattern = "balance_country")
+# ls(pattern = "balance_country")
 balance_2017_19 <- reduce(list(ft_2017_balance_country %>% mutate(year = 2017), 
                                ft_2018_balance_country %>% mutate(year = 2018), 
                                ft_2019_balance_country %>% 
@@ -173,7 +173,7 @@ balance_2017_19 <- reduce(list(ft_2017_balance_country %>% mutate(year = 2017),
                           bind_rows)
 
 ## Annual trade balance comparison
-ls(pattern = "quantity_comparison")
+# ls(pattern = "quantity_comparison")
 reduce(list(ft_2017_quantity_comparison %>% 
               magrittr::set_colnames(c("SN", "Trade Indicators", "FY 2073/74 (2016/17)", "FY 2072/73 (2015/16)", "Change (%)")) %>% 
               select(-4, -5), 
