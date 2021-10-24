@@ -4,17 +4,240 @@
 
 A bank is an institution that accepts various types of deposits and then advances money in form of loans to people requiring it.
 
-A bank is an instituion which deals with money and credit. It accepts deposits from the public, makes the funds available to those who needs them, and helps in the remittance of money from one place to another. In fact, a modern bank performs such a variety of functions that it is difficult to give a precise and general definition of it.
+A bank is an institution which deals with money and credit. It accepts deposits from the public, makes the funds available to those who needs them, and helps in the remittance of money from one place to another. In fact, a modern bank performs such a variety of functions that it is difficult to give a precise and general definition of it.
+
+A bank has following features:
+
+- It deals with money; it accepts deposit and advances loans
+- It deals with credit; it has ability to create credit, i.e., the ability to expand its liabilities as a multiple of its reserves.
+- It is commercial institution; it aims at earning profit.
+- It is a unique financial institution that creates demand deposits which serve as a medium of exchange and as a result, the bank manages the payment system of a country.
+
+According to Walter Leaf -- "A bank is a person or corporation which holds itself out to receive from the public, deposits payable on demand by cheque."
+
+According to Bank and financial institution act, 2073 -- "Bank means and includes corporate body incorporated to carry out banking and financial transactions as referred to in Sub-Section (1) of Section 49 and a branch office of a foreign bank located in Nepal, a branch office opened outside of Nepal by a bank incorporated in Nepal and an Infrastructure Development Bank to performing the functions as referred to the Section 49 and a branch office of the same bank."
+
+It can thus be agreed that, banks help in capital formation and mobilization. It can be a person, a company or a firm, with a place of business, and must be involved in credit creation. It is a reservoir of resources for economic growth. Bank is an important part of financial system that assist in infrastructure building, boosting the agriculture and industries and aid in trading -- at both global and domestic levels.
 
 ## History of bank and banking
 
 (Refer to Section \ref{status-and-history}, Chapter \ref{bank-and-financial-institutions-adbl-their-status-operation-and-rural-financing-system} for a rich discourse on history of financial institution in general and banks in particular. This section also offers brief history of banking regulation and deregulation.)
 
+The term Bank is derived either from one or both of the following references,
+
+- Latin word "Bancus" referring to the bench on which the banker would keep its money and his records.
+- French word "Banka" meaning a bench for keeping, lending and exchanging of money or cons in the marketplace by money lenders and money changers.
+
+During the early periods, private individuals mostly did the banking business. As public enterprise, banking made its first appearance in Italy in 1157, when the "Bank of Venice" was established. Following its establishment, Bank of Barcelona and Bank of Genoa were established in 1401 and 1407, respectively. They used to exchange money, receive deposits and discount bills of exchange.
+
+- The bank of Amsterdam was established in 1609 to meet the needs of the merchants of the city. It accepted all kinds of precious metal, coins and currencies on deposits.
+- The beginning of England banking may correctly be attributed to the London Goldsmiths. This led to the growth of private banking and the establishment of the "Bank of England" in 1694.
+- The growth of banks accelerated in England after the introduction of Banking act, 1833 as it allowed formation of joint stock company banks.
+- The bank of Hindustan established in 1770 is regarded as the first bank of India.
+
+### Development of banking in Nepal
+
+Nepal has proven history of money and coins from the period of Lichhivi as _Mannank_, the early coin issued by the-then king Mandev. The practice of issuing coins and its management continued during succedding eras as well. _Tejrath_, a primitive banking institution established by Rana Prime Minister Ranodweep Singh for distribution of loan to the people in exchange for security gold and other valuables during 1967 BS, was the predecessor to modern day banks of Nepal.
+
+Nepal bank limited was established in 1994-07-30 with an objective of extending banking services in the country. This early establishment was the first to create and cultivate the banking habit among Nepalese citizens. This was also fueled owing to rampant exploitative practices of landlords, _sahukars_ and money lenders at the expense of farmers and pheasants.
+
+Nepal rastra bank was set up on 2013-01-14 BS as a central bank under Nepal Rastra Bank act, 2012 BS. NRB as a central bank has been playing a major role in nation development through monetary and financial regulation and has substituted the Indian currency (the predominant medium of dealing during 1990s and earlier) by circulating Nepalese currency. According to its deputed function of central bank, NRB has been enforcing various regulatory directives to be implemented by bank and financial institutions, and has introduced a host of prudential measures to safegurad the interest of public.
+
+Integrated and speedy development of the country is possible only when competitive banking service reach nooks and corners of the country. Keeping this in mind, government set up Rastriya Banijya Bank (RBB), a fully government owned commercial bank, in 2022-10-10 BS. Nepal Industrial Development Center was established in 2013 BS and later incorporated into NDIC in 2016 to finance equity and loan capital to industries. Agricultural Development Bank was established in 2024 to finance agriculture sector, broadly, and assist operation of agro-based industries within the country.
+
+After the declaration of free economy and privatization policy, government encouraged the foreign banks for joint venture in Nepal. As a result, Nepal Arab Bank Limited (NABIL) was established in 2041 BS. The pursuit was followed by Himalayan Bank Limited (2049), Nepal SBI Bank Limited (2050), Nepal Bangladesh Bank (2050), Everest Bank Limited (2051), Bank of Kathmandu (2055), and so on.
+
 ## Types of bank
+
+Broadly speaking, banks can be classified into commercial banks and central bank. Commercial banks are those which provide banking services for profit. The central bank has the function of controlling commercial banks and various other economic activities. Banks enlisted in Figure \ref{fig:commercial-bank-types} fit the general category of commercial banking service provider.
+
+```{r commercial-bank-types, fig.width=4, out.width="80%", fig.cap="Commercial bank types", fig.align='center', fig.pos="H"}
+
+DiagrammeR::mermaid(
+  "
+  graph LR
+  a1[Commercial banks] --> a2[Deposit banks]
+  a1 --> a3[Industrial banks]
+  a1 --> a4[Savings banks]
+  a1 --> a5[Agricultural banks]
+  a1 --> a6[Exchange banks]
+  a1 --> a7[Miscellaneous banks]
+  end
+  "
+)
+```
+
+Commercial banks are in the business of providing banking services to individuals, small business and large organizations. They are engaged in classic business of accepting deposits and providing loans, as against merchant banking where the primary responsibility is to help business find money. These banks, with a goal oriented to profit-earning, generate revenue in exchange for cheque-writing fees and interest collected from loans.
+
+Commercial banks have to maintain satisfactory level of liquid asset that are easy to sell at market price with less transaction cost. Liquid assets are required to meet day to day needs of customers as well as to overcome the withdrawal vulnerability of large deposits in the form of cash. These assets are maintained in the form of currency, bank balance, marketable securities and other assets, that are immediately converted into cash. But these can be invested for some period to earn interest than to keep idle cash balances.
+
+### Commercial bank types
+
+1. Deposit Banks: They have connection with the commercial class of people. These banks accept deposits from the public and lend them to needy parties. Since their deposits are for short period only, these banks extend loans only for a short period, ordinarily for a period between 3 to 6 months. They generally do not lend money for long periods or invest their funds in long term securities.
+2. Industrial Banks: Industries require a huge capital for a long period to buy machinery and equipment. Industrial banks help such industrialists by providing long term loans to industries. Besides, they buy shares and debentures of companies, and enable them to have fixed capital. Sometimes, they even underwrite the debentures and shares of big industrial concerns. The important functions of industrial banks are:
+  - Accept long term deposits.
+  - Meet the credit requirements of industries by extending long term loans.
+  - Advise the industrial firms regarding the sale and purchase of shares and debentures.
+3. Savings Banks: These banks were specially established to encourage thrift among small savers and therefore, they were willing to accept small sums as deposits. They encourage savings of the poor and middle class people.
+4. Agricultural Banks: Agriculture has its own problems and hence there are separate banks to finance it. These banks are organised on co-operative lines and therefore do not work on the principle of maximum profit for the shareholders. These banks meet the credit requirements of the farmers through term loans, viz., short, medium and long term loans. There are two forms of agricultural banks,
+
+(a) Agricultural Co-operative Banks, and
+(b) Agriculture Development Development Bank (ADBL)
+
+5. Exchange Banks: These banks finance mostly for the foreign trade of a country. Their main function is to discount, accept and collect foreign bills of exchange. They buy and sell foreign currency and thus help businessmen in their transactions. They also carry on the ordinary banking business.
+
+6. Miscellaneous Banks: There are certain kinds of banks which have arisen in due course to meet the specialized needs of the people. In England and America, there are investment banks whose object is to control the distribution of capital into several uses. American Trade Unions have got labour banks, where the savings of the laborers are pooled together. In London, there are the London Discount House whose business is "to go about the city seeking for bills to discount."
 
 ## Functions of bank
 
+The Sub-section (1) of the Section 49 of BAFIA, 2073 is related to power of Class "A" banks to carry out banking and financial transactions subject to the act, the memorandum of association and articles of association and the limitations, conditions and directions issued by the Rastra bank. The functions are enlisted,
+
+1. To accept deposits or to mobilize deposits through various financial instruments and make payment thereof with or without interest,
+
+2. To accept deposits, making payments, carrying out transactions, carry out intermediary services and transfer funds to other headings through various electronic instruments or devices,
+
+3. To lend loans including hire-purchase, leasing, housing and overdrafts,
+
+4. To lend loans on collateral of project and hypothecation and lending or causing to be lend loans in consortium financing having divided the collateral on _pari passu_ basis according to mutual agreement entered into between one another,
+
+5. To lend loans against the guarantee of foreign banks or financial institutions,
+
+6. To lend loans against the amount covered by the value of the movable or immovable assets which have already been mortgaged to it or lending loans on remortgage in own amount to be covered by the value of the movable or immovable assets which has already been mortgaged to other bank or financial institution,
+
+7. To issue guarantees on behalf of its customers and getting executed necessary bonds with such customers in consideration thereof, obtaining security, and acquire their movable or immovable assets as collateral or on mortgage, or the assets of third persons as collateral and to acquire, and hold the assets holding as security and to carry out other related transactions,
+
+8. To make get refinancing from the Rastra Bank as may be required or to lend or borrow loans from other bank or financial institution,
+
+9. To supply loans or managing loans from the amount received from the Government of Nepal or other national or foreign entity for promotion of a project,
+
+10. To write-off credits subject to the prevailing credits write-off Byelaws,
+
+11. To issue shares, debenture, debenture bonds and so on for the purpose of making the capital fund complete,
+
+12. To issue, accept, pay, discount or purchase and sell letters of credit, bills of exchange, promissory notes, cheques, travelers cheques, drafts or other financial instruments,
+
+13. To issue, accept and manage digital card or other instruments for electronic transactions and to appoint agents for carrying out acts relating thereto,
+
+14. To carry out foreign exchange business subject to the prevailing laws,
+
+15. To carry out government transactions subject to the limits, terms and conditions or directions of the Rastra Bank,
+
+16. To purchase, sell or accept treasury bills issued by the Government Nepal or bonds issued by the Rastra Bank,
+
+17. To remit or transmit amount to different places within or outside Nepal through bills of exchange, cheques or other financial instruments; receiving remittance from abroad and to make payment thereof,
+
+18. To take responsibility of and make arrangement for the sale or purchase of shares, debentures or securities; collecting interest, dividends etc. accruing from shares, debentures or securities; remitting or transmitting such interests or dividends to places within or outside Nepal; and arranging safe deposit vaults for customers acting as a commission agent of its customers,
+
+19. To carry out off-balance sheet transactions,
+
+20. To disburse credits upto the amount as prescribed by the Rastra Bank against individual or collective guarantee for the economic upliftment of the peoples from the deprived sector, low-income families, victims of natural calamities and inhabitants of any area of the country,
+
+21. To exchange details, information or notices concerning debtors or customers who have obtained credits from it or other banks or financial institutions with the Rastra Bank or any other bank or financial institutions,
+
+22. To buy and sell gold and silver bullions,
+
+23. To conduct, or cause to be conducted, study, research and survey relating to the establishment, operation and evaluation of projects, and providing training, consultancy and other information,
+
+24. To manage properly or sell its assets of every type coming under its ownership according to this Act and the prevailing laws,
+
+25. To give guarantee with the consent of the parties involved in matters of payment to be made or values to be recovered in consideration of any act between two or more persons, subject to the prevailing laws,
+
+26. To carry out such other business as may be prescribed by the Rastra Bank.
+
+### Functions of commercial banks
+
+1. Accepting deposits
+
+Banks accept deposits from those who can save but cannot profitably utilize this saving themselves. People consider it more rational to deposit their savings in a bank because by doing so they earn interest and avoid the danger of theft. To attract savings from all sort of individuals, banks maintain different types of accounts.
+
+i. Fixed deposit accounts: Money in this account is deposited for fixed period of time and cannot be withdrawn before the expiry of that period. The rate of interest on this account is higher than that on other types of deposits. The longer the period, higher will be the interest rate.
+
+ii. Current deposit account: These accounts (also known as demand deposits) are generally maintained by the traders and businessmen who have to make a number of payments every day. Money from these accounts can be withdrawn in as many times and in as much amount as desired by the depositors. Normally, no interest or nominal interest is paid on these accounts. The bank levies certain incidental charges on the customer for the services rendered by it.
+
+iii. Savings Deposits: This is meant mainly for working and middle class people to help them deposit their small savings. Money can be deposited at any time but the maximum cannot go beyond a certain limit. There is a restriction on the amount that can be withdrawn at a particular time or during a period. If the customer wishes to withdraw more than the specified amount at any one time, he has to give prior notice. Interest is allowed on the credit balance of this account. The rate of interest is greater than the rate of interest on the current deposits and less than that on fixed deposit. This system greatly encourages the habit of thrift or savings.
+
+2. Advancing of loans
+
+The second primary function of a commercial bank is to make loans and advances to all types of persons, particularly to businessmen and entrepreneurs. Loans are made against personal security, gold and silver, stocks of goods and other assets. The most common way of lending is by:
+
+i. Overdraft Facilities: In this case, the depositor in a current account is allowed to draw over and above his account up to a previously agreed limit. Suppose a businessman has only Rs. 30,000/- in his current account in a bank but requires Rs. 60,000/- to meet his expenses. He may approach his bank and borrow the additional amount of Rs. 30,000/-. The bank allows the customer to overdraw his account through cheques. The bank, however, charges interest only on the amount overdrawn from the account.
+
+ii. Cash Credit: Under this account, the bank gives loans to the borrowers against certain security. But the entire loan is not given at one particular time, instead the amount is credited into his account in the bank; but under emergency cash will be given. The borrower is required to pay interest only on the amount of credit availed to him. He will be allowed to withdraw small sums of money according to his requirements through cheques, but he cannot exceed the credit limit allowed to him. Besides, the bank can also give specified loan to a person, for a firm against some collateral security. The bank can recall such loans at its option.
+
+iii. Discounting Bills of Exchange: In this form of lending, the holder of a bill can get it discounted by the bank, when he is in need of money. After deducting its commission, the bank pays the present price of the bill to the holder. Such bills form good investment for a bank. They provide a very liquid asset which can be quickly turned into cash. The commercial banks can rediscount the discounted bills with the central banks when they are in need of money. These bills are safe and secured bills. When the bill matures the bank can secure its payment from the party which had accepted the bill.
+
+iv. Money at Call: Bank also grant loans for a very short period, generally not exceeding 7 days to the borrowers, usually dealers or brokers in stock exchange markets against collateral securities like stock or equity shares, debentures, etc., offered by them. Such advances are repayable immediately at short notice hence, they are described as money at call or call money.
+
+v. Term Loans: Banks give term loans to traders, industrialists and entrepreneurs also against some collateral securities. Term loans are so-called because their maturity period varies between 1 to 10 years. Term loans, as such provide intermediate or working capital funds to the borrowers. Sometimes, two or more banks may jointly provide large term loans to the borrower against a common security. Such loans are called participation loans or consortium finance.
+
+vi. Consumer Credit: Banks also grant credit to households in a limited amount to buy some durable consumer goods such as television sets, refrigerators, etc., or to meet some personal needs like payment of hospital bills etc. Such consumer credit is made in a lump sum and is repayable in installments in a short time.
+
+vii. Miscellaneous Advances: Among other forms of bank advances there are packing credits given to exporters for a short duration, export bills purchased/discounted, import finance-advances against import bills, finance to the self employed, credit to the public sector, credit to the cooperative sector and above all, credit to the weaker sections of the community at concessional rates.
+
+3. Creation of Credit
+
+A unique function of the bank is to create credit. When a bank advances a loan to its customer, it does not only lend cash but opens an account in the borrower's name and credits the amount of loans to this account. Banks supply money to traders and manufacturers. They also create or manufacture money. Bank deposits are regarded as money. They are as good as cash. The reason is they can be used for the purchase of goods and services and also in payment of debts. When a bank grants a loan to its customer, it does not pay cash. It simply credits the account of the borrower. He can withdraw the amount whenever he wants by a cheque. In this case, bank has created a deposit without receiving cash. That is, banks are said to have created credit. Sayers says "banks are not merely purveyors of money, but also in an important sense, manufacturers of money."
+
+4. Promote the Use of Cheques
+
+The commercial banks render an important service by providing to their customers a cheap and highly developed type of credit instrument in money market like cheques. It is found much more convenient to settle debts through cheques rather than through the use of cash.
+
+5. Financing Internal and Foreign Trade
+
+The bank finances internal and foreign trade through discounting of exchange bills. Sometimes, the bank gives short-term loans to traders on the security of commercial papers. This discounting business greatly facilitates the movement of internal and external trade.
+
+6. Agency functions
+
+(Agency and general utility functions are sometimes categorized as secondary functions of a bank.)
+
+i. Remittance of Funds: Commercial banks, on account of their network of branches throughout the country, also provide facilities to remit funds from one place to another for their customers by issuing bank drafts, mail transfers or telegraphic transfers on nominal commission charges. As compared to the postal money orders or other instruments, bank drafts have proved to be a much cheaper mode of transferring money and has helped the business community considerably.
+ii. Collection and Payment of Credit Instruents: Bank collects and pays various credit instruments like cheques, bills of exchange, promisorry notes, etc.
+iii. Execution of Standing Orders: Banks executes the standing instructions of their customers for making various periodic payments. They pay subscription, rents, insurance premium, etc. on behalf of their customers.
+iv. Purchasing and Sale of Securities: Banks undertake purchase and sale of various securities like shares, stocks, bonds, debentures etc. on behalf of their customers.
+v. Collection of Dividends on Shares: Bank collects dividends, interest on shares and debentures of their customers.
+vi. Income Tax Consultancy: Banks may also employ income tax experts to prepare income tax returns from their customers and to help them get refund of income tax.
+vii. Acting as Representative and Correspondent: Sometimes the banks act as representatives and correspondents of their customers. They get passport, traveler's tickets, bank vehicles, plots for their customers and receive letters on their behalf.
+
+7. General Utility functions
+
+- Locker facility
+- Letter of credit
+- Underwriting securities
+- Acting as reference
+- Traveler's cheques
+- Collection of statistics
+- Gift cheque
+
 (Refer to Chapter \ref{bank-and-financial-institutions-adbl-their-status-operation-and-rural-financing-system})
+
+## Sources of bank's income
+
+A bank can earn income only if it borrows at a lower rate and lends at a higher rate. The difference between the two rates will represent the costs incurred by the bank and the profit. Bank also provides a number of services to its customers for which it charges commission. This is also an important source of income. The followings are the various sources of a bank's profit:
+
+1. Interest on Loans: The main function of a commercial bank is to borrow money for the purpose of lending at a higher rate of interest. Bank grants various types of loans to the industrialists and traders. The yields from loans constitute the major portion of the income of a bank. The banks grant loans generally for short periods. But now the banks also advance call loans which can be called at a very short notice. Such loans are granted to share brokers and other banks. These assets are highly liquid because they can be called at any time. Moreover, they are source of income to the bank.
+
+2. Interest on Investments: Banks also invest an important portion of their resources in government and other first class industrial securities. The interest and dividend received from time to time on these investments is a source of income for the banks. Bank also earn some income when the market prices of these securities rise.
+
+3. Discounts: Commercial banks invest a part of their funds in bills of exchange by discounting them. Banks discount both foreign and inland bills of exchange, or in other words, they purchase the bills at discount and receive the full amount at the date of maturity. For instance, if a bill of Rs. 1000 is discounted for Rs. 975, the bank earns a discount of Rs. 25 because bank pays Rs. 975 today, but will get Rs. 1000 on the due date. Discount, as a matter of fact, is the interest on the amount paid for the remaining period of the bill. The rate of discount on bills of exchange is slightly lower than the interest rate charged on loans and advances because bills are considered to be highly liquid assets.
+
+4. Commission, Brokerage, etc.: Banks perform numerous services to their customers and charge commission, etc., for such services. Banks collect cheques, rents, dividends, etc., accepts bills of exchange, issue drafts and letters of credit and collect pensions and salaries on behalf of their customers. They pay insurance premiums, rents, taxes etc., on behalf of their customers. For all these services banks charge their commission. They also earn locker rents for providing safety vaults to their customers. Recently the banks have also started underwriting the shares and debentures issued by the joint stock companies for which they receive underwriting commission.
+
+Commercial banks also deal in foreign exchange. They sell demand drafts, issue letters of credit and help remittance of funds in foreign countries. They also act as brokers in foreign exchange. Banks earn income out of these operations.
+
+## Roles of commercial banks in development of economy
+
+1. Capital formation
+2. Encouragement of entrepreneurial innovations
+3. Provision of finance and credit
+4. Monetization of economy
+5. Influencing economic activities
+6. Implementation of monetary policy
+7. Promotion of trade and industry
+8. Encouragement of right type of industries
+9. Regional development
+10. Development of agriculture and potential but underdeveloped sectors
+11. Promote commercial virtue
+12. Fulfillment of socio-economic objectives
 
 ## Status of bank and financial instiutions
 
@@ -23,6 +246,8 @@ A bank is an instituion which deals with money and credit. It accepts deposits f
 ## Nepal Rastra Bank
 
 Established in 1956, the NRB is the country's central bank and is responsible for ensuring monetary and financial stability in coordination with the MoF. A committee chaired by the Minister of Finance recommends the appointment of the governor of the central bank. NRB's main functions include issuing currency, formulating and implementing appropriate monetary policy, formulating and implementing a foreign exchange policy and determining a foreign exchange system, managing a foreign exchange reserve, issuing banking licenses, regulating commercial banks and financial institutions and serving as their banker, functioning as a banker, advisor and financial agent of the government, and establishing, promoting and regulating the system of payment, clearing and settlement.
+
+
 
 ## In addition
 
