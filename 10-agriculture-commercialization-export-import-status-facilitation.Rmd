@@ -13,6 +13,14 @@ With the transformation from a unitary government structure to a federal one, Ne
 
 Though trade is a key component of the economy, trade deficit has posed challenge to Nepal's development. After Nepal's accession to the WTO, share of export in total trade has decreased from 28.3% in FY 2004/05 to 6.9% in FY 2016/17. The share of import has increased from 71.7% in FY 2004/05 to 93.1% in FY 2016/17. As a consequence, export-import ratio has deteriorated from 1:2.5 in FY 2004/05 to 1:13.5 in FY 2016/17.Nepal’s trade deficit has grown by more than ten-folds. 
 
+```{r macroeconomic-indicators}
+readxl::read_xlsx("./data/macroeconomic-indicators.xlsx", sheet = "macro-2020", range = "A2:E47") %>% 
+  knitr::kable(booktabs = TRUE, caption = "Macroeconomic indicators, 2020", longtable  = TRUE, align = "l") %>% 
+  kableExtra::kable_styling() %>% 
+  kableExtra::column_spec(column = 1:5, width = c("2em", "10em", "4em", "4em", "4em"))
+```
+
+
 ### Investment and incentives to investors
 
 Several policies and acts have been developed in line with the Constitution to protect rights of the investors, including through Intellectual Property Policy, 2017, Foreign Investment Policy, 2015, and Industrial Enterprises Act, 2016, among others. Foreign Investment and Technology Transfer Act (FITTA), 1992 governs FDI. Foreign investors are allowed to invest up to 100% in almost all industries, except for few on the negative list. The Company Act, 2017 has made provisions for establishing, managing and administering companies in more simplified, convenient and transparent manner. The Industrial Enterprises Act, 2016 covers entry, operation and exit procedures for business and also outlines customs and tax payment requirement for investors. The Labour Act, 2017 has implemented no work no pay principle.
@@ -27,15 +35,24 @@ The Government is committed to attract foreign investment by treating foreign in
 
 ### Monetary policy management
 
-Nepal Rastra Bank (NRB), the central bank of Nepal, has primary duties of maintaining macroeconomic and financial sector stability. Average consumer price inflation was 4.5% in FY 2016/17. Consumer price inflation rates for recent years is indicated in Table \ref{tab:cip-inflation}. Inflation has remained within a reasonable range. Broad money supply (M2) increased by 15.5% in FY 2016/17 compared to 12.2% in FY 2010/11. Average growth of money supply remained at around 18.08% during the last five years (2012-2017). Foreign Exchange reserve stood at NRs 1094 billion as of mid-June 2018 compared to NRs 272.3 billion at the end of last review period (2012).
+Nepal Rastra Bank (NRB), the central bank of Nepal, has primary duties of maintaining macroeconomic and financial sector stability. Consumer price inflation rates for recent years are,
+
+- 4.50% in FY 2016/17
+- 4.15% in FY 2017/18
+- 4.64% in FY 2018/19 
+- 6.15% in FY 2019/20
+
+Inflation has remained within a reasonable range. Broad money supply (M2) increased by 15.5% in FY 2016/17 compared to 12.2% in FY 2010/11. Average growth of money supply remained at around 18.08% during the last five years (2012-2017). Foreign Exchange reserve stood at NRs 1094 billion as of mid-June 2018 compared to NRs 272.3 billion at the end of last review period (2012).
 
 Moreover, Monetary Policy, 2018/19 has made significant investment-friendly reforms by simplifying the process of repatriation of foreign investment earnings, introducing exchange rate hedging facility for foreign investors, provisioning for loan facilities for foreign investors, and making it possible for commercial banks to provide additional services such as escrow fund management for foreign investors.
 
 ### Tax system
 
-Nepal has one of the lowest corporate tax regimes in South Asia making it an attractive investment destination. Tax rates for various entities according to their nature is summarized in the Table \ref{tab:corporate-tax-nepal}.
+Nepal has one of the lowest corporate tax regimes in South Asia making it an attractive investment destination. Tax rates for various entities according to their nature is summarized in the Table \ref{tab:corporate-tax-rates-nepal}.
 
-```{r corporate-tax-rates}
+NRB revises tax rates annually in an effort to implement the revenue policy and to stabilize national economy. Tax rates for the FY 2019/20^[https://www.nrb.org.np/contents/uploads/2021/08/Annual-Report-2019-20-English.pdf] has prescribed following revisions in import, export, excise and other headings (Table \ref{tax-rates-2020}). 
+
+```{r corporate-tax-rates-nepal}
 tribble(
  ~"Nature of entity", ~"Tax rate",
  "Normal rate for entities", 25,
@@ -52,7 +69,15 @@ tribble(
  kableExtra::column_spec(column = 1, width = "18em")
 ```
 
-(For details about sector-wise performance in economy, refer to the document at \url{https://moics.gov.np/uploads/shares/policy/Trade%20Policy%20Review%202018-Nepal.pdf} )
+```{r tax-rates-2020}
+read_csv("./data/tax-rates-2020-nrb.csv", show_col_types = FALSE) %>% 
+  knitr::kable(booktabs = TRUE, caption = "Tax rates for 2020 (Source: Annual Report, NRB)", longtable = TRUE) %>% 
+  kableExtra::kable_styling() %>% 
+  kableExtra::column_spec(column = 1:3, width = c("20em", "8em", "8em"))
+```
+
+
+(For details about sector-wise performance in economy, refer to the document at \url{https://moics.gov.np/uploads/shares/policy/Trade%20Policy%20Review%202018-Nepal.pdf} or annual report published by NRB.)
 
 ### Trade policy, 2015
 

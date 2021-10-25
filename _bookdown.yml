@@ -12,10 +12,10 @@ rmd_files:
   "03-banking-services.Rmd",
   "04-management-and-information-technology.Rmd",
   "05-economics-fiscal-monetary-policy.Rmd",
-  "06-bfis-adbl-status-operation-rural-finance.Rmd",
-  "07-agriculture-credit-financing-schemes-digitization.Rmd",
-  "08-agriculture-supply-chain-projects-business-economics-market.Rmd",
-  "09-agriculture-commercialization-export-import-status-facilitation.Rmd"
+  "06-07-bfis-adbl-status-operation-rural-finance.Rmd",
+  "08-agriculture-credit-financing-schemes-digitization.Rmd",
+  "09-agriculture-supply-chain-projects-business-economics-market.Rmd",
+  "10-agriculture-commercialization-export-import-status-facilitation.Rmd"
   ]
   epub: []
 

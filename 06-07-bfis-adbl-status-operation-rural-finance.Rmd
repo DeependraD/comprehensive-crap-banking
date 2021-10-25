@@ -1,4 +1,4 @@
-# Bank and financial institutions, ADBL; their status, operation and rural financing system
+# Bank and financial institutions, their status, challenges and contribution to national economy
 
 ## Financial institutions
 
@@ -204,13 +204,24 @@ read_csv("./data/bank_rate_refinancing_rate_compulsory_reserve_ratio.csv", skip 
 
 (Refer to Comprehensive Guide (Contemporary and GA) for a summary discussion of the topic.)
 
-## Agriculture Development Bank Limited
+# Agriculture Development Bank Limited, its status, operation and rural financing system
 
-### Establishment, vision, mission
+## Establishment, vision, mission
 
-### Contribution to agriculture promotion, rural poverty and economic growth
+Agriculture Development Bank (ADB) was established on 21st January 1968 under the Agricultural Development Bank Act, 2024 (1967 AD).
 
-## Credit and finance management system
+ADB started computerized commercial banking transactions from its Ratnapark branch in Kathmandu in 2041 BS (1984 AB) with the objective of channelizing the resources generated in the urban area in development works in the rural areas. The reform program that the bank introduced voluntarily in 2054 BS (1997 AD) boosted its sustainability. The ABD was put through restructuring process in the second phase under the financial sector reform program that the government initiated with the involvement of the World Bank in 2057 BS (2000 AD) in line with the liberal economic policy the State adopted in 1980s. Accordingly, the bank was registered as a public limited company at the Company Registrar's Office on 15 July, 2005 as per the Company Act, 2053 (1996). It acquired the license for carrying out transactions as a category "A" bank from the Nepal Rastra Bank on 16 March 2006 as per the Banks and Financial Institutions Ordinance, 2062 (2005).
 
-- CPAS software
-- Credit administration (CAD) related services
+ADBL has now evolved into a bank with the largest working network, highest paid-up capital and the largest number of share members and customers. It has immovable property (land and buildings) worth over Rs. 6 billion and the largest pool of human resources. The bank has also started providing banking services using the sophisticated Core Banking System (T24) information technology.
+
+## Contribution to agriculture promotion, rural growth, poverty reduction, small and micro enterprise
+
+### Small and micro enterprise development program
+
+ADB launched the poverty alleviation campaign through the Small Farmers Development Program (SMDP) since 2032 BS (1975 AD). Until the fiscal year 2053/54 (1996/97), the program's reach extended to 652 VDCs in 75 districts of the country with 422 sub-project offices. The program disbursed Rs 6.49 billion rupees in loan to over 210,000 poor families. In this way, ADB has been successful in maintaining its unique identity in the national and international levels for the contribution it has made in raising the living standards of the poor.
+
+In its efforts towards contributing to the poverty alleviation endeavors, the bank has invested nearly Rs. 14 billion through the SMDP and other prioritized programs while it has provided loans of over Rs. 100 billion to the small and medium entrepreneurs through regular programs. This has been possible with the support and cooperation from government and non-government sectors.
+
+As per a recent Rural Credit Survey, it is estimated that the institutional sector meets only 20% of the demand for credit from the entire rural sector. According to a study carried out by the Asian Development Bank, annually there is a gap of nearly Rs. 13 billion between the demand and supply of rural credit in Nepal. This explicitly shows that credit supply arrangements have not been able to meet the demand for the same in the rural areas. The gap between the demand and supply of credit has widened further in the rural areas as credit providers, especially the commercial banks, were limited to the district headquarters in the past due to conflict. In this backdrop, SMEs play vital role in creation of employment opportunities, poverty reduction and economic growth of the country. According to survey of Small Manufacturing Establishments 2000, there are altogether 43671 establishments in operation and total number of persons engaged is 121270. In FY 2007/08, employment in SMEs sector reached to 299557. It shows that there is significant contribution of SME sector in Nepal.
+
+ADBL has invested a large chunk of the loans pumped into the poverty alleviation sector which is the priority sector of the Government of Nepal. Similarly, under the regular program, the bank has issued nearly 85% of its total credit outflow to the small and medium entrepreneurs. ADBL has been conducting training programs for enhancing the capacity of the entrepreneurs, operating the group saving program for increasing the community capital, and carrying out the infrastructure development works for the development of the rural economy. It is found that the loans issued to the small and micro enterprises has helped in generating employment and made a positive impact on the bank's financial health.

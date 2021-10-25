@@ -1,18 +1,69 @@
 # Economics, fiscal and monetary policy
 
-
-## Monetary policy of fiscal year 2018/19
+## Monetary policy for the FY 2020/21
 
 In accordance with the provision made in the Nepal Rastra Bank Act, 2002, Nepal Rastra Bank (NRB) has been formulating and implementing monetary policy with the objective of maintaining economic stability and sustainable development of the economy through price and balance of payments stability. To attain these objectives, the bank is focusing on the functions that include effective liquidity management, promotion of competitive financial resources for productive use, effective foreign exchange reserve management and expansion of access to finance.
 
-In this context, NRB announced the monetary policy for 2018/19 on 11 July 2018 with the main objective of maintaining macroeconomic stability and facilitating the achievement of targeted economic growth in line with GON's policies and programs enunciated through its budget statement.
+### Economic outlook for 2020/21
 
-The first quarter review of the monetary policy for 2018/19 was published on 27 November 2018, half-yearly review on 18 February 2019 and the third quarter review on 23 May 2019. Similarly, the annual review of monetary policy 2018/19 along with monetary policy for 2019/20 was published on 24 July 2019.
+The world economy is expected to revive in 2021. The IMF has projected the world economy to expand by 5.4% in 2021. Consumer inflation is projected to remain at 1.1% in advanced economies and 4.5% in the emerging and developing economies.
 
-### Objectives and targets
+Government of Nepal has targeted 7 percent economic growth in 2020/21. Agricultural output is expected to expand given favorable monsoon for paddy plantation and the expected expansion of credit to agriculture sector along with the influx of labor force. Industrial and service sectors are also expected to expand provided that COVID-19 comes under control at the earliest.
 
-- The main objectives of monetary policy were to conduct monetary management to check the demand side pressure on price and external sector stability arising from expanding economic activities, promote employment, develop entrepreneurship, and mobilize financial instruments towards priority sectors to facilitate the targeted growth.
+Banking system has adequate liquidity along with declining lending rates. Given this, economic activities are expected to gain momentum with the help of effective implementation of targeted credit programs.
 
-- The monetary policy for 2018/19 set the target of containing average annual consumer inflation at 6.5 percent. Besides, the monetary policy targeted to maintain foreign exchange reserve level sufficient to cover the import of goods and services for at least 8 months and to manage necessary monetary liquidity to facilitate the attainment of 8 percent economic growth.
+The expected expansion of economic activities is likely to create inflationary pressure. However, increase in domestic output as well as improvement in supply management will help maintain price stability.
 
-- Due to the growth in agricultural production, increased energy availability, growth in tourist arrival and improved industrial climate; the growth rate of Gross Domestic Product stood at 7.1 percent in 2018/19. The average inflation rate was limited to 4.6 percent in the review year due to the growth in internal production, improvement in supply management and lower global inflation rate. On external front, higher import in the review year caused deficit in the BOP by Rs.67.40 billion. As of mid-July 2019, the foreign exchange reserve in the banking sector was sufficient to cover import of goods and services for 7.8 months.
+Import is expected to rise along with the expansion of economic activities. Even though export and remittances are expected to remain at the same level of the last year, foreign debt mobilization by the GoN will support maintaining external sector stability.
+
+### Monetary policy framework
+
+- The focus of the policy is on maintaining macroeconomic stability along with supporting the growth target set by the GoN.
+- Financial resources will be mobilized towards expanding economic activities, generating employment and enhancing sustainable economic development.
+- Liquidity will be managed considering the likely pressure on price and external sector stability.
+- BFIs consolidation will be on priority in order to foster financial sector development and stability.
+- Access to finance and quality of financial services will be enhanced through development of financial infrastructures.
+- Digitization will be promoted to make payment system more secure, healthy and efficient.
+- Monetary management will focus on containing consumer price inflation within 7 percent in 2020/21.
+- Monetary management will be carried out to ensure external sector stability. In this regard, foreign exchange reserves sufficient to cover the prospective merchandise imports of goods and services for at least 7 months will be maintained.
+- Monetary management will be directed towards supporting to attain the targeted economic growth keeping economic recovery in priority.
+- Given the basis of nominal GDP for monetary projection, growth of broad money (M2) and private sector credit have been projected at 18 percent and 20 percent respectively
+
+### Financial sector provision
+
+**Credit framework**
+
+Policy will focus to expand credit on agriculture, energy, tourism, and cottage as well as small and medium industries so as to revive the economy affected by COVID-19. In this regard, provision for priority sector lending has been revised. Access to refinancing facilities has been decentralized. Concessional credit program has been restructured by widening the coverage.
+
+1. Agriculture
+
+Commercial banks will be required to invest at least 15 percent of their total credit in agriculture sector by mid-July 2023 so as to ensure food security and generate employment while becoming self-reliant on agriculture production. In addition, method of assessing compliance of agriculture credit will be revised.
+
+With a view to promote self-reliance on major fruits, loan loss provision for credit on commercial farming of mango, orange, junar (sweet orange), mausam (sweet lime), kiwi, dragon fruit, lemon, litchi, avocado, among others, will be reduced to 0.2 percent for the first year and 0.6 percent for the second year.
+
+Loan loss provision for credit on agriculture farming of silk, jute, cotton and other crops that help in establishing forward and backward linkages will be relaxed.
+
+A provision for collateral of lease assets will be introduced to enhance credit to commercial agriculture, industry and other businesses through leasing or integrating land.
+
+Agricultural Development Bank Limited (ADBL) will be promoted as the Lead Bank to facilitate credit in agriculture sector. This bank will be allowed to issue agricultural bond to ensure availability of long term financing in agriculture sector. This provision is expected to avail additional resources to agriculture sector and help the BFIs to comply with the regulatory requirement for agriculture credit by investing in agricultural bond.
+
+The provision of agriculture credit swap among BFIs will be simplified further.
+
+A provision of issuing Kisan (Farmer) Credit Card by ADBL will be introduced to ensure access to financial resources and agriculture information to farmers.
+
+Institutional and infrastructural arrangements will be made to enhance agriculture training through the training centers of ADBL.
+
+2. Energy sector
+3. Tourism sector and micro, small and medium enterprises
+4. Concessional loan
+5. Miscellaneous
+
+### Programs for economic recovery
+
+**Refinance**
+
+### Credit Programs for COVID-19 affected Business/Profession
+
+A provision will be made to provide 20 percent additional loan based on the working capital limit of mid-April 2020. BFIs can provide such loans based on borrower's need and feasibility of project/business so as to facilitate the continuation of business that are hard-hit by the COVID-19.
+
+A provision will be made to provide loan from the BFIs at 5 percent for the operation and continuation of COVID-19 affected businesses including tourism and cottage, small and medium enterprises for payment of salaries to workers and employees of such sectors, and for providing opportunities to develop entrepreneurship to those who have lost jobs in the hard-hit sectors. The resources for this facility will be managed from the Rs. 50 billion fund that is to be established as mentioned in the GoN's budget for 2020/21.
