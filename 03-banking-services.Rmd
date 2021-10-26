@@ -16,9 +16,44 @@ Corporate are deriving great benefit from the increased variety of products and 
 
 ## Deposit
 
+Deposit products refer to the variety of ways banks collect deposits from public. Some of the important deposit products with their features are discussed below.
 
+1. Savings bank account
+
+- Promote the habit of saving among citizens while allowing them to use their funds when required
+- Benefit is derived from high liquidity, security and interest accrued
+- Interest rate is decided and periodically reviewed by the GoN
+
+2. Current bank account
+
+- Primarily meant for businessmen, firms, companies and public enterprises that have high transaction volume
+- Generally cheque-operated and meant for convenience purpose
+- Do not bear interest on the deposits
+
+3. Demand deposit
+
+- Funds held in deposit funds, where money is legally able to be withdrawn immediately upon demand
+- Allows immediate conversion of the account balance into cash or transfer to another account
+
+4. Term deposit
+
+- Held at financial institution for a fixed term, generally short term
+- Maturity period ranges from months to few years
+- Deposit money can only be withdrawn upon the end of the term or by pre-notifying the bank for special withdrawl case
+- Safe, and therefore appealing to conservative, low-risk investors
+
+5. Certificate of deposit/CD
+
+- Time deposit commonly offered to consumers by banks, thrift institutions and credit unions
+- Alike savings account, they are insured and thus virtually risk free.
+- Unlike saving account, they have a specific, fixed term (often 3/6 months or 1 to 5 years), and has a fixed interest rate.
+- Held until maturity, at which time the money may be withdrawn together with the accrued interest.
 
 ## Credit
+
+### Loan
+
+The act of giving money, property or other material goods to another pary in exchange ... (Continue from Advanced Banking book)
 
 ## Remittance
 
@@ -42,11 +77,53 @@ Corporate are deriving great benefit from the increased variety of products and 
 
 ### SWIFT
 
+The Society for Worldwide Interbank Financial Telecommunication (SWIFT) operates a worldwide financial messaging network. The swift network exchanges message securely and reliably between banks and other financial institutions. It also markets software and services to financial institutions, much of it for use on the SWIFT Net network and the ISO 9362 bank identifier code which are popularly known as SWIFT codes.
+
+SWIFT is a cooperative society under Belgian law, with its current headquarters located in La Hulpe, near Brussels, and is owned by its member financial institutions. It was founded in Brussels in 1973, supported by 239 banks in 15 countries. It started to establish common standards for financial transactions, and shared data processing system and worldwide communications network. Fundamental operating procedures, rules for liability, etc. were established in 1975, and the first message was sent in 1977. Currently, 90% of all banks worldwide use the SWIFT network to carry out international bank transfers.
+
+SWIFT provides turn-key solutions for members consisting of linkage clients to facilitate connectivity to the SWIFT Net and computer-based terminals (CBTs) which members use to manage the delivery and receipt of their message. Some of the more well-known CBTs include are, SWIFT Net Link (SNL), SWIFT Alliance Access/Entry (SAA/SAE), SWIFT Alliance Workstation (SAW), SWIFT Alliance Gateway (SAG), SWIFT Alliance Messenger (SAM), etc.
+
+SWIFT also offers a secure person-to-person messaging service called SWIFTNet Mail intented for the secure transfer of sensitive business documents such as invoices, as well as security-sensitive data over the open internet.
+
+SWIFT moved to its current IP Network infrastructures SWIFT Net in 2003, providing a total replacement of the previous X.25 infrastructure. The process involved development of new protocols that facilitate efficient messaging, using existing and new message standards (uses XML).
+
+There are four key areas that SWIFT services fall under within the financial marketplace: securities, treasury and derivatives, trade services and payments, and cash management. Basically, SWIFT provides a centralized store-and-forward mechanism with some transaction management.
+
+
+
+
 ### Debit card
 
 ### Credit card
 
+A credit card is a system of payment named after the small plastic card issued to users of the system. It is different from a debit card in that it does not remove money from the user's account after every transaction. In the case of credi cards, the issuer lends money to the customer (or the user) to be paid to the merchant. A credit card allows the consumer to "revolve" their balance at the cost of having interest charged.
+
+A user is issued credit card after an account has been approved by the credit provider, and is given a credit card with which the user will be able to make purchases from merchants accepting the credit card up to a pre-established credit limit. When purchase is made, the credit user agrees to pay the card issuer. The cardholder indicates their consent to pay by signing a receipt with a record of the card details and indicating the amount to be paid or by entering a PIN. Also, some merchants may accept verbal authorization via telephone and electronic authorization using the internet, known as a card not present (CNP) transaction.
+
+Credit card issuers usually waive interest charges if the balance is paid in full each month, but typically will charge full interest on the entire outstanding balance from the date of each purchase if the total balance is not paid.
+
+
+
 ### ATM
+
+Most banks issue Automated Teller Machine (ATM) cards to their depositors for easy withdrawal of money from their accounts. An ATM card is a magnetic card which can be operated on a ATM by using a particular set of secret number, also known as Personal Identification Number (PIN). It is one of the most convenient and accessible systems of withdrawal of money.
+
+When a card holder wants to withdraw or _deposit_ money, first he has to establish his identity at the teller by entering his PIN. All relevant details, including PIN, such as type of bank account to make withdrawal or deposit from and the sum of such money are entered, following the instruction given by the machine, either using keyboard or touch sensitive screen.
+
+For cash deposit, the cash is required to be kept in a special envelope, which is available at the ATM counter. After sealing and writing the necessary information on it, the envelope placed near a slit is entered into the machine upon selecting the deposit option from the input. The bank officials will collect those envelopes at regular interval and credit the amount in the respective accounts.
+
+To facilitate quick transaction, banks provide the following teller counters to withdraw money from the deposit account.
+
+1. Manual teller counter
+
+In manual teller counters, banks generally allow withdrawal of money from the savings account for amount up to a limit. The cheque or withdrawal form is presented at the counter, and payment is made after verifying the balance in the account and tallying the specimen signature of the account holder.
+
+2. Automatic teller counter
+
+In automatic teller counter, ATMs are installed to handle cash transactions 24 hours a day. There is no need of anybody to verify your balance, compare the specimen signature or hand over or take over the cash.
+
+Nepalese banks are providing electronic cards and ATM services to their customers and also to the customers of other banks, which are in relation with it by provision of agreement. Under this service, banks not only issue the cards, they also accept the cards of other banking companies, both domestic and foreign, and establish and operate an numerous ATM counter at different locations to deliver quick withdrawl/deposit service to customers.
+
 
 ### PoS
 

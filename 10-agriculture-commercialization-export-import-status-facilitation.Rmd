@@ -16,8 +16,8 @@ Though trade is a key component of the economy, trade deficit has posed challeng
 ```{r macroeconomic-indicators}
 readxl::read_xlsx("./data/macroeconomic-indicators.xlsx", sheet = "macro-2020", range = "A2:E47") %>% 
   knitr::kable(booktabs = TRUE, caption = "Macroeconomic indicators, 2020", longtable  = TRUE, align = "l") %>% 
-  kableExtra::kable_styling() %>% 
-  kableExtra::column_spec(column = 1:5, width = c("2em", "10em", "4em", "4em", "4em"))
+  kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
+  kableExtra::column_spec(column = 1:5, width = c("2em", "18em", "4em", "4em", "4em"))
 ```
 
 
@@ -50,7 +50,7 @@ Moreover, Monetary Policy, 2018/19 has made significant investment-friendly refo
 
 Nepal has one of the lowest corporate tax regimes in South Asia making it an attractive investment destination. Tax rates for various entities according to their nature is summarized in the Table \ref{tab:corporate-tax-rates-nepal}.
 
-NRB revises tax rates annually in an effort to implement the revenue policy and to stabilize national economy. Tax rates for the FY 2019/20^[https://www.nrb.org.np/contents/uploads/2021/08/Annual-Report-2019-20-English.pdf] has prescribed following revisions in import, export, excise and other headings (Table \ref{tax-rates-2020}). 
+NRB revises tax rates annually in an effort to implement the revenue policy and to stabilize national economy. Tax rates for the FY 2019/20^[https://www.nrb.org.np/contents/uploads/2021/08/Annual-Report-2019-20-English.pdf] has prescribed following revisions in import, export, excise and other headings (Table \ref{tab:tax-rates-2020}).
 
 ```{r corporate-tax-rates-nepal}
 tribble(
@@ -64,15 +64,15 @@ tribble(
  "Saving and credit cooperatives located in urban areas", 20,
  "Enterprises operating roads, bridges, railways, hydropower stations, transmission lines, etc. on BOOT basis, etc.", 20
 ) %>% 
- knitr::kable(booktabs = TRUE, caption = "Corporate tax rates in Nepal") %>% 
- kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
- kableExtra::column_spec(column = 1, width = "18em")
+ knitr::kable(booktabs = TRUE, caption = "Corporate tax rates in Nepal", longtable = TRUE) %>% 
+ kableExtra::kable_styling(latex_options = c("striped", "HOLD_position"), font_size = 8) %>% 
+ kableExtra::column_spec(column = 1, width = "22em")
 ```
 
 ```{r tax-rates-2020}
 read_csv("./data/tax-rates-2020-nrb.csv", show_col_types = FALSE) %>% 
   knitr::kable(booktabs = TRUE, caption = "Tax rates for 2020 (Source: Annual Report, NRB)", longtable = TRUE) %>% 
-  kableExtra::kable_styling() %>% 
+  kableExtra::kable_styling(latex_options = c("striped", "HOLD_position"), font_size = 8) %>% 
   kableExtra::column_spec(column = 1:3, width = c("20em", "8em", "8em"))
 ```
 
@@ -96,7 +96,7 @@ NTIS 2016 aims to enhance Nepal’s export competitiveness by addressing seven c
 Primary documents and processes required to export from Nepal:
 
 - Registering a manufacturing company or trading firm
- - Manufacturing company: In the office of company registrar, 
+ - Manufacturing company: In the office of company registrar,
  - Trading firm: In the Department of Commerce
 
 Document requirements for registering a trading firm
@@ -187,7 +187,7 @@ Exporting Edible Products:
 source("./scripts/trade_status.R")
 ```
 
-```{r countrywise-trade-balance}
+```{r countrywise-trade-balance, out.width="60%", fig.height=4, fig.width=4, fig.cap="Balance of payment (import-export) status of recent years."}
 ## Countrywise trade balance
 # ls(pattern = "balance_country")
 balance_2017_19 <- reduce(list(ft_2017_balance_country %>% mutate(year = 2017), 
@@ -214,6 +214,7 @@ reduce(list(ft_2017_quantity_comparison %>%
   geom_col(aes(fill = fiscal_year), position = position_dodge2()) +
   scale_y_continuous(labels = scales::label_comma(), breaks = scales::breaks_extended(n = 10)) +
   scale_fill_discrete(name = "Fiscal year") +
+  labs(y = "Value in NRs") +
   theme_bw() +
   theme(axis.text.x = element_text(angle = 0))
 ```

@@ -21,7 +21,7 @@ It can thus be agreed that, banks help in capital formation and mobilization. It
 
 ## History of bank and banking
 
-(Refer to Section \ref{status-and-history}, Chapter \ref{bank-and-financial-institutions-adbl-their-status-operation-and-rural-financing-system} for a rich discourse on history of financial institution in general and banks in particular. This section also offers brief history of banking regulation and deregulation.)
+(Refer to Section \ref{status-and-history}, Chapter \ref{bank-and-financial-institutions-their-status-challenges-and-contribution-to-national-economy} for a rich discourse on history of financial institution in general and banks in particular. This section also offers brief history of banking regulation and deregulation.)
 
 The term Bank is derived either from one or both of the following references,
 
@@ -37,11 +37,11 @@ During the early periods, private individuals mostly did the banking business. A
 
 ### Development of banking in Nepal
 
-Nepal has proven history of money and coins from the period of Lichhivi as _Mannank_, the early coin issued by the-then king Mandev. The practice of issuing coins and its management continued during succedding eras as well. _Tejrath_, a primitive banking institution established by Rana Prime Minister Ranodweep Singh for distribution of loan to the people in exchange for security gold and other valuables during 1967 BS, was the predecessor to modern day banks of Nepal.
+Nepal has proven history of money and coins from the period of Lichhivi as _Mannank_, the early coin issued by the-then king Mandev. The practice of issuing coins and its management continued during succeeding eras as well. _Tejrath_, a primitive banking institution established by Rana Prime Minister Ranodweep Singh for distribution of loan to the people in exchange for security gold and other valuables during 1967 BS, was the predecessor to modern day banks of Nepal.
 
 Nepal bank limited was established in 1994-07-30 with an objective of extending banking services in the country. This early establishment was the first to create and cultivate the banking habit among Nepalese citizens. This was also fueled owing to rampant exploitative practices of landlords, _sahukars_ and money lenders at the expense of farmers and pheasants.
 
-Nepal rastra bank was set up on 2013-01-14 BS as a central bank under Nepal Rastra Bank act, 2012 BS. NRB as a central bank has been playing a major role in nation development through monetary and financial regulation and has substituted the Indian currency (the predominant medium of dealing during 1990s and earlier) by circulating Nepalese currency. According to its deputed function of central bank, NRB has been enforcing various regulatory directives to be implemented by bank and financial institutions, and has introduced a host of prudential measures to safegurad the interest of public.
+Nepal Rastra Bank was set up on 2013-01-14 BS as a central bank under Nepal Rastra Bank act, 2012 BS. NRB as a central bank has been playing a major role in nation development through monetary and financial regulation and has substituted the Indian currency (the predominant medium of dealing during 1990s and earlier) by circulating Nepalese currency. According to its deputed function of central bank, NRB has been enforcing various regulatory directives to be implemented by bank and financial institutions, and has introduced a host of prudential measures to safeguard the interest of public.
 
 Integrated and speedy development of the country is possible only when competitive banking service reach nooks and corners of the country. Keeping this in mind, government set up Rastriya Banijya Bank (RBB), a fully government owned commercial bank, in 2022-10-10 BS. Nepal Industrial Development Center was established in 2013 BS and later incorporated into NDIC in 2016 to finance equity and loan capital to industries. Agricultural Development Bank was established in 2024 to finance agriculture sector, broadly, and assist operation of agro-based industries within the country.
 
@@ -208,7 +208,7 @@ vii. Acting as Representative and Correspondent: Sometimes the banks act as repr
 - Collection of statistics
 - Gift cheque
 
-(Refer to Chapter \ref{bank-and-financial-institutions-adbl-their-status-operation-and-rural-financing-system})
+(Refer to Chapter \ref{banking-services})
 
 ## Sources of bank's income
 
@@ -241,17 +241,13 @@ Commercial banks also deal in foreign exchange. They sell demand drafts, issue l
 
 ## Status of bank and financial instiutions
 
-(Refer to Chapter \ref{bank-and-financial-institutions-adbl-their-status-operation-and-rural-financing-system})
+(Refer to Chapter \ref{bank-and-financial-institutions-their-status-challenges-and-contribution-to-national-economy})
 
 ## Nepal Rastra Bank
 
 Established in 1956, the NRB is the country's central bank and is responsible for ensuring monetary and financial stability in coordination with the MoF. A committee chaired by the Minister of Finance recommends the appointment of the governor of the central bank. NRB's main functions include issuing currency, formulating and implementing appropriate monetary policy, formulating and implementing a foreign exchange policy and determining a foreign exchange system, managing a foreign exchange reserve, issuing banking licenses, regulating commercial banks and financial institutions and serving as their banker, functioning as a banker, advisor and financial agent of the government, and establishing, promoting and regulating the system of payment, clearing and settlement.
 
-
-
-## In addition
-
-### Comprehensive Guide (Contemporary and GA)
+_Note_: Refer to **Comprehensive Guide (Contemporary and GA)**,
 
 - For discussion on:
   - Budget

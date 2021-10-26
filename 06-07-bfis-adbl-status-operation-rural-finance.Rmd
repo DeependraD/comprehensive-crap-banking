@@ -75,34 +75,40 @@ Due to the various measures initiated by the NRB in the financial sector of the 
 
 ```{r disaggregated-status-institutions-in-nepal}
 read_csv("./data/banks_class-A_commercial.csv", skip = 3, show_col_types = FALSE) %>% 
-  knitr::kable(booktabs = TRUE, caption = "Class A commercial banks of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  knitr::kable(booktabs = TRUE, caption = "Class A commercial banks of Nepal (by mid-January, 2021)", longtable = TRUE, align = "l") %>% 
   kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
-  kableExtra::column_spec(column = 1:6, width = c("1.5em", "14em", "5em", "8em", "4em", "10em"))
+  kableExtra::column_spec(column = 1:6, width = c("1.2em", "14em", "5em", "8em", "4em", "10em")) %>% 
+  kableExtra::add_footnote(escape = FALSE, label = "Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", notation = "symbol", threeparttable = TRUE)
 
 read_csv("./data/banks_class-B_development_banks.csv", skip = 3, show_col_types = FALSE) %>% 
-  knitr::kable(booktabs = TRUE, caption = "Class B development banks of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  knitr::kable(booktabs = TRUE, caption = "Class B development banks of Nepal (by mid-January, 2021)", longtable = TRUE, align = "l") %>% 
   kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
-  kableExtra::column_spec(column = 1:6, width = c("1.5em", "14em", "5em", "8em", "4em", "10em"))
+  kableExtra::column_spec(column = 1:6, width = c("1.2em", "14em", "5em", "8em", "4em", "10em")) %>% 
+  kableExtra::add_footnote(escape = FALSE, label = "Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", notation = "symbol", threeparttable = TRUE)
 
 read_csv("./data/banks_class-C_finance_companies.csv", skip = 3, show_col_types = FALSE) %>% 
-  knitr::kable(booktabs = TRUE, caption = "Class B finance companies of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  knitr::kable(booktabs = TRUE, caption = "Class B finance companies of Nepal (by mid-January, 2021)", longtable = TRUE, align = "l") %>% 
   kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
-  kableExtra::column_spec(column = 1:6, width = c("1.5em", "14em", "5em", "8em", "4em", "10em"))
+  kableExtra::column_spec(column = 1:6, width = c("1.2em", "14em", "5em", "8em", "4em", "10em")) %>% 
+  kableExtra::add_footnote(escape = FALSE, label = "Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", notation = "symbol", threeparttable = TRUE)
 
 read_csv("./data/banks_class-D_microfinance.csv", skip = 3, show_col_types = FALSE) %>% 
-  knitr::kable(booktabs = TRUE, caption = "Class D microfinance of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  knitr::kable(booktabs = TRUE, caption = "Class D microfinance of Nepal (by mid-January, 2021)", longtable = TRUE, align = "l") %>% 
   kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
-  kableExtra::column_spec(column = 1:6, width = c("1.5em", "14em", "5em", "8em", "4em", "10em"))
+  kableExtra::column_spec(column = 1:6, width = c("1.2em", "14em", "5em", "8em", "4em", "10em")) %>% 
+  kableExtra::add_footnote(escape = FALSE, label = "Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", notation = "symbol", threeparttable = TRUE)
 
 read_csv("./data/banks_class-other-institutions.csv", skip = 2, show_col_types = FALSE) %>% 
-  knitr::kable(booktabs = TRUE, caption = "Other financial institutions of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  knitr::kable(booktabs = TRUE, caption = "Other financial institutions of Nepal (by mid-January, 2021)", longtable = TRUE, align = "l") %>% 
   kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
-  kableExtra::column_spec(column = 1:4, width = c("1.5em", "16em", "6em", "10em"))
+  kableExtra::column_spec(column = 1:4, width = c("1.2em", "16em", "10em", "12em")) %>% 
+  kableExtra::add_footnote(escape = FALSE, label = "Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", notation = "symbol", threeparttable = TRUE)
 
 read_csv("./data/banks_infrastructure_development_bank.csv", show_col_types = FALSE) %>% 
-  knitr::kable(booktabs = TRUE, caption = "Infrastructure development bank of Nepal (by mid-January, 2021); Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", longtable = TRUE, align = "l") %>% 
+  knitr::kable(booktabs = TRUE, caption = "Infrastructure development bank of Nepal (by mid-January, 2021)", longtable = TRUE, align = "l") %>% 
   kableExtra::kable_styling(latex_options = "striped", font_size = 8) %>% 
-  kableExtra::column_spec(column = 1:6, width = c("1.5em", "14em", "5em", "8em", "4em", "10em"))
+  kableExtra::column_spec(column = 1:6, width = c("1.5em", "14em", "5em", "8em", "4em", "10em")) %>% 
+  kableExtra::add_footnote(escape = FALSE, label = "Source: \\url{https://www.nrb.org.np/contents/uploads/2021/02/List-of-BFIs-Poush-2077-_-English.pdf}", notation = "symbol", threeparttable = TRUE)
 ```
 
 Development banks and finance companies are not permitted to take demand deposits or undertake foreign currency business, but are otherwise treated similarly to commercial banks. A number of development banks were established with active participation of private sector after the Development Bank Act 1996 became effective with the aim of enhancing agriculture, industry and commerce through the provision of credit. Prior to this Act, there were only two development banks namely Agricultural Development Bank (which has been converted into commercial bank) and Nepal Industrial Development Corporation, both owned by the government. At present, development banks are operating under Bank and Financial Institutions Act 2006 possessing the status of "B" class financial institutions. NRB issues necessary directives on regular basis for the effective regulation of these banks.
@@ -158,7 +164,7 @@ Due to the effective implementation and improvement of the policy arrangements f
 ```{r status-institutions-in-nepal}
 
 tribble(
-  ~"institution", ~"number", 
+  ~"Institution", ~"Number", 
   "Banks and financial institutions", 162,
   "Insurance companies", 40,
   "Cooperatives", 34837,
@@ -179,17 +185,17 @@ The indicators of financial sector stability in fiscal year 2019/20 are robust i
 ```{r financial-sector-stability-2020}
 read_csv("./data/major_indicators_financial_sector_stability.csv", skip = 2, show_col_types = FALSE) %>% 
   knitr::kable(caption = "Major indicators of financial sector stability (Source: NRB, 2020); by mid-January.", booktabs = TRUE, longtable = TRUE) %>% 
-  kableExtra::kable_styling(font_size = 8) %>% 
-  kableExtra::column_spec(column = 1:7, width = c("8em", rep("5em", 6)))
+  kableExtra::kable_styling(font_size = 8, latex_options = "striped") %>% 
+  kableExtra::column_spec(column = 1:7, width = c("14em", rep("4em", 6)))
 ```
 
 ### Province-wise branches of bank and financial institutions
 
 ```{r provincewise-bfi-branches-2020}
 read_csv("./data/province-wise_branches_of_bfi.csv", skip = 3, show_col_types = FALSE) %>% 
-  knitr::kable(caption = "Province-wise branches of bank and financial institutions (Source: NRB, 2020; by mid-March 2020)", booktabs = TRUE) %>% 
-  kableExtra::kable_styling(font_size = 8) %>% 
-  kableExtra::column_spec(1:9, width = c("6em", rep("5em", 7)))
+  knitr::kable(caption = "Province-wise branches of bank and financial institutions (Source: NRB, 2020; by mid-March 2020)", booktabs = TRUE, longtable = TRUE) %>% 
+  kableExtra::kable_styling(font_size = 8, latex_options = "striped") %>% 
+  kableExtra::column_spec(1:9, width = c("12em", rep("4em", 7)))
 ```
 
 ### Bank rate, re-financing rate and compulsory reserve ratio (in percent)

@@ -80,11 +80,12 @@ Agriculture Development Bank (ADB) and other BFIs were authorized by NRB to esta
 
 ### Status and Constraints
 
-In Nepal the loans extended by the BFIs are mostly utilized by big farmers in the name of small farmers but in fact those are not in agriculture business. Nepalese banking sector comprises set-ups enlisted in Table \ref{disaggregated-status-institutions-in-nepal-1}, \ref{disaggregated-status-institutions-in-nepal-2}, \ref{disaggregated-status-institutions-in-nepal-3} and \ref{disaggregated-status-institutions-in-nepal-4}. Likewise, there are 16 cooperatives and 31 NGOs that are licensed by NRB (as of Dec, 2015). Financial Institutions collects the scattered deposit from the surplus sector and mobilizes for the capital formation in the productive sector and thereby support economic growth. The deposit mobilization and credit disbursement stood Rs.1872 billion and Rs.1440 billion respectively as on mid-Dec 2015. Agriculture loan (including fishery) provided by BFIs reached to Rs. 66.5billion and stood 4.6 percentages in the six months of 2015/16. While the same with addition to agriculture, fishery and production related stood at 23.3 percent in mid-Jan 2016 and the deprived sector loan stood at 4.9 percent in the same period. These facts shows that, despite mandatory requirements in agriculture credit financing, BFIs have rather opted to pay penalty rather than extend loans in the agriculture sector. Despite various effort made by the central bank of Nepal for increasing agricultural credit and expansion of financial services in the rural areas for access and inclusion, BFIs still remain reluctant to extend the loan in the targeted areas. Some progress in this matter has been achieved in the past few years along with the announcement of mandatory productive sector credit policy and deprived sector credit policy.
+In Nepal the loans extended by the BFIs are mostly utilized by big farmers in the name of small farmers but in fact those are not in agriculture business. Nepalese banking sector comprises set-ups enlisted in Table \ref{tab:disaggregated-status-institutions-in-nepal}. Likewise, there are 16 cooperatives and 31 NGOs that are licensed by NRB (as of Dec, 2015). Financial Institutions collects the scattered deposit from the surplus sector and mobilizes for the capital formation in the productive sector and thereby support economic growth. The deposit mobilization and credit disbursement stood Rs.1872 billion and Rs.1440 billion respectively as on mid-Dec 2015. Agriculture loan (including fishery) provided by BFIs reached to Rs. 66.5billion and stood 4.6 percentages in the six months of 2015/16. While the same with addition to agriculture, fishery and production related stood at 23.3 percent in mid-Jan 2016 and the deprived sector loan stood at 4.9 percent in the same period. These facts shows that, despite mandatory requirements in agriculture credit financing, BFIs have rather opted to pay penalty rather than extend loans in the agriculture sector. Despite various effort made by the central bank of Nepal for increasing agricultural credit and expansion of financial services in the rural areas for access and inclusion, BFIs still remain reluctant to extend the loan in the targeted areas. Some progress in this matter has been achieved in the past few years along with the announcement of mandatory productive sector credit policy and deprived sector credit policy.
 
 Recently, NRB has established a fund scheme called Deposit and Credit Guarantee Fund (DCGF) for providing credit guarantee services for priority sector as well as for livestock, vegetable farming, foreign employment, micro and deprived sector, and small and medium-scale enterprises^[Annual Report, 2018/19, NRB]. The DCGF guaranteed total credit amounting to Rs. 25.66 billion and total deposits amounting to Rs. 603.39 billion as of mid-July 2019.
 
 Another such fund initiative established by concerted efforts from GoN and NRB is Rural Self-Reliance Fund (RSRF), established in 1991 in order to raise the socio-economic status of economically weak and poor citizens residing in rural areas through the provision of low interest credit. RSRF established with the seed capital of Rs. 10 million and has reached Rs. 0.79 billion with the contribution of
+
   - Rs. 0.54 billion from GoN and
   - Rs. 0.25 billion from NRB.
 
@@ -98,7 +99,7 @@ As of mid-July 2019, the outreach of RSRF has expanded to 72 districts. The RSRF
 
 Despite all these arrangements, reasons for low credit flow to agriculture sector in Nepal can be analyzed in the following two ways:
 
-#### Supply Side Constraints
+**1. Supply Side Constraints**
 
 - BFIs are not encouraging to disburse agriculture credit as such type of loan is small in size and high administrative cost which may not earn more profit.
 - Generally the BFIs require the sound collateral back up to provide the loan. Most of the farmers have not enough property that can be mortgaged to get the loan.
@@ -108,7 +109,7 @@ Despite all these arrangements, reasons for low credit flow to agriculture secto
 - No mechanization and modernization in agriculture sector so that the loan could be provided against the backup of the machines and the project itself.
 - BFIs's network is concentrated in urban areas, the presence of BIFs with wide range of affordable services in the rural areas are not satisfactory.
 
-#### Demand Side Constraints
+**2. Demand Side Constraints**
 
 - Lengthy administrative procedure of BFIs, long and complex application form which is beyond the understanding of most of the farmers.
 - Poor banking habit, wrong perception about availing the bank credit. Still many people perceive that taking loan from bank diminishes the prestige in the society.
