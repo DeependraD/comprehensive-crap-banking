@@ -1,0 +1,25 @@
+# Banking facts
+
+## Which bank is first to start
+
+- ATM card: Everest Bank
+- Credit card: Himalayan Bank
+- Foreign branch: Global IME
+- Use of robot: SBI Bank
+- Multi currency card: Century Bank
+- SMS mobile banking: Laxmi Bank
+- Internet banking: Kumari Bank
+- QR code: Nabil bank
+- Combined Nepalese and foreign in capital formation: Nabil bank
+
+## Stylized fact^[Financial literacy framework, 2077]
+
+- Presence of banks in local level of Nepal: 743 out of 753 as of mid-December 2019. (Nepal Rastra Bank, 2019)
+- Branch network of BFIs are at 9,297 as of mid-December 2019 (Nepal Rastra Bank, 2019).
+- 45.4 % of adults in Nepal hold an account at a formal financial institution. (The World Bank, 2017)
+- Adults having access to formal financial services: 61% (40% formally banked and 21% using other formal products)
+- 19.9% of Nepalese adults are financially excluded: have no account because financial institutions are too far away. (The World Bank, 2017)
+- Only 6.3% of people use banks and financial institutions for gathering funds to go abroad. (Nepal Rastra Bank, 2016) 52.8% of the households receiving remittance take credit of which 37.3% have taken it from BFIs (Nepal Rastra Bank, 2016).
+- 60.9% of Nepalese hold at least one savings account in a commercial bank, a development bank or a finance company (A, B and C class of financial institutions in Nepal). (Nepal Rastra Bank, 2019).
+
+

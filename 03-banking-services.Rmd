@@ -53,7 +53,61 @@ Deposit products refer to the variety of ways banks collect deposits from public
 
 ### Loan
 
-The act of giving money, property or other material goods to another pary in exchange ... (Continue from Advanced Banking book)
+The act of giving money, property or other material goods to another party in exchange for future repayment of the principal amount along with interest or other financial charges. A loan may be for a specific, one-time amount or can be available as open-ended credit up to a specified ceiling amount. Loans can be classified as secured and unsecured.
+
+**1. Secured loans**
+
+A secured loan is a loan in which the borrower pledges some asset (e.g., a car or property) as collateral for the loan, which then becomes a secured debt owed to the creditor who gives the loan. The debt is thus secured against the collateral -- in the even that the borrower defaults, the creditor takes possession of the asset used as collateral and may sell it to regain some or all of the amount originally lent to the borrower. If the sale of the collateral does not raise enough money to pay off the debt, the creditor can often obtain a deficiency judgement against the borrower for the remaining amount.
+
+A mortgage loan is a very common type of debt instrument, used to purchase real estate. Under this arrangement, the money is used to purchase the property. Commercial banks, however, are given security -- a lien on the title to the house -- until the mortgage is paid off in full. If the borrower defaults on the loan, the bank would have the legal right to repossess the house and sell it, to recover the sums owing to it.
+
+**2. Unsecured loans**
+
+Unsecured loans are monetary loans that are not secured against the borrower's assets (no collateral is involved). There are small business unsecured loans such as credit cards and credit lines to large corporate credit lines. These may be available from financial institutions under many different guises or marketing packages such as
+
+- Bank overdrafts
+- Corporate bonds
+- Credit card debt
+- Credit facilities or lines of credit
+- Personal loans
+
+A *corporate bond* is a bond issued by a corporation. It is a bond that a corporation issues to raise money in order to expand its business. The term is usually applied to longer-term debt instruments, generally with a maturity date falling at least a year after their issue date. The term 'commercial paper' is sometimes used for instruments with a shorter maturity. Sometimes, the term 'corporate bonds' is used to include all bonds except those issued by governments in their own currencies.
+
+According to the type of activity being financed, bank loans can be classified as,
+
+**1. Priority sector lending**
+
+The Government of Nepal through the instrument of NRB mandates certain types of lending on the banks operating in Nepal irrespective of their origin. NRB sets targets in terms of percentage (of total money lent by the banks) to be lent to certain sectors which, in its perception, would not have access to organized lending is called priority sector lending. Financing of small scale industry, small business, agricultural activities and export activities fall under this category. This is also called directed credit in Nepalese banking system.
+
+Financing priority sector in the economy is not strictly on a commercial basis because of the liberal general approach and the less rate of interest charged on such loans. Export finance is, in fact, available at a discount of 20% or more on the normal rate of interest to corporate in Nepal. Part of the cost of this concession is borne by NRB by means of refinancing such loans as a concessional rate. Banks, therefore, contribute towards economic development by subsidizing the business activities undertaken by entrepreneurs in the areas which are considered "priority sector" by NRB.
+
+**2. Commercial lending**
+
+Commercial lending is the mainstay of banking -- its bread and butter activity. Although historically, this activity had been relegated to a secondary position, as banks were driven by the desire to excel themselves in what is known as priority sector banking, yet it is this part of the loan portfolio which has kept them afloat and help meet the costs. With financial sector reforms, the focus has shifted from priority sector banking, and commercial lending has been reinstated as primary vehicle for improving their bottom lines. Fresh and innovative products are being launched to facilitate the corporate customer who forms the core of this business. There is big competition among the banks to secure bigger share of this business.
+
+At present, commercial loans are available for practically any kind of activity and also for both long and short tenures. Based on customer profile, these loans are of three types;
+
+a. Corporate loans
+- Meant for corporate bodies (proprietorship, partnerships, etc.) engaged in legal activity for making profit.
+- Lending is based on the strength of balance sheet, the length of cash cycle and depending upon the products available with individual banks.
+- Steps
+  - Audited balance sheets of prospective borrowers are analyzed to appraise their needs and their capacity to absorb credit.
+  - Prospective borrowers are required to furnish their financial details in the form of Credit Monitoring Arragement (CMA) data to the bankers, and file an application for the loan.
+  - The application is processed and the borrower is asked to execute bank's standard documents, surrender the security or title to the security to the bank and open suitable accounts (mostly cash credit account).
+  - Finally, the borrower can operate these accounts within the limit (line of credit).
+
+b. Retail loans
+- Meant for small entrepreneurs as well as individuals who are engaged in gainful commercial activity and have the capacity to repay the loan.
+- Loans are given on the strength of the means of the borrower with an eye on the repaying capacity, the latter is judged through the cash streams (income) available with the borrower for repayment of the loan.
+
+c. Other specific loans
+- Real estate loans
+- Financial institution loans
+- Agricultural loans
+- Commercial and industrial loans
+- Loans to individuals
+- Miscellaneous loans
+- Lease financing receivables
 
 ## Remittance
 
@@ -138,6 +192,94 @@ Nepalese banks are providing electronic cards and ATM services to their customer
 ### Locker
 
 ### Financial literacy
+
+Financial literacy refers to "Knowledge and understanding of financial concepts and risks, and the skills as well as motivation and confidence to apply such knowledge and understanding in order to make effective decisions across a range of financial contexts, to improve the financial well-being of individuals and society, and to enable participation in economic life" (OECD, 2015). It is a combination of
+
+- awareness
+- knowledge
+- skill
+- attitude
+- behavior necessary to make sound financial decisions
+
+The Government of Nepal (GoN) has emphasized the necessity of an inclusive financial system, which is reflected in the 2017 release of Nepal's Financial Sector Development Strategy Paper and has an objective "to develop an inclusive financial system to make access to finance easy and comfortable for those with low income and from rural areas and to increase financial literacy in financial services and instruments and to protect the interests of financial consumers" (FSDS, 2017) in order to achieve its domestic poverty reduction goal.
+
+In consonance with GoN's declaration for an inclusive financial system, Nepal Rastra Bank (NRB), the central bank of Nepal, has the objective in NRB Act, 2002 Section 4 (b) "To increase the access of the financial service and increase the public confidence towards the banking and financial system".
+
+To support the attainment of this objective, NRB has highlighted this in its recent Strategic Plan (2017 – 2021) under strategy 2.1 of seventh pillar entitled "Enhancing financial literacy and financial education", in annual monetary policy statements as well as in the Financial Inclusion Roadmap (2017-2022), which provides an overarching guideline for the strengthening of financial inclusion in Nepal, including financial literacy as an intervention to achieve its implementation priority in the area of strengthening consumer empowerment, protection and education.
+
+Financial literacy (FL) programs in Nepal are presently being conducted by various agencies including the central bank in a scattered and fragmented manner with differences in the methodologies and delivery mechanism. Nepal Rastra Bank aims to enhance and systematize the current fragmented FL activities to facilitate monitoring and evaluation as well as regular assessment through a policy initiation in the form of a Financial Literacy Framework (FLF). NRB aims to develop a structured and systematic FLF that will comprise of operating guidelines, training manuals and monitoring and evaluation methodologies based on a standard foundation comprising of NRB's vision, mission, goals and objectives for the FL.
+
+With the current infrastructure and politico-physical landscape, key opportunities of enhancing Financial Literacy lies in moving in tandem with the improving trend of financial access by the presence of BFIs in all local units of the government. This campaign could be further backed by high a strong commitment from the government and the central bank.
+
+Financial literacy aims to ultimately enhance knowledge of using banking channels for making financial transactions and converting these skills into behavioral changes. Its objectives include,
+
+- Creation of awareness on access to financial services and availability of different banking products and services.
+- Motivate people to get accustomed to formal banking practices and in improving their financial conditions.
+- Help consumers understand the rights and responsibilities regarding the use of financial services and products.
+- Help financially excluded individuals to comprehend and access financial products and services at affordable costs;
+- Enhance awareness of the availability of digital financial services and its benefits.
+- Impart use and advantages of management of personal finance through budgeting.
+- Change attitude towards financial services for translating knowledge into behavior.
+
+Consumers/customers of the financial sector are eventual beneficiaries of interventions on financial education. They can be better served by properly stratifying to ensure homogeneity in view of prevailing market segmentation. Target groups can be categorized into broad segments on the basis of income generation (for example, a use case by Fin Scope 2015) as,
+
+- Salaried workers,
+- Micro, small and medium enterprises,
+- Remittance receivers,
+- Farmers,
+- Irregular earners, and
+- Dependents (cross cutting segment of women and students)
+
+Financial literacy knowledge is an ongoing phenomenon. People have a general knowhow on financial and money matters such that the level of knowledge differs on the basis of society, literacy level, and urban and rural sector.
+
+On the basis of financial knowledge and its uses, the level of financial literacy has been divided into two categories:
+
+(i) Basic
+
+- The minimum degree of literacy required for all individuals from any type of background to navigate daily life.
+- Financial concept
+  - Needs and wants
+  - Financial goals
+  - Grievance handling
+- Planning and managing
+  - Household budget
+  - Savings
+  - Loans
+  - Financial service providers
+  - Remittance
+  - Micro-enterprises and business plan
+  - Risk management
+
+(ii) Advanced
+
+- The knowledge beyond the basic and fundamental financial concepts.
+- Financial concept
+  - Financial discipline
+  - Digital financial services
+  - Capital market
+- Planning and managing
+  - Diversified savings and loans
+  - Rational financial decisions (long and short term)
+  - Variants of digital financial services
+
+FL contents are categorized according to the OECD into two broad Core competencies framework such as financial concepts and planning and managing, as indicated by change in (i) financial knowledge, skills and attitudes, (ii) behavioral changes, and (iii) financial outcomes. Financial concepts are more theory based that disseminate informative contents. Planning and managing include more application-based contents that have a direct impact on skills, attitude, behavior and outcomes.
+
+Literacy programs need to arrange delivery channels and make adjustments to them according to the target consumer segment and to the nature of contents. Traditional (Face to face training, lecture, public campaigns, tv shows, radio programs, comic strips and audio visuals) and non-traditions (Internet, mobile messaging) delivery channels are sough after in the process.
+
+As with any educational program, financial literacy campaigns have best outcomes when structured sequentially via interventions and programs that incorporate changes in the existing knowledge, skills and attitudes of the recipients.
+
+As a part of financial inclusion, FL involves multi-stakeholders, most of which are licensed/authorized to operate their business under the NRB's domain. Institutional roles and responsibility can be broadly described as shown:
+
+Nepal Rastra Bank
+- Regulation and supervision regarding FLF
+- M&E of FLF
+Bank
+  - Periodic review and update in framework of financial literacy
+  - Annual reporting of the NRB sponsored FL programs in Nepal
+NRB licensed/authorized institutions
+  - Implementation of the programs
+  - Monitoring of the framework as in micro level
+  - Micro level reporting of feedback exchange on delivery of financial literacy
 
 ### Digital literacy
 

@@ -1,20 +1,75 @@
 # Agriculture finance, credit, government support schemes and digitization
 
-## Agriculture finance and role of banking sector
+## Current state of agriculture
 
-The contribution of agriculture to the GDP was more than 62.0 percent before 1980s. It was more than 90.0 percent before 1956 A.D, at the time when Nepal Rastra Bank was established as the central bank of Nepal. In the decade of 1990s, it declined to 51.0 percent and it went on further declining to 40.0 percent in 2000 A.D. Since then, it has been contracting, standing at around 33.0 percent in 2015. Much of the richer history in the early days was partly due to the expansion of industry and service sectors and partly as a result of the disincentives created by macroeconomic environment in agriculture.
+Nepal is an agro-based country, more than 60.0\% citizen of which still rely on the agriculture as major source of income. Even though majority of the citizens have occupation as farmer, many of them don't even possess their own land. Until 2006, agriculture itself held 39.5\% and of the total economy while looking into the GDP indicator. It stood at 32.5\% during 2014/15 and is currently 26.98\% of the GDP (2075/76).
 
-Similarly, the growth rate of agricultural productivity exhibited a downward trend at that time. Thus, agricultural productivity stagnated at a time when the population growth rate was around 2.5 percent per annum. This period also witnessed a slow growth due to lack of coherent policies in agriculture credit. As a result, a sharp decline in export of cash crop production, with only marginal increase of food production that could not even meet the demand of the alarming increase in population was witnessed. Hence, domestic food supply had to be augmented through large imports. Despite all these, agriculture remained a vital pursuit in Nepal. Unfortunately, agricultural financing has suffered a major setback. The factors contributing include low agricultural productivity, lack of capital and credit facilities, inadequate availability of inputs and storage facilities, lack of conducive and enabling environment, weak agricultural extension delivery and outdated infrastructure. Based on the inhibiting factors above, there is the need to recruit more financial resource to enhance production and boost productivity in Nepalese agriculture sector through investment in modern technology.
+The import of agriculture goods such as rice, vegetables and fruits have been increased significantly in recent years. The import of paddy/rice surged to Rs.25.0 billion in year 2014/15 which was Rs.17.26 billion in the previous year. Likewise the import of vegetables, fruits were accounted Rs.8.0 billion ad Rs.4.0 billion in year 2014/15. The ballooning import of agro products is one of the major components of widening trade deficit. Although the earthquake struck Nepal in the tenth month 2014/15, the impact on growth seems to be sizable; this is then estimated to have grown by only 3.0 \%. In 2015/16, a subpar monsoon will constrain agriculture growth, while the expected delay in getting reconstruction started, coupled with economic dislocation and damage to infrastructure, will curtail overall growth, including the agriculture sector in Nepal.
+
+Despite direct contribution to domestic economy and the fact that more than 50% of country's export is attributable to agriculture, this sector has been a subject of lenient government overview and hence seeks a much focused intervention.
+
+Several plans, programs, acts and regulations have been enacted and implemented by the government for the smooth development of agriculture sector in Nepal.
+
+i. Agriculture Development Strategy/ ADS, 2015-2025 (It guides agriculture development in Nepal for coming two decades)
+ii. Multi Sector Nutritional Plan and Food Security Action Plan (provides direction for achieving nutritional outcomes as envisioned by GoN)
+iii. Zero Hunger Challenge Initiative 2025 (sets basis for ensuring that every man, woman and child enjoy their rights to get adequate food)
+iv. Enacted 22 Policies (National Agriculture Policy 2004, Agribusiness Promotion Policy 2007, Agro Biodiversity Policy 2007, National Seed Policy 2000, National Fertilizer Policy 2002, Irrigation Policy 2003, National Tea Policy 2000, National Coffee Policy 2003, Dairy Development Policy 2007, Agriculture Perspective Plan 1995-2015, ADS 2015-2025, National Poultry Policy etc.) All these policies have clearly defined the ways to promote the respective sectors of agriculture and livestock.
+v. Enacted 18 Acts (Seed Act, Pesticide Act, Plant Protection Act, Co-operative Act, National Tea and Coffee Development Board Act 2048, National Cooperative Development Board Act 2049, Nepal Agriculture Research Council Act 2048 etc.)
+vi.	 Enacted 9 Regulations (Food Regulation 2041, Seed regulation 2054, Cooperative Regulation 2049 etc.)
+vii. Enacted 7 Orders (Chemical Fertilizer Control Order 2055, Bird Flu Control Order, 2064, etc.)
+viii. Implemented smart subsidy policies like subsidy on fertilizer, seed, agriculture inputs, crop and livestock insurance, etc.
+ix. Youth focused programs for reducing youth migration and increasing contribution from women at household level.
+x. Demand based programs like small irrigation, cooperative farming, farmily farming, marketing structures, etc.
+xi. Problem based research and development activities, like Farmer's Field Demonstration, Integrated Pest Management and participatory research, etc.
+xii. Food quality control like good manufacturing practices, joint monitoring, green strikers, etc.
+xiii. Value chain support grants assisted by IFAD, ADB, World Bank, USAID, PACT, HVAP, UNNATI, KUBK, RISMFP, HIMALI, AFSP, etc.
+xiv. Prime-minister Agriculture Modernization Project (10 year program envisioning enhanced production, productivity, commercialization and mechanization of agriculture)
+
+Despite all these measures and prowess by government, private and international spheres to empower agriculture, the backbone of economy is still a problem ridden sector.
+
+- Due to the lack of vocational training and credit facilitation farmers are reluctant to transition to commercial and mechanistic methods of cultivation.
+- Brain drain/migration of youths/this sector is almost in the hand of elderly, children and women
+- Difficult topography/terrain to extend agricultural technology, credit, extension and material support
+- Subsistence type of farming (0.8 ha land/family)
+- Fallowing of land by large farmers
+- Land fragmentation/ haphazard land plotting practices
+- Unequal land distribution/dual land ownership
+- Of the total 2,265,000 hectares of irrigable land, only 1.473 million hectares are irrigated (including all forms of irrigation supply) by the end of the FY 2018/19. Among irrigable fraction of land, only 33% of all has access to year-round irrigation.
+- Problem in agriculture product marketing/syndication/high interference of agents/mediators
+- Stereotypically, sector is recognized as undignified job by the society
+- Poor road/transportation networks
+- Lack of large processing industries/warehouses/godowns/cold storages. Orchards of Humla and Jumla are inaccessible for the people of Kathmandu due to no proper transportation facility, resulting in post-harvest deterioration of those valuable products.
+- Agriculture products are expensive and less competitive as compared to Indian products due to lack of government subsidies
+- Neither commercial banks are serious in investing in this sector nor rural cooperatives are focused on agricultural credit
+- Haphazard use of chemical fertilizers and pesticides thereby causing serious health hazards
+- Decreasing soil fertility and productivity, etc.
+
+Several aspects of macro-economic and budgetary policy that are integral to shape and provide direction to agriculture require reconsidered and reformation. Government priority sector has to be reigned by agriculture instead of other vague and less important sectors.
+
+### Scope of agriculture 
+
+- Ever increasing population and asynchronous expansion of cultivable land (human has to take food not money)
+- Rich in bio-diversity, different kinds of ecological zones (high hills, hills, plain etc.)
+- Changing food habit of people, increasing tourist flow
+- Decreasing production
+- Improved technology available
+- Youths particularly returnee from third countries are attracted in agriculture sector
+- Many GOs, Semi GOs, NGOs, INGOs and Bi-lateral organizations are investing and promoting agriculture sector
+- No problem of market/demand of organic products is high
+- High agriculture trade deficit opens the door to invest in this sector
+- Rules of government and NRB to invest in this sector (for BFIs 10% of total outstanding loan)
+- Govt. is planning to provide identity/ pension card to farmers
+- High profit margin if market is managed properly
+
+## Agriculture Finance
+
+The contribution of agriculture to the GDP was more than 62.0% before 1980s. It was more than 90.0% before 1956 A.D, at the time when Nepal Rastra Bank was established as the central bank of Nepal. In the decade of 1990s, it declined to 51.0% and it went on further declining to 40.0% in 2000 A.D. Since then, it has been contracting, standing at around 33.0% in 2015. Much of the richer history in the early days was partly due to the expansion of industry and service sectors and partly as a result of the disincentives created by macroeconomic environment in agriculture.
+
+Similarly, the growth rate of agricultural productivity exhibited a downward trend at that time. Thus, agricultural productivity stagnated at a time when the population growth rate was around 2.5% per year. This period also witnessed a slow growth due to lack of coherent policies in agriculture credit. As a result, a sharp decline in export of cash crop production, with only marginal increase of food production that could not even meet the demand of the alarming increase in population was witnessed. Hence, domestic food supply had to be augmented through large imports. Despite all these, agriculture remained a vital pursuit in Nepal. Unfortunately, agricultural financing has suffered a major setback. The factors contributing include low agricultural productivity, lack of capital and credit facilities, inadequate availability of inputs and storage facilities, lack of conducive and enabling environment, weak agricultural extension delivery and outdated infrastructure. Based on the inhibiting factors above, there is the need to recruit more financial resource to enhance production and boost productivity in Nepalese agriculture sector through investment in modern technology.
 
 Agricultural operations in Nepal over the past years have been quite primitive and productivity have remained very low due to inadequacy in use of modern technology. The cost of agricultural machinery like tractors, harvesters, planters, etc., are astronomically high, relative to conventionally used production inputs, and are out of reach of an average Nepalese farmer. Also included is inadequate supply of critical inputs such as hybrid seeds, fertilizers and agro-chemicals at the appropriate time and at affordable prices.
 
 The Nepal government has been intervening in the agricultural sector through its policies, programs and strategies to increase production and strengthen the sector so as to play its expected role in the development process but such efforts have not been fruitful despite the size of resources committed. Various work have been carried out to increase the agriculture productivity, economic growth and wealth creation. However, despite that, productivity has remained low at times when necessity to ensure sound flow of capital finance in the form of money and other agricultural facilities have been overlooked.
-
-## Current state of agriculture
-
-Nepal is an agro-based country, more than 60.0\% citizen of which still rely on the agriculture as major source of income. Even though majority of the citizens have occupation as farmer, many of them don't even possess their own land. Until 2006, agriculture itself held 39.5\% and of the total economy while looking into the GDP indicator. It stood at 32.5\% during 2014/15 and is currently 26.7\% of the GDP. This means still now agricultural sector covers more than one third of the total national economy. If only we could concentrate upon the new approaches for systematic and scientific agricultural system then our national economy growth would reach a greater height. This would ultimately solve the poor economic condition of our citizens and later prosperity would prevail. There has always been much neglect regarding the agricultural sector for ages. Realization of better country's economy with prosperous agricultural sector is there but unwillingness to act upon it is a problem. Farmers of more than 53.0 percent of the fertile land have unheard the irrigation facility yet and still depend upon rain water for cultivation. Lack of proper education or training, farmers apply same old fashioned way of farming that yields less than that with new techniques. Likewise, orchards of Humla and Jumla are inaccessible for the people of Kathmandu due to no proper transportation facility resulting to rotting of those products. Some farmers don't have lands for their own to cultivate whereas some have unlimited lands that are left barren. Thus, there happens to be many problems in the agricultural sector that had to be addressed by the government.Hence, budget has to be reconsidered and a reform in agriculture and better provisions has to substitute other vague and less important sectors. Agriculture sector comprises almost one third share in GDP (32.5 percent), employs large percentages of population and one fourth share in export. The production of agriculture and forestry sectors is estimated to grow by just 1.8 percent in 2014/15 and growth of this sector averaged 3.0 percent during the last five years. The import of agriculture goods such as rice, vegetables and fruits have been increased significantly in recent years. The import of paddy/rice surged to Rs.25.0 billion in year 2014/15 which was Rs.17.26 billion in the previous year. Likewise the import of vegetables, fruits were accounted Rs.8.0 billion ad Rs.4.0 billion in year 2014/15. The ballooning import of agro products is one of the major components of widening trade deficit. Although the earthquake struck Nepal in the tenth month 2014/15, the impact on growth seems to be sizable; this is then estimated to have grown by only 3.0 percent. In 2015/16, a subpar monsoon will constrain agriculture growth, while the expected delay in getting reconstruction started, coupled with economic dislocation and damage to infrastructure, will curtail overall growth, including the agriculture sector in Nepal.
-
-### Agriculture Finance
 
 Agricultural finance generally means studying, examining and analyzing the financial aspects pertaining to farm business, which is the core sector of Nepal. The financial aspects include money matters relating to production of agricultural products and their disposal. Agricultural finance can be dealt at both micro level and macro level. Macro-finance deals with different sources of raising funds for agriculture as a whole in the economy. It is also concerned with the lending procedure, rules, regulations, monitoring and controlling of different agricultural credit institutions. Hence macro-finance is related to financing of agriculture at aggregate level. Micro-finance refers to financial management of the individual farm business units. And it is concerned with the study as to how the individual farmer considers various sources of credit, quantum of credit to be borrowed from each source and how he/she allocates the same among the alternative uses within the farm. It is also concerned with the future use of funds. Therefore, macro-finance deals with the aspects relating to total credit needs of the agricultural sector, the terms and conditions under which the credit is available and the method of use of total credit for the development of agriculture, while micro-finance refers to the financial management of individual farm business.
 
@@ -61,7 +116,20 @@ Agriculture sector is the mainstay of the economy of Nepal and it accounts for o
 4. Cottage industry loans and
 5. Off farm income to farmers generating activities loans
 
-### Efforts of NRB for agricultural credit in Nepal
+### Reasons for low agriculture credit flow in Nepal
+
+- Farmers cannot provide good collaterals to BFIs
+- Ineffective insurance policies/lack of its knowledge to farmers
+- Administrative obstacles to get loan/ different types of documents needed
+- Ignorance of youths towards agriculture sector
+- Lack of availability of agricultural inputs at right time, right place and affordable price
+- Monsoon based agriculture/risky business
+- High cost of production
+- Uncertainty of market demand and high volatility in commodity price due to open border economy. 
+- Land fragmentation/lack of farm mechanization
+- Repetition of credit facilitation to same farmer from Banks, cooperative, FIs, NGOs, etc. thereby creating an unfair environment for investment.
+
+### Efforts of NRB in managing credit in Agriculture
 
 Agriculture Development Bank (ADB) and other BFIs were authorized by NRB to establish and to provide the financial services along with others, and to extend the agricultural credit. The latter, however, mostly remained reluctant in financing agriculture despite numbers of BFIs reached more than 200 with around 4000 branch network in various geographical areas in Nepal. Although, the BFIs, since then, are providing loans to the farmers for meeting their short and medium term requirements, this has not been sufficient. It is negligible both in percentage and volume of total loan extended by them. The agricultural loans are advanced to the farmers against the security of land, crops, and fixed assets and even on personal security and BFIs disburse agricultural credits for the purchase of inputs, cattle, tractors, dairy farming, installation of tube wells etc. In Nepal BFIs provide loans under the regulated credit scheme of NRB and outside of this scheme. In addition to the BFIs regulated by the NRB, cooperatives are oldest institutional sources of agriculture credit in Nepal but their performance in the spread and utilization of credit to the small farmers is not satisfactory. NRB has made the following efforts since its establishment for the development of agricultural sector and credit to agriculture.
 
