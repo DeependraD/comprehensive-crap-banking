@@ -8,13 +8,58 @@
 
 (Refer to Comprehensive Guide (Contemporary and GA))
 
-### New public management (NPM)
-
-(Refer to Comprehensive Guide (Contemporary and GA))
-
 ### Management Information System 
 
-(Refer to Comprehensive Guide (Contemporary and GA))
+MIS is the study of people, technology, organizations and the relationships among them. MIS professionals helps firms realize maximum benefit from investment in personal, equipment, and business processes. MIS is a people-oriented field with an emphasis on service delivery through the use of technology for decision-making, coordination, control, analysis, and visualization of information in an organization.
+
+Business use information systems at all levels of operation to collect, process and store data. Management aggregates and disseminates this data in the form of information needed to carry out the daily operations of business. Everyone who works in business, from someone who pays the bills to the person who makes employment decision, uses information system.
+
+In public governance, MIS are the tools to promote transparency, accountability and participation. More specifically, recent approaches to delivering bureaucratic services are expected to meet their goals of public orientation and result based performance evaluation aided through information system. Establishment of computerized Integrated Financial Management Information System (IFMIS) is being mulled over to implement single platform central accounting system as a part of a public finance management reform initiative by Government of Nepal with support of World Bank. For example, under this system information about expenditure made by the Department of Roads and the revenue collected by the Inland Revenue Department will be disseminated via the same platform. Also the concept of digital National Identity Card based is a part of broader vision of government, currently under delegation of the National ID Management Center (NIDMC) under aegis of Ministry of Home Affairs, to aggregate vital information database of the citizens.
+
+In a corporate setting, the ultimate goal of the use of a management information system is to increase the value and profits of the business. This is done by providing managers with timely and appropriate information allowing them to make effective decisions within a shorter period of time.
+
+Informational system offer organization management with following useful features:
+
+1. Accuracy
+  - Requires effective control of operations
+  - Helps divert management efforts and energies on high priority problems
+2. Timeliness
+  - Address problems that require immediate attention
+  - Saves management from future troubles and provides reference for timely decision 
+3. Flexibility
+  - Business and economy is highly dynamic in nature, rigid control of which would not be suitable for changing environment
+  - Strategic planning must allow for adjustments for unanticipated threats and opportunities and managers must make modifications in controlling methods, techniques and systems.
+4. Acceptability
+  - Control system should function in a way understandable and acceptable to employees
+  - Operation procedures should avoid mistakes and resentment from customers
+5. Integration
+  - Management operations should work in a way consistent with corporate values and culture.
+6. Economic feasibility
+  - Cost of management operations must be balanced against its benefits.
+7. Strategic placement
+8. Correction action
+
+While management information systems can be used by any and every level of management, the decision of which systems to implement generally falls upon the chief information officers (CIO) and chief technology officers (CTO). These officers are generally responsible for the overall technology strategy of an organization including evaluating how new technology can help their organization. Once decisions have been made, IT directors, including MIS directors, are in charge of the technical implementation of the system. Upon implementation, the assigned users will have the appropriate access to relevant information. It is important to note that not everyone inputting data into MIS need necessarily be management level.
+
+In banking and finance, the MIS represents the electronic automation of several different kinds of counting, tallying, record-keeping, and accounting techniques, of which the by-far oldest was the ledger on which the business owner kept track of his or her business. More recently, the role of MIS in public and private governance and banking is further invigorated by widespread networking facilities made possible through internet.
+
+#### Advantages of Management Information System
+
+- Improve an organization’s operational efficiency, add value to existing products, engender innovation and new product development, and help managers make better decisions.
+- Companies are able to identify their strengths and weaknesses due to the presence of revenue reports, employee performance records etc. Identifying these aspects can help a company improve its business processes and operations.
+- Giving an overall picture of the company.
+- Acting as a communication and planning tool.
+- The availability of customer data and feedback can help the company to align its business processes according to the needs of its customers. The effective management of customer data can help the company to perform direct marketing and promotion activities.
+- MIS can help a company gain a competitive advantage.
+- MIS reports can help with decision-making as well as reduce downtime for actionable
+items.
+
+#### Disadvantages of Management Information System
+
+- Retrieval and dissemination are dependent on technology hardware and software.
+- Potential for inaccurate information.
+
+_note_: ideas excerpted from Comprehensive Guide (Contemporary and GA) in addition external literature.
 
 ### Time management
 

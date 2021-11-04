@@ -220,9 +220,54 @@ ADB started computerized commercial banking transactions from its Ratnapark bran
 
 ADBL has now evolved into a bank with the largest working network, highest paid-up capital and the largest number of share members and customers. It has immovable property (land and buildings) worth over Rs. 6 billion and the largest pool of human resources. The bank has also started providing banking services using the sophisticated Core Banking System (T24) information technology.
 
-## Contribution to agriculture promotion, rural growth, poverty reduction, small and micro enterprise
+## Cooperative efforts of ADBL and government and non-governmental organizations for agriculture and MSME credit lending
 
-### Small and micro enterprise development program
+Commercialization of agriculture sector is crucial for import substitution, export promotion, increasing employment opportunities, attracting youths in agriculture, industrialization, mechanization and discouraging subsistence nature of farming. Also, demand of loan in agriculture sector is increasing every year but, to the dismay, agricultural credit has not increased in-line. Adoption and expanded use of modern capital intensive technology through a smooth flow of credit in agriculture sector could bring commercialization in agriculture.
+
+Nepal government has given top most priority to the development of agricultural sector. Accordingly, Nepal Rastra Bank (NRB) has directed commercial banks to increase their exposure in agricultural sector from 10% to 15% in next three years i.e. by Ashad end 2080. Out of the total target of 15% for agricultural sector, banks outstanding exposure should reach 11% of its total credit portfolio by Ashad end 2078. Similarly, through monetary policy of NRB and budget speech of FY 2077/78, government of Nepal has envisioned Agricultural Development Bank Limited to lead in terms of lending in agriculture. In line with the government declaration, ADBL has been issuing _Kisan Credit_ Card to its clients who are enjoying agricultural credits and issuing Agriculture Bond to the commercial banks as well-probably the first time in the history of banking industry in Nepal.
+
+ADBL has been making Memorandum of Understanding and/or extending its nexus with some Governmental bodies and I/NGOs for the promotion of agricultural credit, MSMEs and subsidized loan. This article intends to highlights the MoU made by ADBL with these organizations and importance of making MoU as well.
+
+ADBL has formed an MoU agreement with:
+
+- Centre for Rural Technology, Lalitpur, Nepal (CRT/N); A national NGO established in August 1989 that focuses on developing, demonstrating and disseminating appropriate technologies for rural and marginalized poulation of Nepal
+  - Covers Chitwan, Dhading, Lalitpur, Kavre, Sindhupalchowk, Dolakha, Ramechhap and Sindhuli
+  - Subsidized loan to customers organized under Electricity Users Committee (EUCs) upon fulfilling bank's required documents.
+  - Organize interaction/training of crop and livestock insurance to agro enterprise based Women Entrepreneurs (WEs).
+  - Assisting ADBL in deposit collection, account opening, issuing of ATM card, mobile banking, internet banking, loan disbursement and the loan monitoring/ supervision and loan recovery.
+  
+- CRT/N and Kathmandu University/KOICA, Nepal Technology Innovation Centre (NTIC); Enables institutions/organizations to exploit new and emerging technologies that bridge gap between research and implementation in three priority areas: agriculture and rural development, alternative and renewable energy, and health related livelihood.
+  - Establish Technology Innovation Centre at potential villages (Demonstration centers of Eco-Village concept)
+  - ADBL will mobilize seed grant money and other subsidies received from IRDP/NTIC for agriculture and rural development mainly in value chain financing, while working as partner bank of the project.
+- Heifer International; Work with Nepalese communities to end hunger and poverty and to care for the Earth.
+  - In Dhading, Palpa, Rupandehi, Arghakhanchi, Lamjung, Pyuthan and Nuwakot districts, project aims to extend credit to about 2000 borrowers within three years thereby building a total portfolio of NRs. 1 billion through ADBL upon providing required documents to bank.
+  - Referring bankable client to the bank, integrating ADBL’s digitization scheme to dully registered cooperatives and farmer group.
+  - Enhancing access to finance for women entrepreneurs and MSMEs engaged in the goat, diary, vegetables and backyard poultry value chains.
+- National Youth Council; Self governed organization established under National Youth Council act, 2072, with main aim to implement programs as well as strategically lead Youth Vision, 2025.
+  - Providing subsidized loan to youth (specially returning migrants) both agriculture and non-agriculture sectors.
+  - ADBL will conduct financial literacy programs, crop/livestock insurance programs and CSR programs to returnee migrant are family.
+- Homestay Association Nepal (HOSAN)
+- National Farmer's Cooperative Alliance; Established in 2068 BS with affiliation of 5165 farmers' group from 57 districts.
+  - Initialize bank account of all members (5165 farmers from 57 districts) associated with National Farmers' Alliance in ADBL.
+  - Subsidized loan in agriculture and livestock to members upon request of alliance fulfilling all required documents and policies of the bank.
+- Ministry of Economic Affairs and Planning, Bagmati Province
+  - Province will provide up to NRs. 2 Arab to ADBL at zero cost every year.
+  - Amount received should provide loan to customer up to NRs. 1 million at 3% interest per annum for 5 years as collateralized term loan upon receiving necessary documents from the customers.
+  - 50% of the loan should be provided in Agriculture, Livestock and Aquaculture.
+  - The amount received from Bagmati province has to be returned within 6 years.
+- Ministry of Land Management, Agriculture and Cooperative, Lumbini Province
+- Ministry of Land Management, Agriculture and Cooperative, Surkhet
+- Malarani Rural Municipality, Arghakhanchi
+- Ministry of Land Management, Agriculture and Cooperative, Far-western Province
+- Ribdikot Rural Municipality, Palpa
+- International Fund for Agricultural Development (IFAD)
+- Value Chains for Inclusive Transformation of Agriculture (VITA)
+  - Province 1,2,3,5 and 6; all districts of Province 2 & 5, 8 districts of Bagmati province, Karnali province and RERP project in Province 1.
+  - Soft loan for 35 years mainly for agriculture commodities and agro-based industries, traders, processors, suppliers, warehouse and exporters.
+  - Capacity building of agriculture value chain actors.
+  - Support in digitization of ADBL.
+
+## Small and micro enterprise development program
 
 ADB launched the poverty alleviation campaign through the Small Farmers Development Program (SMDP) since 2032 BS (1975 AD). Until the fiscal year 2053/54 (1996/97), the program's reach extended to 652 VDCs in 75 districts of the country with 422 sub-project offices. The program disbursed Rs 6.49 billion rupees in loan to over 210,000 poor families. In this way, ADB has been successful in maintaining its unique identity in the national and international levels for the contribution it has made in raising the living standards of the poor.
 
@@ -231,3 +276,145 @@ In its efforts towards contributing to the poverty alleviation endeavors, the ba
 As per a recent Rural Credit Survey, it is estimated that the institutional sector meets only 20% of the demand for credit from the entire rural sector. According to a study carried out by the Asian Development Bank, annually there is a gap of nearly Rs. 13 billion between the demand and supply of rural credit in Nepal. This explicitly shows that credit supply arrangements have not been able to meet the demand for the same in the rural areas. The gap between the demand and supply of credit has widened further in the rural areas as credit providers, especially the commercial banks, were limited to the district headquarters in the past due to conflict. In this backdrop, SMEs play vital role in creation of employment opportunities, poverty reduction and economic growth of the country. According to survey of Small Manufacturing Establishments 2000, there are altogether 43671 establishments in operation and total number of persons engaged is 121270. In FY 2007/08, employment in SMEs sector reached to 299557. It shows that there is significant contribution of SME sector in Nepal.
 
 ADBL has invested a large chunk of the loans pumped into the poverty alleviation sector which is the priority sector of the Government of Nepal. Similarly, under the regular program, the bank has issued nearly 85% of its total credit outflow to the small and medium entrepreneurs. ADBL has been conducting training programs for enhancing the capacity of the entrepreneurs, operating the group saving program for increasing the community capital, and carrying out the infrastructure development works for the development of the rural economy. It is found that the loans issued to the small and micro enterprises has helped in generating employment and made a positive impact on the bank's financial health.
+
+The rich experience that the bank has gathered should be used for increasing the income level and sustenance of the lower and middle class communities living in the rural and urban areas of country through the promotion of enterprises and businesses that yield profit in short time. With the GoN prioritizing the programs aimed for raising the living standards of the people in rural areas, development of small and micro enterprises and to develop adequate knowledge, skills and capacity on running business among the entrepreneurs and business persons, special priority designation by the GoN, ABDL started Small and Micro Enterprise Development Program since FY 1997/98. The overall goal of the program is to create self-employment in the rural and urban areas so as to contribute to the national economy.
+
+**Operational procedure and structure**
+
+Under the programs operated through the Small and Micro Enterprises Development Program, loans of up to one million rupees are disbursed per customer/project from the bank or institutional credit to the low-income farmers living in the rural and urban areas who are setting up enterprises with a potential of giving returns in short time and that utilize the labor, skills and capability of the entrepreneurs themselves.
+
+The bank disburse two types of loans -- wholesale and individual -- under this program. People of the economically disadvantaged classes and micro-entrepreneurs will be the ones carrying out the transactions related to loans on a retail basis while the development banks, financial institutions, self-help groups, organizations/institutions and voluntary groups would be the ones borrowing out wholesale loans to disburse the same to small and micro entrepreneurs.
+
+The bank issues loans of upto Rs. 800,000 to the small and micro-enrepreneurs carrying out transactions with the bank on individual basis under the condition that they will have to make 20% investment themselves. This loan would be of short and medium term and the interest rate would be as determined by the bank from time to time. The entrepreneur concerned should fill up the loan requisition form available at the bank while applying for this type of loan and deposit the required documents and collateral as per the bank regulations.
+
+If the development banks and financial institutions, associations/organizations and groups ask for loans from the bank in order to disburse loans to their small and micro-entreprise clientele, or members, the bank may provide the SME wholesale loan, also called financial intermediary loans, to them. Loans thus provided extend upto,
+
+- Rs. 50 million for development bank
+- Rs. 10 million for financial institution
+- Rs. 2.5 million for group
+
+The agencies taking this loan, while themselves disbursing loans to their customer, can disburse a maximum of Rs. 800,000 per customer. The loan disbursed under this heading would be of short term while the rate of interest would be as fixed by the bank. The BFIs, in addition to having have fulfilled minimum banking/financing standards should submit all the required documents for loan requisition, and also should deposit the required collateral/surety.
+
+**Services provided by the program**
+
+- Training on skill, capacity and efficiency enhancement to entrepreneurs, banks and financial institutions, employees and office-bearers of associations/institutions, and the SMEs tying up with the program.
+- Taking of the social responsibility, bank provides support with grant assistance from government to clubs and community organization for construction of water taps, toilets, passengers' waiting sheds, resting places, schools and hospitals, temples and religious shrines, traffic island and community buildings, and also road repair and projects directly benefiting the society.
+
+**Programs run with government grants**
+
+- Livestock Security (Insurance) Program
+- Crop Security (Insurance) Program
+
+**Micro Cottage and Small Industries Credit Program**
+
+Loans for running enterprises and business disbursed to the persons who have received skill and entrepreneurship development training under the micro enterprises development program implemented by the central and district level offices under the Department of Micro, Cottage and Small Industries and the Cottage and Small Industries Development Committee (two offices also recommend for loan disbursement) and the Micro Enterprises Development Program operated under the Ministry of Industry with domestic and foreign cooperation.
+
+Under this scheme, maximum loan of upto Rs. 60,000 per member is issued to groups comprising minimum of five members and maximum of 11 members. The loans are issued under collective guarantee (collateral).
+
+**Youth and Small Entrepreneurs Self-Employment Program**
+
+- Provision of providing maximum periodic collateral-free loan of Rs. 200,000 per person to the entrepreneurs who have received training.
+- On recommendation of district-based mechanism to unemployed but skilled human resources.
+- Issued at concessional interest rate with the objective of utilizing the productive labor force in the country.
+
+
+
+
+## Necessity and status of international support to ADBL
+
+Cooperative Bank was established in 1963 to provide wholesale credit to cooperatives that further provided retail credit to its members. Agriculture credit was not accessible during that time. In other words, there was no direct financing system for individual farmers/agri-entrepreneurs. Thus, national and international community realized the need of a bank for rural and agriculture lending. Consequently, on the request of USAID, Government of Nepal established, "Agricultural Development Bank/Nepal" (ADB/N) on 1968 (Magh 7th 2024). Bank's central infrastructures, branch office networks, outreach and volume of credit has gradually increased with the support of Government and international communities since then.
+
+### Assisted network and business expansion
+
+**Asian Development Bank (ADB)**
+
+ADB is the primary international financial institution supporting ADBN/ADBL through its line of agricultural credit (up to six agricultural credit projects continued for almost 30 years,  and grant and technical assistance for about 40 years). ADB has contributed significantly for expansion, strengthening, restructuring and modernization of this bank.
+- First agricultural credit was initiated in 19701 (also the first agricultural credit of ADB in this region)
+- Supported managing resources for all types of agricultural credit like cereal, cash crop, plantation crop, horticulture, livestock, aquaculture, irrigation (tube-wells, pump-sets, dug-well), micro-hydro, alternate energy, farm mechanization, agro processing (sugarcane, tea, coffee, milk, fruits, mills, cottage industry ), cold storage, warehousing and related others.
+- Supported management & capacity building of staffs: management of agriculture technical staffs (loan officer/loan assistant, Irrigation Engineer/overseer, renewable energy technician), capacity building both domestic and international, international exposure
+- Development of loan product paper, loan manual, loan processing documents, loan collection process
+- Supported Small Farmers Development Program with 3rd SFDP credit from 1989
+- Supported bank for its diagnostic review and restructure with Rural Finance Sector Development Cluster Program (RFSDCP) Phase I & II.
+- Supported SKBBL for its diagnostic review, restructuring and provided seed money for expansion of business
+
+**International Fund for Agricultural Development (IFAD)**
+
+- IFAD supported bank from initiation of SFDP in 1975 mainly for pilot testing of SFDP, capacity building of small farmers and SFDP related staffs
+- Initiation of regional small farmers training center in all 5 regions (Mangalapur, Birendranagar, Letang, Nepalgunj/Pipari and Dhangadhi) and central training institute (Agriculture Credit Training and Research Institute, ACTRI)
+- Soft loan as SFDP-I (1980-1987) & SFDP-II (1986-1991) for expansion of SFDP and access to finance
+- Expansion of SFDP and access of credit to small farmers
+- Under the Second Small Farmer Development Project (SFDP II), the assistance given to small farmer groups (SFGs) was extended to 43 districts. SFDP II eligibility criteria was designed only with a per capita income threshold of Rs 1200 at 1978/79 prices (USD 70).
+- Loan used for: (i) crop production, livestock, minor irrigation works, horticulture and village industry/agro-processing; and (ii) service activities, necessary for effective project implementation, comprising training, technical assistance, monitoring and evaluation, and support for the salaries of additional Agricultural Development Bank of Nepal (ADBN) staff (group organizers -GOs-, assistant group organizers -AGOs-, etc.) involved.
+- Soft loan and capacity building for successful implementation of "Production Credit for Rural
+Women Project" (PCRW)
+- Soft loan and capacity building for successful implementation of Hills Leasehold Forestry and Forage Development Project
+- Aquaculture Development Project
+- Capacity building support for "Financial Service Access Project" through APRACA, Bangkok
+- Recently grant support of US$ 1.2 million is approved mainly for "Kisan Credit Card/Apps" under Rural Poor Stimulus Fund
+- Value Chains for Inclusive Transformation of Agriculture (VITA) project is on pipeline (line of credit US$ 80.3 million for 35 years)
+
+### Reasons for technical and grant assistance needs
+
+1. To decrease the cost of capital
+
+- Currently, there is no any long term soft loan and bank has to depend on high cost deposit resulting in higher cost of capital. This is one of the major factors for higher base rate i.e. around 8.8%.
+- Around one-third of bank loan portfolio is in agriculture, for which interest rate is just around breakeven rate resulting in low income on one hand, and on other that creates hurdle to retain large size prime customers.
+
+2. To increase large size loan project
+
+Out of total loan borrowers, 88% borrowers are concentrated within the loan size of NPR.1.5 million which is around half of the average loan size of other commercial banks. This is one of the vital reasons for higher operating cost as transaction cost (pre loan supervision, inspection, documentation, follow-up, monitoring, collection, IT expenses) of lending is much higher. Large size loan helps in reducing the operating cost, therefore, long-term soft loan is needed to attract large size projects.
+
+3. To minimize mismatch of resources
+
+Repayment period of plantation crop (tea, coffee, fruits), agri-business (cow, buffaloes, goats, dairy industry, fishery, poultry), cold storage, warehousing, farm machinery is more than 12 months, around 5 yrs to 10 yrs and even more for tea, coffee and fruit trees. Maturity period of around 90% deposit is within 12 months. It is risky to disburse these types of deposit for medium and long term loan. Therefore, there is mismatch of resources for term loan.
+
+4. Strengthen role of bank in agriculture lending
+
+There is huge gap in access to credit in general and access to agricultural credit in particular. Out of total loan portfolio of banks, share of agricultural portfolio is just around 6%, and there is big gap of NPR 148.5 billion. At interest rate of 11%, the gap will double considering 15% portfolio in agriculture. This is one of the reasons why agriculture import is in increasing trend besides many efforts of its reversal. Moreover, agriculture portfolio is not considered as attractive business for many private sector banks. They are lacking agriculture lending professional staffs. Therefore, Government of Nepal has considered ADBL as the lead bank for agriculture lending considering its nationwide network, capacity, long experiences in agriculture lending, well equipped training centers, long relationship with international donors for agriculture lending, large outreach, and well known brand in agriculture lending. It's tough to fulfill the responsibility by managing high cost deposit from the competitive market. Thus ADBL needs long term soft loan to fulfill the huge gap gradually maintaining its sound financial health and with good return to the shareholders.
+
+5. Issuing Agriculture Bond/Green Bond
+
+ADBL plans to issue Agriculture bond in near future. Thus, International experiences, expertise, technical assistance & grant support will be highly useful in planning, appraisal & implementation of "Agriculture Bond & Green Bond"
+
+6.	 Agri-business Incubation Center & Strengthening of training centers
+
+ADBL training centers will be serving as Agri-business incubation center as well. So to enhance the capacity of the training centers as incubation center and enrich employee’s ability, International experiences, expertise, technical assistance & grant support will be highly useful .
+7. Retention and attraction of prime customers
+8. Support in repayment of installments
+9. Transfer of technology: international donors support bank with professional experts, replicate best tested international banking technology/practice in modern digital banking, automation of loan process and many more, capacity building of staffs and entrepreneurs.
+10. International branding/image: Only eligible and high performing institution is getting international support, thus it will enhance ADBL image in international financing market
+11. Improve in working culture
+12. Development of new products/services
+13. Increase both outreach and profit and dividend to shareholders
+
+### Support of ADB besides line of credit
+
+Bank has achieved significant progress during the restructuring period of 8 years. Among others shifting in operational profit from more than 8 billion loss; providing dividend to shareholders; being the highest tax payer among banking sector for 2 years and transformation from development to commercial bank were few commendable achievement. Moreover, this program was awarded as the outstanding program from Asian Development Bank. A brief summary of achievements are as follows,
+
+1. Capital Restructuring
+
+Capital adequacy was negative by 16.1% and 15.5% in FY 2060/61 and 2061/62 respectively and it has gradually improved. It was 20.5% in last fiscal year 2076/7.
+
+ii. Organization Restructuring
+
+Introduce right-sizing concept
+
+a)	 Rationalization, review an assessment criteria and use criteria to classify branches
+b)	 Support average branches to expand business to reach higher level
+c)	 Introduce criteria for decision on new branch openings with emphasis on market and viability
+
+Agriculture & rural credit disbursement was the main function of ADBN before its restructuring. Main sources of fund were ADB soft loan and deposit collection from urban area through limited banking. Therefore, up to 2069/70, volume of outstanding loan was more than deposit. ADBL initiated banking activities in remaining branches based on their potentiality and deposit amount slightly increased more than loan from 2070/71.
+a. Development & Implementation of ADBL Business plan
+b. Branch Refurbishing: Many branches were gradually refurbished. Corporate design, color and minimum standard were defined and implemented
+c. Profit orientation: Operation in operating profit from loss
+  i. Re-launched profit center concept through awareness (regional level awareness programs/internal meetings)
+  ii. Outlet Closure/Merger on the basis of business and profit orientation
+  iii. Reviewed existing performance measurement indicator for profit centers; NPL of ADBN was at alarming stage i.e. 47% in fiscal year 2059/60 as per diagnostic report of the ADB review team. It decreased gradually, staying at 2.7% in the last fiscal year. Orientation toward quality lending, maintaining quality loan portfolio, risk analysis and profit orientation are the few reasons among others for this achievement.
+d. Development of new products and services
+e. Human resource management
+f. Initial public offering (IPO) issuance
+g. Technology transformation
+
+Main components of restructuring include IT and MIS upgrading and establishment of Core Banking System (CBS). ADB supported ADBN in establishment of modern T24 CBS with around US$ 10 million grant support, technical IT professional for gradual expansion in all branches, grant for annual maintenance cost, national & international training (from India, Thailand, Malaysia and Singapore) for development of IT professional.
+
+h. Strengthening of training centers by establishing computer training labs and financial support for implementation of training mainly for CBS, business operation, treasury and trade finance and digital banking.

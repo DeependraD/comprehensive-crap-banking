@@ -342,8 +342,36 @@ Miscellaneous
 130. Power to Remove Difficulties
 131. Power to issue Order or Direction
 132. Power to frame Rules, Bylaws
-133. Power to Frame Byelaws and Working Procedures
+133. Power to Frame Bylaws and Working Procedures
 134. Repeal and Saving
+
+### Changes in BAFIA, 2073 in comparison to BAFIA, 2063
+
+- Replaces previous act (BAFIA, 2063)
+- Any person seeking to establish Banks and Financial Institutions ("BFI") henceforth shall be required to register the same as a public company under the provisions of the Company Act. Prior to incorporation of such company, approval from the Central Bank (NRB) must be obtained.
+- Requirements for prior approval are:
+  - Memorandum of association
+  - Articles of association
+  - Feasibility study report
+  - Personal details of applicant
+  - Agreement between applicants for establishment of BFI
+  - Tax Clearance Certificate of applicant
+  - Details of financial credibility
+  - Declaration of any regulatory action taken against applicant or cancellation of license of any related entity
+  - Details of family and their profession
+  - Authorization of NRB to investigate about the applicant's credentials
+  - Pledge to secure specified amount of deposits
+  - Other requirements as specified by NRB
+- Approval of NRB shall also be required to establish BFI with foreign ownership or to establish branch of foreign BFI.
+- Additional requirements for establishment of BFI with foreign ownership.
+  - Corporate documents of foreign BFI
+  - License of foreign BFI
+  - Details of main place of business
+  - Audit report for previous 3 fiscal years of foreign BFI
+  - Details of plan of business in Nepal
+  - Approval of foreign regulatory agency to establish BFI in Nepal
+- Any BFI seeking to engage in trading securities shall obtain necessary approval under prevailing law and register its prospectus with the NRB. BFI shall allocate a minimum of 30% of its total issued capital for the public (comprising of natural persons) except in case of BFI established under ownership of GoN. Shares which are allocated for the public but not subscribed within the specified time period may be issued to other entities such as firm, companies, organizations etc. In any case the promoter shareholding group shall always own at least 51% of the shares. Promoter of BFI shall not be allowed to sell or pledge their shares within 5 years of commercial operation.
+(Continue from page 555 of the Advanced Banking Knowledge book)
 
 ## Nepal Rastra Bank Act, 2058 (2002)
 
@@ -370,6 +398,8 @@ Miscellaneous
 - Special Administration Group could also request for, and obtain, mutual assistance from concerned institutions in foreign countries, if so required, to support resolution process, with the prior approval of the NRB.
 
 ## Banking Offence and Punishment Act, 2064
+
+(Continue from page 557 of Advanced Banking Knowledge book)
 
 ## Company act, 2063
 
