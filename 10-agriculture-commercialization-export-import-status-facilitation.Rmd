@@ -70,7 +70,7 @@ tribble(
 ```
 
 ```{r tax-rates-2020}
-read_csv("./data/tax-rates-2020-nrb.csv", show_col_types = FALSE) %>% 
+read_csv("./data/tax-rates-2020-nrb.csv") %>% 
   knitr::kable(booktabs = TRUE, caption = "Tax rates for 2020 (Source: Annual Report, NRB)", longtable = TRUE) %>% 
   kableExtra::kable_styling(latex_options = c("striped", "HOLD_position"), font_size = 8) %>% 
   kableExtra::column_spec(column = 1:3, width = c("20em", "8em", "8em"))

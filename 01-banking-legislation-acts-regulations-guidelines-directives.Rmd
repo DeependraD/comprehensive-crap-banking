@@ -448,7 +448,113 @@ The bank may carry out the following functions (Subsection 2, Section 7)
 - (Section 9) Relation between the Government of Nepal and the bank, contacts to be made through the Ministry of Finance.
 - (Section 10) Coordination with public bodies; Government may request necessary information on balance of payment, banking and financial matter and upon the request of the Bank to GoN, public and private sector, such segments shall provide necessary economic and financial information.
 - (Section 11) International cooperation and relationship
-- 
+
+### Formation of Board (section 14)
+
+There shall be a board of directors in the banks consisting of the following members;
+Governor $\longrightarrow$ Chairperson
+Secretary ( Ministry Of Finance) $\longrightarrow$ Member
+Two deputy governors $\longrightarrow$ Member
+Three Directors appointed by the government of Nepal from amongst the person renowned in the in fields of Economics, Monitory, Banking, Finance , and commercial law $\longrightarrow$ Member
+
+### Appointment of governor (Section 15)
+
+- Government of Nepal, the council of minster shall appoint governor on the basis of the recommendation of recommendation committee formed pursuant a subsection (2)
+
+- Chaired by Governor $\longrightarrow$ Member
+- One person among the former governor $\longrightarrow$ Member
+- One person designated by the government of Nepal from amongst the person renowned in the in fields of Economics, Monitory, Banking, Finance , and commercial law $\longrightarrow$ Member.
+
+### Appointment of deputy governor (Section 16)
+
+- The board shall constitute an audit committee comprising of the following members
+- Government of Nepal, the council of Minister shall appoint deputy governors on the recommendation of Governor.
+- While making the recommendation for application of Deputy Governor, recommend double the number of the post falling vacant from among the special class officers of the banks on the basis of their performance and capability.
+- 5 years of tenure.
+- No provision for reappointing.
+- Take oath from Governor.
+- After retirement, deputy governor cannot work in other BFIs at least for three years
+
+### Functions, Duties, and power of Board ( Section 29)
+
+- To frame monetary and foreign exchange policies
+- To take necessary decisions with regard to denominations of the banknotes, coins, the figures, size, metal, materials for printing notes, and other materials. Also, frame appropriate policies with regard to their issue.
+- To frame necessary policies for causing the supervision and inspection of BFIs.
+- To frame the applicable policies for other BFIs.
+- To frame policies with regards to the appointment, promotion, transfer, dismissal, remuneration, pension, provident fund, leave, code of conduct and other terms and conditions relating to the services of the employees of the bank.
+- To approve the necessary policy for the issue of license to commercial banks and financial institutions.
+- To approve the limit of the loan to be provided to the Government of Nepal by the bank.
+- To fix the amount, limit, terms and conditions about providing loan to the BFIs.
+- To make a decision with regards to the bank's membership to international organizations.
+- To frame the policy for investment and mobilizations of the Bank's financial resources.
+
+### Functions, Duties, and power of the Governor (Section 30)
+
+- Implement decisions made by the board.
+- Operate and manage the bank.
+- Systematize the functions to be carried out by the bank.
+- Represent the Nepal Rastra Bank in the international platform.
+- Implement and cause to implement the policies relating to monetary and foreign exchange matters.
+- Fix the interest rate related policies of other BFIs.
+- Formulate the policy related to the liquidity of the other BFIs.
+- Formulate the terms and conditions of the gold and other precious metal related transactions.
+- To fix the fees and commission of BFIs.
+- To take the decision about operating and expanding the branches of the BFIs.
+- To make the necessary arrangement for the development and operation of the information system of other banks.
+- To formulate the policy relating the revocation of the license provided to commercial banks.
+- To take decisions on any other subject matter to the power delegated by the BOD.
+
+### Audit committee (Section 34)
+
+The government shall constitute an audit committee comprising of the following members
+
+- One director designated by the Board $\longrightarrow$ Coordinator
+- One subject expert designated by the Board $\longrightarrow$ Member
+- Chief of internal audit department of the bank $\longrightarrow$ Member
+
+### Function, Duties, and power of the audit committee (Section 35)
+
+- Submit audit report to the NRB board.
+- The audit committee can recommend for the preparation of budget and audit procedure, support to prepare a periodic balance sheet and other documents.
+- Supervise the implementation of the NRB policies of measures.
+- Audit managerial and performance appraisal of the NRB entity.
+- Frame bylaws relating to audit under the provision of prevailing law.
+
+### Relation with Government of Nepal (Chapter 8, Section 69)
+
+- Work as bank of the government
+- Work as a financial agent of the government
+- Work as a financial advisor of the government
+- NRB provide consultation to reform the financial laws
+- Provide advice to the consultation relating to external debt
+- Issuing currency for the government of Nepal
+- Policy formulator of the government of Nepal (Monetary Policy, FOREX policy)
+- Policy enforcer
+- System builder for payment, settlement house, credit creation, clearing house
+
+### State of problematic commercial banks and financial institution (Section 86B)
+
+- Act against the interest of depositor, shareholder, and promoters.
+- Act of not fulfilling the financial liabilities.
+- If BFIs are going toward insolvency
+- If BFIs submit the fake document and acknowledge later. (while getting a license)
+- If BFIs are unable to maintain the capital structure and capital fund.
+- If BFIs initiate the process of volunteer liquidation undue delay.
+- If BFIs carry out the businesses which are restricted by NRB.
+- Unable to pay the due amount.
+
+### Action taken by NRB to problematic BFIs (Section 86C)
+
+- Can issue an order to issue new shares.
+- NRB can suspend the right of voting for the shareholder.
+- Stop the dividend payment to any other amount to the shareholder.
+- Determine the limitation to the bonus, salary, compensation and other expenses.
+- Can maintain efficient arrangement to liquidity management/corporate governance.
+- Can limit the transaction of BFIs.
+- Prohibit for doing specific business.
+- Can issue an order to remove director/manager/staff.
+- Can suspend the BOD.
+- Can issue an order to delist from the stock market.
 
 
 ### Major features of the amended NRB Act
@@ -478,6 +584,91 @@ The bank may carry out the following functions (Subsection 2, Section 7)
 (Continue from page 557 of Advanced Banking Knowledge book)
 
 ## Company act, 2063
+
+- Date of Authentication: 2063-7-7(3 November, 2006); Published Date: 2064-5-9(26 August, 2007)
+- Chapters: 21
+- Sections : 188
+
+### Objectives
+
+- To create dynamism into the economic development of the nation by promoting investment in industries, trade, and business.
+- To promote the use of economic liberalization.
+- To make legal provision relating to incorporation, operation, management, and administration of the company much simpler, easier and more transparent.
+
+### Major Provisions
+
+- It has the provision of incorporation of the company
+- It has the provision to promote corporate good governance.
+- It defines the management tools of the company such as AOA, MOA, and BOD.
+- It creates the features of a legal person.
+- All the company must use suffix as Pvt. Ltd. or Ltd as per their nature.
+- Few types of companies should be incorporated only as a public company
+- It has provision relating to the conversion of private company into public and vice versa.
+- Provision of Office of Company Registrar (OCR) can provide service from branch office and outlets.
+- It has the provision relating to share, capita , and debenture of companies.
+- It has the provision of Board of Director (BOD) formation, Types of director and their rights and liabilities and also BOD meeting procedures.
+- It has the provision of general meeting its types and agendas of the company.
+- It has the provision of account record keeping and auditing.
+- Provision of company winding up as per the voluntary, compulsory and with deregistration process
+- It has provision relating to the protection of shareholders.
+- It has provision relating to private, holding, subsidiary and foreign company.
+- It has provision relating to control the use of ultra vires by BOD. (Company should not go beyond the AOA & MOA)
+- It has provision relating to a proceeding of lawsuits and punishment.
+- Provision of the substantial shareholder
+- Compulsory provision of company secretary for a company which has more than 1 crore capital
+- It is in compliance with the Money Laundering Prevention Act
+- It has the provision of merger and acquisition of the company.
+- Development committee can be converted into the public company if the government gives permission.
+
+### Types of general meeting
+
+- First Annual General Meeting (FAGM)
+- Annual General Meeting (AGM)
+- Special/Extraordinary General Meeting (SGM)
+
+1. First Annual General Meeting (FAGM)
+
+- This meeting is held to approve all the documents which were submitted while registering the company.
+
+2. Annual General Meeting (AGM)
+
+- Chairperson or director shall call the Annual General Meeting.
+- AGM should be conducted within 6 months after the end of the fiscal year.
+- It can be extended up to three months with the approval of OCR.
+- If a company can not conduct AGM within the predefined time, OCR schedule the time.
+- If the company still do not call for AGM, the stakeholders can file a case in court for calling up AGM
+
+Process of Calling AGM
+
+- AGM notice should be published before 21 days of the AGM date mentioning the date/time, venue and agendas.
+- AGM notice should be published at least two times in the national level newspaper.
+- If any changes occur, notice should be published before 7 days of the AGM date.
+- AGM will be hosted by the secretary, chaired by president and minute must be approved by all the members.
+- This minutes’ copy should be submitted to OCR within 30 days from the date of approval
+
+3. Special/Extraordinary General Meeting (SGM)
+
+- Call by Board of Director, chairperson.
+- Three parties can call SGM with a written request – Auditor,  Shareholders (at least 10% of share capital with minimum 3 shareholders), Shareholders (at least 25% of shareholders).
+- After the written request from the above three parties, the director or president must call a Special General Meeting within 30 days.
+
+Process of Calling SGM
+
+- SGM notice should be published before 15 days of the SGM date mentioning the date/time, venue and agendas.
+- AGM notice should be published at least two times in the national level newspaper.
+- If any changes occur, notice should be published before 7 days of the SGM date.
+- SGM will be hosted by the secretary, chaired by president and minute must be approved by all the members.
+- This minutes’ copy should be submitted to OCR within 30 days from the date of approval.
+
+Agendas of SGM
+
+- Increase/decrease capital
+- Share buyback
+- Bonus share
+- About Merger/acquisition
+- Company name change etc
+
+All the members of the BOD must attend the meeting physically. If not possible physically, use of video conference to use voting right.
 
 ## Electronic transaction act, 2063
 
