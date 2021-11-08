@@ -329,6 +329,7 @@ Cooperative Bank was established in 1963 to provide wholesale credit to cooperat
 **Asian Development Bank (ADB)**
 
 ADB is the primary international financial institution supporting ADBN/ADBL through its line of agricultural credit (up to six agricultural credit projects continued for almost 30 years,  and grant and technical assistance for about 40 years). ADB has contributed significantly for expansion, strengthening, restructuring and modernization of this bank.
+
 - First agricultural credit was initiated in 19701 (also the first agricultural credit of ADB in this region)
 - Supported managing resources for all types of agricultural credit like cereal, cash crop, plantation crop, horticulture, livestock, aquaculture, irrigation (tube-wells, pump-sets, dug-well), micro-hydro, alternate energy, farm mechanization, agro processing (sugarcane, tea, coffee, milk, fruits, mills, cottage industry ), cold storage, warehousing and related others.
 - Supported management & capacity building of staffs: management of agriculture technical staffs (loan officer/loan assistant, Irrigation Engineer/overseer, renewable energy technician), capacity building both domestic and international, international exposure
@@ -378,7 +379,8 @@ ADBL plans to issue Agriculture bond in near future. Thus, International experie
 
 6.	 Agri-business Incubation Center & Strengthening of training centers
 
-ADBL training centers will be serving as Agri-business incubation center as well. So to enhance the capacity of the training centers as incubation center and enrich employee’s ability, International experiences, expertise, technical assistance & grant support will be highly useful .
+ADBL training centers will be serving as Agri-business incubation center as well. So to enhance the capacity of the training centers as incubation center and enrich employee’s ability, International experiences, expertise, technical assistance & grant support will be highly useful.
+
 7. Retention and attraction of prime customers
 8. Support in repayment of installments
 9. Transfer of technology: international donors support bank with professional experts, replicate best tested international banking technology/practice in modern digital banking, automation of loan process and many more, capacity building of staffs and entrepreneurs.
@@ -399,9 +401,9 @@ ii. Organization Restructuring
 
 Introduce right-sizing concept
 
-a)	 Rationalization, review an assessment criteria and use criteria to classify branches
-b)	 Support average branches to expand business to reach higher level
-c)	 Introduce criteria for decision on new branch openings with emphasis on market and viability
+a) Rationalization, review an assessment criteria and use criteria to classify branches
+b) Support average branches to expand business to reach higher level
+c) Introduce criteria for decision on new branch openings with emphasis on market and viability
 
 Agriculture & rural credit disbursement was the main function of ADBN before its restructuring. Main sources of fund were ADB soft loan and deposit collection from urban area through limited banking. Therefore, up to 2069/70, volume of outstanding loan was more than deposit. ADBL initiated banking activities in remaining branches based on their potentiality and deposit amount slightly increased more than loan from 2070/71.
 a. Development & Implementation of ADBL Business plan
@@ -410,6 +412,7 @@ c. Profit orientation: Operation in operating profit from loss
   i. Re-launched profit center concept through awareness (regional level awareness programs/internal meetings)
   ii. Outlet Closure/Merger on the basis of business and profit orientation
   iii. Reviewed existing performance measurement indicator for profit centers; NPL of ADBN was at alarming stage i.e. 47% in fiscal year 2059/60 as per diagnostic report of the ADB review team. It decreased gradually, staying at 2.7% in the last fiscal year. Orientation toward quality lending, maintaining quality loan portfolio, risk analysis and profit orientation are the few reasons among others for this achievement.
+
 d. Development of new products and services
 e. Human resource management
 f. Initial public offering (IPO) issuance
