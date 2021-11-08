@@ -375,6 +375,82 @@ Miscellaneous
 
 ## Nepal Rastra Bank Act, 2058 (2002)
 
+The Nepal Rastra Bank Act, 2002 (amended in 2006) provides for the establishment of Nepal Rastra Bank to function as central bank. The bank is provisioned to be an autonomous and corporate body with perpetual succession, separate seal for transaction of business of the bank, and incorporation alike an individual to acquire, utilize, retain, sell and otherwise dispose property.
+
+It replaces the older act of 2012 BS. This act provides legal authority for the NRB to act as the central bank of Nepal. There are 12 chapters and 112 sections in the act.
+
+**Importance**
+
+- Legal basis for establishment and operation of NRB as the central bank.
+- Formulation and implementation of monetary and foreign exchange policies (as per Clause 44, Chapter 5 "Monetary functions and operation of open market" of NRB act, 2002)
+- Maintain stability of price
+
+**Strength**
+
+- Provides autonomy to central bank
+- Clear provision of Board of Directors (BoD) and governors
+- Guidelines to central bank as well as BFIs
+- Coordination and smooth relation with GoN.
+
+**Weakness**
+
+- Focus on traditional banking functions
+- Does not present as a comprehensive act covering BFIs
+- More power endowed to BoD
+- No clear provision on faults and punishment
+- Influenced by government/finance minister and ministry
+
+### Objectives of the Bank (Section 4)
+
+- To formulate necessary monetary and foreign exchange policies in order to maintain the stability of price and balance of payment for economic stability and sustainable development of economy, and manage it;
+- To increase the access of the financial service and increase the public confidence towards the banking and financial system by maintaining stability of the banking and financial sectors,
+- To develop a secure, healthy and efficient system of payment;
+- The bank shall extend co-operation in the implementation of the economic policies of Government of Nepal.
+
+### Functions, duties and powers of the Bank (Section 5)
+
+- To issue bank notes and coins;
+- To formulate necessary monetary policies in order to maintain price stability and to implement or cause to implement them;
+- To formulate foreign exchange policies and to implement or cause to implement them;
+- To determine the system of foreign exchange rate;
+- To manage and operate foreign exchange reserve;
+- To issue license to commercial banks and financial institutions to carry on banking and financial business and to regulate, inspect, supervise and monitor such transactions;
+- To act as a banker, advisor and financial agent of Government of Nepal;
+- To act as a banker of commercial banks and financial institutions and to function as the lender of the last resort;
+- To establish and promote the system of payment, clearing and settlement and to regulate these activities; and
+- To operate open market transaction through necessary instruments for liquidity management;
+- To implement or cause to implement any other necessary functions which the Bank has to carry out in order to achieve the objectives of the Bank under this Act;
+
+The bank may carry out the following functions (Subsection 2, Section 7)
+
+- To provide loan to and invest in the shares of the institutions which carry out the functions helpful in carrying out the function of the Bank or in attaining its objectives, not exceeding ten percent of the total capital of such institutions. (warrents explaination)
+- To provide loan to its own employees.
+
+### Prior Right of the Bank (Section 6)
+
+- For the purpose of recovering any loan, which the Bank has given to any borrower or any other type of claim of the Bank against any borrower, the Bank shall have prior right of security over cash deposited in an account in the name of such borrower at the Bank or in any commercial bank or financial institution or against any other moveable and immovable property owned by the borrower for the purpose of recovering such loan.
+- The Bank shall recover its loan by taking into its custody the cash or movable or immovable property having its prior right and selling such property as prescribed.
+
+### Functions not to be carried out by the Bank (Section 7)
+
+- Providing any loan, accepting any type of deposit or making any type of financial gift;
+- Purchasing shares of any commercial bank, financial institution, public corporation or a company or acquiring any type of proprietary right in any financial, commercial, agricultural, industrial or other institution.
+- Carrying out any type of trade; and
+- Acquiring right over movable and immovable property by way of purchase, lease or in any manner whatsoever.
+
+### Previlage and facilities of the Bank (Section 8)
+
+- Exemption from all types of taxes, fees and charges on the income, capital transactions, houses, land, assets, etc.;
+- No requirement for the payment of registration fee for registration of the deeds of loan or refinance to be given by the Bank.
+- No requirement of revenue stamps on any of the documents relating to the Bank;
+- No tax, fee, charge, duty on the export and import of bank notes, coins, gold, silver and the paper, metal, chemicals, and other materials to be used for printing bank notes and minting coins.
+
+- (Section 9) Relation between the Government of Nepal and the bank, contacts to be made through the Ministry of Finance.
+- (Section 10) Coordination with public bodies; Government may request necessary information on balance of payment, banking and financial matter and upon the request of the Bank to GoN, public and private sector, such segments shall provide necessary economic and financial information.
+- (Section 11) International cooperation and relationship
+- 
+
+
 ### Major features of the amended NRB Act
 
 - Preamble has been arranged with an emphasis on maintaining price and balance of payments stability, and overall financial sector stability supporting sustainable development.
