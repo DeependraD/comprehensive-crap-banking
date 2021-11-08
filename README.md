@@ -1,5 +1,7 @@
 # Comprehensive Crap Guide (Banking)
 
+[![bookdown](https://github.com/DeependraD/comprehensive-crap-banking/actions/workflows/bookdown.yaml/badge.svg)](https://github.com/DeependraD/comprehensive-crap-banking/actions/workflows/bookdown.yaml)
+
 ## Building
 
 1. Build book as bookdown project.
