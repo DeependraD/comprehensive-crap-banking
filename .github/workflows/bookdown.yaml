@@ -1,0 +1,51 @@
+# Workflow derived from https://github.com/r-lib/actions/tree/master/examples
+# Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
+on:
+  push:
+    branches: [main, master]
+
+name: bookdown
+
+jobs:
+  bookdown:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install linux dependencies (libcurl)
+        run: |
+          sudo apt-get install libcurl4-openssl-dev
+
+      - uses: actions/checkout@master
+      - uses: r-lib/actions/setup-tinytex@v1
+      - run: tlmgr --version
+      - uses: r-lib/actions/setup-pandoc@v1
+
+      - uses: r-lib/actions/setup-r@v1
+        with:
+          use-public-rspm: true
+
+      - uses: r-lib/actions/setup-renv@v1
+
+      - name: Cache bookdown results
+        uses: actions/cache@v2
+        with:
+          path: _bookdown_files
+          key: bookdown-${{ hashFiles('**/*Rmd') }}
+          restore-keys: bookdown-
+
+      - name: Build site
+        run: Rscript -e 'rmarkdown::render_site(output_format = "bookdown::pdf_book", encoding = "UTF-8")'
+
+      - name: Upload pdf build to release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: _book/*
+          # asset_name: concise-plbgen
+          file_glob: true
+          tag: ${{ github.ref }}
+          overwrite: true
+          body: "pdf build of the book"
