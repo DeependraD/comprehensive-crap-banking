@@ -119,6 +119,36 @@ c. Other specific loans
 
 ## Fund and non-fund transaction
 
+A. Fund based transactions
+
+Fund based functions of a bank are those in which banks make deployment of their funds either by granting advances or by making investments for meeting gaps in fund requirements of the customers/borrowers. Fund-based functions of a bank may be classified into two parts,
+
+1. Loans and advances
+
+a. Commercial loan segment
+  i. Working capital
+    - Cash credit
+    - Overdraft
+    - Bills finance
+    - Bills purchase
+    - Bills discounting
+  
+  ii. Term loans
+    - Capital expenditure
+    - Equipment finance
+    - Project finance
+b. Personal loan segment
+  - Consumer loan advance against shares
+  - Housing loan
+  - Educational loan
+2. Investments
+  - Capital market instrument
+  - Debt market instrument
+
+B. Non-fund transaction
+
+...
+
 ## Credit cycle
 
 ## Features of modern day banking services

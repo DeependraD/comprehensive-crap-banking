@@ -2,11 +2,19 @@
 
 ## Organization: concept, structure, objectives
 
+
+
+(Page 386, 389, 391, 619, Advanced Banking Knowledge)
+
 ### Organization change and development
+
+(Page 426, Advanced Banking Knowledge)
 
 ## Management: introduction, concept, objective, scope and function
 
-(Refer to Comprehensive Guide (Contemporary and GA))
+(Continue from Page 353, Advanced Banking Knowledge)
+
+(for a more detailed discussion on meaning and definition of management refer to Comprehensive Guide (Contemporary and GA))
 
 ### Management Information System 
 
@@ -65,11 +73,44 @@ _note_: ideas excerpted from Comprehensive Guide (Contemporary and GA) in additi
 
 ### Crisis management
 
+(Page 399, Advanced Banking Knowledge)
+
 ### Conflict management
+
+(Page 407 and Page 427, Advanced Banking Knowledge)
 
 ### Change management
 
+(Page 424, Advanced Banking Knowledge)
+
 ### Knowledge management
+
+Knowledge management is an emergent management issue. Knowledge is defined as the remembering of previously learned materials. In other words, knowledge is information that is relevant, actionable, and at least partially based on experience. Similarly, knowledge can mean information, awareness, knowing, cognition, sapience, experience, skills, insight, competence, know-how, practical ability, capability, learning, wisdom and so on. The definition depends on the context in which the term is used.
+
+Knowledge management is concerned with the process of identifying, acquiring, distributing and maintaining knowledge that is essential to the organization. Knowledge management can be explained differently under varying circumstances of intended information.
+
+```{r knowledge-explain-circumstance}
+tribble(
+  ~"Scope", ~"Explaination",
+  "Result", "To have the right knowledge at the right place, at the right time and in the right format",
+  "Process", "The systematic management of process by which knowledge is defined, created, gathered, shared and applied",
+  "Technology", "Business intelligence, collaboration, search engine, intelligence agents"
+) %>% 
+  knitr::kable(booktabs = TRUE, longtable = TRUE, caption = "Various contexts of knowledge use and its relevance to management") %>% 
+  kableExtra::kable_styling(font_size = 8) %>% 
+  kableExtra::column_spec(column = 1:2, width = c("4em", "25em"))
+```
+
+The combination of all the scope dependent definition provide a clearer picture of what knowledge management entails. In practice, knowledge management involves the identification and mapping of intellectual assets within an organization focusing on the organization's unique resources and their crucial functions.
+
+Basic reasons for understanding knowledge management can be highlighted with following points:
+
+- Marketplace are increasingly competitive and the rate of innovation is rising
+- Reduction in staffing creates a need to replace informal knowledge with formal methods
+- Competitive pressure reduces the size of the workforce that holds valuable business knowledge
+- The amount of time available to experience and acquire knowledge is diminished
+- There is need to manage increasing complexities as small operating companies are transnational sourcing operations
+- Changes in strategic direction may result in the loss of knowledge in a specific area.
 
 ### Resource management
 
@@ -114,7 +155,108 @@ Technology has become one of the biggest drivers of change in Nepalese banking i
 
 ## Risk management
 
+In the course of their operations, banks are invariably faced with different types of risks that may have an adverse impact upon their business. Risk management in bank operations involves,
 
+- Risk identification
+- Risk measurement/appraisal and,
+- Risk assessment
+
+Broadly, the objective of risk management is to minimize negative effects the risks can have on the financial result and capital of a bank. Banks are therefore required to form a special organizational unit in charge of risk management, as well as prescribe procedures for identification, assessment and aversion/mitigation of risk. Following section describes the types of risks banking institutions are faced with.
+
+### Types of risk
+
+**1. Systematic risk or market risk**
+
+Systematic risk is the risk of asset value change associated with systematic factors, also sometimes imprecisely referred to as market risk. By its nature, this risk can be hedged, bu cannot be diversified completely away. All investors assume this type of risk, whenever assets owned or claims issued can change in value as a result of broad economic factors. As such, two of the important systematic risks in banking sectors are
+
+- variation in the general level of interest, and
+- the relative value of currencies.
+
+Because of the banks dependence on these systematic factors, most try to estimate the impact of these on performance, attempt to hedge against them and thus limit the sensitivity to variations in un-diversifiable factors. Accordingly, most will track interest rate risks closely and try to manage firm's vulnerability to interest rate variation. At the same time, international banks with large currency positions closely monitor their foreign exchange risk and try to manage, as well as limit, their exposure to it. In a similar fashion, some institutions with significant investments in one commodity such as oil, through their lending activity or geographical franchise, concern themselves with commodity price risk.
+
+As with other forms of risk, the potential loss amount due to market risk may be measured in a number of ways. In short term risk management practice, a well established convention is to use Value at Risk (VaR).
+
+VaR contains a number of limiting assumptions that constrain its accuracy in risk assessment. A guiding assumption to calculation being the composition of the portfolio measured remains unchanged over the specified period. Although reasonable for short time horizons, it should be noted that many of the positions in the portfolio change over longer time horizons. The VaR of the unchanged portfolio is no longer relevant. Likewise, the variance, covariance as well as historical simulation approach to calculating VaR also assumes that historical correlations are stable and will not change/breakdown in the future. In addition, care has to be taken regarding the intervening cash flow, embedded options, changes in floating interest rates to the financial positions in the portfolio. They cannot be ignored if their impact can be large.
+
+**2. Credit risk**
+
+Credit risk concerns with the adverse impacts on the financial position and capital of the bank caused by borrower's default on its obligation to the bank. It arises from non-performance (inability or unwillingness) by a borrower. This can affect the lender holding the loan contract, as well as other lenders to the creditor. Therefore, the financial condition of the borrower as well as the current value of any underlying collateral is of considerable interest to its bank. The real risk from credit is the deviation of portfolio performance from its expected value.
+
+Credit risk is diversifiable, but difficult to elliminate completely. This is because a portion of the default risk may, in fact, result from the systematic risk. In addition, the idiosyncratic nature of some portion of these losses remains a problem for creditors in spite of the beneficial effect of diversification on total uncertainty. This is particularly true for banks that lend in local markets and one that take on highly illiquid assets. In such cases, the credit risk is not easily transferred, and accurate estimates of loss are difficult to obtain.
+
+The credit risk is primarily that of the lender and includes lost principal and interest, disruption of cash flows, and increased collection costs. The loss may be complete or partial and can arise in a number of circumstances. For example,
+
+- A company is unable to repay asset-secured fixed or floating charge debt.
+- A business or government bond issuer does not make a payment on a coupon or principal payment when due
+- A business or consumer does not pay a trade invoice when due
+- A business does not pay an employee's earned wages when due
+- A government grants bankruptcy protection to an insolvent consumer or business
+- An insolvent bank won't return funds to a depositor
+- A consumer may fail to make payment due on a mortgage loan, credit card, line of credit, or other loan
+- An insolvent insurance company does not pay a policy obligation.
+
+To reduce the lender's credit risk, the lender may perform a credit check on the prospective borrower, may require the borrower to take out appropriate insurance, such as mortgage insurace or seek security or guarantees of third parties. In general, the higher the risk, the higher will be the interest rate that the debtor will be asked to pay on the debt.
+
+Significant resources and sophisticated programs are used to analyze and manage the credit risk. Some companies run a credit risk department whose job is to assess the financial health of their customers, and extend credit (or not) accordingly. They may use in house programs to advice on avoiding, reducing and transferring risk. They also use third party provided intelligence. Most lenders employ their own models (credit scorecards) to rank potential and existing customers according to risk, and then apply appropriate strategies.
+
+With products such as unsecured personal loans or mortgages, lender charge a higher price for higher risk customers and vice versa. With revolving products such as credit cards and overdrafts, risk is controlled through the setting of credit card limits. Some products also require collateral, usually an asset that is pledged to secure the repayment of the loan.
+
+Credit scoring models also form part of the framework used by banks or lending institutions to grant credit to clients. For corporate and commercial borrowers, these models generally have qualitative and quantitative sections outlining various aspects of the risk including, but not limited to, operating experience, management expertise, asset quality, and leverage and liquidity ratios, respectively. Once this information has been fully reviewed by credit officers and credit committees, the lender provides the funds subject to the terms and conditions presented within the contract.
+
+**3. Counterpary risk**
+
+Counterparty risk is the risk that a trading partner will not pay as obligated on a bond, credit derivative, trade credit insurance or payment protection insurance contract or other trade or transaction. The non-performance may arise from counterparty's refusal to perform due to an adverse price movement caused by systematic factors, or from some other political or legal constraints that was not anticipated by the principals. Diversification is the major tool for controlling non-systematic counterparty risk. Counterparty risk is like credit risk, but it is generally viewed as a more transient financial risk associated with trading than standard creditor default risk. In addition, counterparty's failure to settle a trade can arise from other factors beyond a credit problem.
+
+Financial institutions may hedge or take out credit insurance as a safeguarding measure. Offsetting counterparty risk is not always possible, e.g. because of temporary liquidity issues or longer term systemic reasons. Counterparty risk increases due to positively correlated risk factors. Accounting for correlation between portfolio risk factors and counterparty default in risk management methodology is not trivial.
+
+**4. Liquidity risk**
+
+Liquidity risk is the possibility of financial or capital loss of a bank caused by it's inability to meet all its due obligations, also known as funding crisis. While some would include the need to plan for growth and unexpected expansion of credit, the risk here is seen more correctly as the potential for a funding crisis. Such a situation would inevitably be associated with an unexpected event, such as a large charge off, loss of confidence, or a crisis of national proportion such as currency crisis. In any case, management here centers on liquidity facilities and portfolio structure. Recognizing liquidity risk leads the bank to recognize liquidity itself as an asset, and portfolio design in the face of illliquidity concerns as a challenge.
+
+**5. Operational risk**
+
+Operational risk is associated with the problems of accurately processing, settling, and taking or making delivery on trades in exchange for cash. It also arises in record keeping, processing system failures and compliance with various regulations. As such, individual operating problems are small probability events for well-run organizations but they expose a firm to outcomes that may be quite costly. Nonetheless, omissions in the work or employees and inadequate internal procedures and processes also constitute operational risk.
+
+_Basel II regulations definition (adopted by European Union Solvency II Directive)_
+
+"The risk of a change in value caused by the fact that actual losses, incurred for inadequate or failed internal processes, people and systems, or from external events (including legal risk), differ from the expected losses."
+
+In October 2014, the Basel Committee on Banking Supervision proposed a revision to its operational risk capital framework that sets out a new standardized approach to replace the basic indicator approach and the standardized approach for calculating operational risk capital.
+
+It can also include other classes of risk, such as fraud, security, privacy protection, legal risks, physical (e.g. infrastructure shutdown) or environmental risks. Operational risk is a broad discipline, close to good management and quality management. In similar fashion, operational risks affect client satisfaction, reputation and shareholder value, all while increasing business volatility. Contrary to other risks (e.g. credit risk, market risk, insurance risk) operational risks are usually not willingly incurred nor are they revenue driven. Moreover, they are not diversifiable and cannot be laid off, meaning that, as long as people, systems and processes remain imperfect, operational risk cannot be fully eliminated.
+
+Operational risk is, nonetheless, manageable as to keep losses within some level of risk tolerance (i.e. the amount of risk one is prepared to accept in pursuit of his objectives), determined by balancing the costs of improvement against the expected benefits. Wider trends such as globalization, the expansion of the internet and the rise of social media, as well as the increasing demands for greater corporate accountability worldwide, reinforce the need for proper operational risk management (ORM). This dynamic topic is defined as a continual cyclic process which includes assessment, decision making and implementation of risk controls, which results in acceptance, mitigation, or avoidance of risk.
+
+_Methods of operational risk management_
+
+Basel II and various Supervisory bodies of the countries have prescribed various soundness standards for Operational Risk Management for Banks and similar Financial Institutions. To complement these standards, Basel II has given guidance to 3 broad methods of Capital calculation for Operational Risks;
+
+1. Basic indicator approach. Based on annual revenue of the financial institution.
+2. Standard approach. Based on annual revenue of each of the broad business lines of the financial institution.
+3. Advanced measurement approaches. Based on internally developed risk measurement framework of the bank adhering to the standards prescribed (includes methods such as IMA, LDA, Scenario-based, Scorecard)
+
+The ORM framework should address risks with respect to following aspect:
+
+- Identification
+- Measurement
+- Monitoring
+- Reporting
+- Control, and
+- Mitigation
+
+**6. Legal risk**
+
+Legal risk is the risk of loss caused by penalties or sanctions originating from court disputes due to breach of contractual and legal obligations, and penalties and sanctions pronounced by a regulatory body. In other words, legal risks are endemic in financial contracting and are separate from the legal ramifications of credit, counterparty, and operational risks. New statutes, tax legislation, court opinions and regulations can put formerly well-established transactions into contention even when all parties have previously performed adequately and are fully able to perform in the future. A type of legal risk arises from the activities of an institution's management or employees. Fraud, violations of regulations or laws, and other actions can lead to catastrophic loss, as recent examples in the thrift industry have demonstrated.
+
+All financial institutions face all these risks to some extent. Non-principal, or agency activity involves operational risk primarily. Since institutions in this case do not own the underlying assets in which they trade, systematic, credit and counterparty risk accrues directly to the asset holder. If the latter experiences a financial loss, however, legal recourse against an agent is often attempted. Therefore, institutions engaged in only agency transactions bear some legal risk, if only indirectly.
+
+**7. Foreign exchange risk**
+
+Foreign exchange risk is the risk that exists when a financial transaction is denominated in a currency other than that of the base currency of the company. Foreign exchange (FX) risk also exists when the foreign subsidiary of a firm maintains financial statements in a currency other than the reporting currency of the consolidated entity. The risk is that there may be an adverse movement in the exchange rate of the denomination currency in relation to the base currency before the date when the transaction is completed.
+
+Investors and businesses exporting or importing goods and services or making foreign investments have an exchange risk mostly in settings with inefficient foreign exchange market. A deviation from one or more of the three international parity conditions (purchasing power parity, interest rate parity and the international Fisher effect) suggest some exposure to foreign exchange risk.
+
+Firms with exposure to foreign exchange risk may use a number of foreign exchange hedging strategies to reduce the exchange rate risk. Transaction exposure can be reduced either with the use of the money markets, foreign exchange derivatives such as forward contracts, futures contracts, options, and swaps, or with operational techniques such as currency invoicing, leading and lagging of receipts and payments, and exposure netting.
 
 ## Information technology
 

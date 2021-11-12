@@ -4,11 +4,7 @@
 
 Date of authentication: 2073/01/10 BS (April 23, 2017 AD)
 
-Chapter-1
-
-Preliminary
-
-Short Title, Extension and Commencement
+**Chapter-1**: Preliminary
 
 - This Act may be called as "Banks and Financial Institutions Act, 2073 (2017)."
 - This Act shall extend to the whole territory of the state of Nepal and also enforce to a branch or liaison office opened outside of Nepal by a bank and financial institution incorporated in Nepal.
@@ -82,9 +78,7 @@ office in Nepal.
 - "Creditor" means and includes a person or a body corporate to whom/which a bank or financial institution has to pay and also a depositor and debenture-holder for the purpose of liquidation process.
 - "Hypothecation Loan" means a loan disbursed having entered into an agreement between a bank or financial institution and a Borrower against the collateral security of the stock having retained such stock under possession of the borrower concerned.
 
-Chapter-1
-
-Provisions Relating to Incorporation of a Bank or a Financial Institution
+**Chapter-1**: Provisions Relating to Incorporation of a Bank or a Financial Institution
 
 3. Incorporation of Banks or Financial Institutions:
 
@@ -169,9 +163,7 @@ Provisions Relating to Incorporation of a Bank or a Financial Institution
 (i) If any condition as prescribed by the Rastra Bank has not been found to be fulfilled.
 (2) If the Rastra Bank refuses to grant prior approval to the proposed bank or financial institution for any of the reasons as referred to in Sub-Section (1), information shall be given to the applicant stating the reasons thereof.
 
-Chapter-3
-
-Provisions Relating to Transactions of Securities
+**Chapter-3**: Provisions Relating to Transactions of Securities
 
 8. Prospectus
 9. Allotment of Shares
@@ -180,9 +172,7 @@ Provisions Relating to Transactions of Securities
 12. Prohibition on Transaction of Securities
 13. Prohibition on buy back by Bank or Financial Institutions of its' Own Shares.
 
-Chapter-4
-
-Provisions Relating to Board of Directors and Chief Executive
+**Chapter-4**: Provisions Relating to Board of Directors and Chief Executive
 
 14. Constitution of Board of Directors
 15. Term of Office of the Directors
@@ -202,8 +192,7 @@ Provisions Relating to Board of Directors and Chief Executive
 29. Appointment of Chief Executive and Terms and Conditions of Service
 30. Functions, Duties and Powers of Chief Executive
 
-Chapter-5
-Provisions Relating to Licenses
+**Chapter-5**: Provisions Relating to Licenses
 
 31. Prohibition on carrying out Banking or Financial Transactions by anyone other than Banks or Financial Institutions
 32. Use of Name of Banks or Financial Institutions
@@ -216,8 +205,7 @@ Provisions Relating to Licenses
 39. List to be Published
 40. Special Provisions Relating to Branches of Foreign Banks
 
-Chapter-6
-Provisions Relating to Capital, Capital Fund and Liquid Assets
+**Chapter-6**: Provisions Relating to Capital, Capital Fund and Liquid Assets
 
 41. Capital to be Maintained
 42. Capital Fund
@@ -228,8 +216,7 @@ Provisions Relating to Capital, Capital Fund and Liquid Assets
 47. Declaration and Distribution of Dividends
 48. Power to Issue Order to Decrease Capital
 
-Chapter-7
-Provisions Relating to Operation of Banking and Financial Transactions
+**Chapter-7**: Provisions Relating to Operation of Banking and Financial Transactions
 
 49. Powers of Banks or Financial Institutions to Carry out Banking and Financial Transactions
 50. Acts not Allowed to be carried out by Banks or Financial Institutions
@@ -238,15 +225,13 @@ Provisions Relating to Operation of Banking and Financial Transactions
 53. Information of Suspicious Transaction to be furnished
 54. Rastra Bank to issue Directives
 
-Chapter-8
-Provisions Relating to Disbursement and Recovery of Credits
+**Chapter-8**: Provisions Relating to Disbursement and Recovery of Credits
 
 55. Provisions Relating to Disbursement of Credits
 56. Monitoring as to Utilization of Credit Amount
 57. Provisions on Recovery of Credit
 
-Chapter-9
-Provisions on Accounts, Records, Details and Reporting
+**Chapter-9**: Provisions on Accounts, Records, Details and Reporting
 
 58. Accounts to be Maintained Accurately
 59. Balance-sheet, Profit and Loss Accounts to be Prepared
@@ -259,8 +244,7 @@ Provisions on Accounts, Records, Details and Reporting
 66. Functions, Duties and Powers of Auditor
 67. Recommendation for taking actions against Auditor
 
-Chapter-10
-Provisions Relating to Merger or Acquisition of Banks or Financial Institutions
+**Chapter-10**: Provisions Relating to Merger or Acquisition of Banks or Financial Institutions
 
 69. Banks or Financial Institutions may be Merged or Acquisitioned
 70. Application to be submitted for Merger or Acquisition
@@ -269,15 +253,13 @@ Provisions Relating to Merger or Acquisition of Banks or Financial Institutions
 73. Provisions Relating to Approval
 74. Transactions may be Acquired
 
-Chapter-11
-Voluntary Liquidation of Banks or Financial Institutions
+**Chapter-11**: Voluntary Liquidation of Banks or Financial Institutions
 
 75. Voluntary Liquidation of Bank or Financial Institution
 76. Initiation of Voluntary Liquidation
 77. No Effect in Liability
 
-Chapter-12
-Provisions Relating to Mandatory Liquidation of Bank or Financial Institutions
+**Chapter-12**: Provisions Relating to Mandatory Liquidation of Bank or Financial Institutions
 
 78. Application may be filed before the Court for Mandatory Liquidation of Banks or Financial Institutions
 79. Circumstances leading to Mandatory Liquidation of Bank or Financial Institutions
@@ -301,20 +283,18 @@ Provisions Relating to Mandatory Liquidation of Bank or Financial Institutions
 97. Mandatory Liquidation of Bank or Financial Institution Carrying on Transactions in More than One Country
 98. No claim to be entertained
 
-Chapter-13
-Provisions Regarding Actions, Offences and Punishment
+**Chapter-13**: Provisions Regarding Actions, Offenses and Punishment
 
 99. Power to Take Regulatory Actions
 100. Power to impose fines
 101. Procedures of Actions
 102. Control Over Licensee Institutions
-103. Offences
+103. Offenses
 104. Punishment
 105. Appeal
 106. No Difficulty in Imposing Punishment
 
-Chapter-14
-Miscellaneous
+**Chapter-14**: Miscellaneous
 
 107. Special Provisions Relating to Infrastructure Development Bank
 108. Security of Deposits to be made
@@ -400,14 +380,14 @@ It replaces the older act of 2012 BS. This act provides legal authority for the 
 - No clear provision on faults and punishment
 - Influenced by government/finance minister and ministry
 
-### Objectives of the Bank (Section 4)
+**(Section 4) Objectives of the Bank**
 
 - To formulate necessary monetary and foreign exchange policies in order to maintain the stability of price and balance of payment for economic stability and sustainable development of economy, and manage it;
 - To increase the access of the financial service and increase the public confidence towards the banking and financial system by maintaining stability of the banking and financial sectors,
 - To develop a secure, healthy and efficient system of payment;
 - The bank shall extend co-operation in the implementation of the economic policies of Government of Nepal.
 
-### Functions, duties and powers of the Bank (Section 5)
+**(Section 5) Functions, duties and powers of the Bank**
 
 - To issue bank notes and coins;
 - To formulate necessary monetary policies in order to maintain price stability and to implement or cause to implement them;
@@ -423,41 +403,47 @@ It replaces the older act of 2012 BS. This act provides legal authority for the 
 
 The bank may carry out the following functions (Subsection 2, Section 7)
 
-- To provide loan to and invest in the shares of the institutions which carry out the functions helpful in carrying out the function of the Bank or in attaining its objectives, not exceeding ten percent of the total capital of such institutions. (warrents explaination)
+- To provide loan to and invest in the shares of the institutions which carry out the functions helpful in carrying out the function of the Bank or in attaining its objectives, not exceeding ten percent of the total capital of such institutions. (explained in the amendment to the Act)
 - To provide loan to its own employees.
 
-### Prior Right of the Bank (Section 6)
+**(Section 6) Prior Right of the Bank**
 
 - For the purpose of recovering any loan, which the Bank has given to any borrower or any other type of claim of the Bank against any borrower, the Bank shall have prior right of security over cash deposited in an account in the name of such borrower at the Bank or in any commercial bank or financial institution or against any other moveable and immovable property owned by the borrower for the purpose of recovering such loan.
 - The Bank shall recover its loan by taking into its custody the cash or movable or immovable property having its prior right and selling such property as prescribed.
 
-### Functions not to be carried out by the Bank (Section 7)
+**(Section 7) Functions not to be carried out by the Bank**
 
 - Providing any loan, accepting any type of deposit or making any type of financial gift;
 - Purchasing shares of any commercial bank, financial institution, public corporation or a company or acquiring any type of proprietary right in any financial, commercial, agricultural, industrial or other institution.
 - Carrying out any type of trade; and
 - Acquiring right over movable and immovable property by way of purchase, lease or in any manner whatsoever.
 
-### Previlage and facilities of the Bank (Section 8)
+**(Section 8) Privilege and facilities of the Bank**
 
 - Exemption from all types of taxes, fees and charges on the income, capital transactions, houses, land, assets, etc.;
 - No requirement for the payment of registration fee for registration of the deeds of loan or refinance to be given by the Bank.
 - No requirement of revenue stamps on any of the documents relating to the Bank;
 - No tax, fee, charge, duty on the export and import of bank notes, coins, gold, silver and the paper, metal, chemicals, and other materials to be used for printing bank notes and minting coins.
 
-- (Section 9) Relation between the Government of Nepal and the bank, contacts to be made through the Ministry of Finance.
-- (Section 10) Coordination with public bodies; Government may request necessary information on balance of payment, banking and financial matter and upon the request of the Bank to GoN, public and private sector, such segments shall provide necessary economic and financial information.
-- (Section 11) International cooperation and relationship
+**(Section 9)** Relation between the Government of Nepal and the bank, contacts to be made through the Ministry of Finance.
 
-### Formation of Board (section 14)
+**(Section 10)** Coordination with public bodies; Government may request necessary information on balance of payment, banking and financial matter and upon the request of the Bank to GoN, public and private sector, such segments shall provide necessary economic and financial information.
 
-There shall be a board of directors in the banks consisting of the following members;
-Governor $\longrightarrow$ Chairperson
-Secretary ( Ministry Of Finance) $\longrightarrow$ Member
-Two deputy governors $\longrightarrow$ Member
-Three Directors appointed by the government of Nepal from amongst the person renowned in the in fields of Economics, Monitory, Banking, Finance , and commercial law $\longrightarrow$ Member
+**(Section 11)** International cooperation and relationship
 
-### Appointment of governor (Section 15)
+**(Section 12)** Flow of public information
+
+**(Section 13)** Operation of Accounts
+
+**(Chapter 3, Section 14) Formation of Board**
+
+- There shall be a board of directors in the banks consisting of the following members;
+  - Governor $\longrightarrow$ Chairperson
+  - Secretary ( Ministry Of Finance) $\longrightarrow$ Member
+  - Two deputy governors $\longrightarrow$ Member
+  - Three Directors appointed by the government of Nepal from amongst the person renowned in the in fields of Economics, Monitory, Banking, Finance, and commercial law $\longrightarrow$ Member
+
+**(Section 15) Appointment of Governor**
 
 - Government of Nepal, the council of minster shall appoint governor on the basis of the recommendation of recommendation committee formed pursuant a subsection (2)
 
@@ -465,46 +451,69 @@ Three Directors appointed by the government of Nepal from amongst the person ren
 - One person among the former governor $\longrightarrow$ Member
 - One person designated by the government of Nepal from amongst the person renowned in the in fields of Economics, Monitory, Banking, Finance , and commercial law $\longrightarrow$ Member.
 
-### Appointment of deputy governor (Section 16)
+**(Section 16) Appointment of Deputy Governor**
 
-- The board shall constitute an audit committee comprising of the following members
-- Government of Nepal, the council of Minister shall appoint deputy governors on the recommendation of Governor.
-- While making the recommendation for application of Deputy Governor, recommend double the number of the post falling vacant from among the special class officers of the banks on the basis of their performance and capability.
-- 5 years of tenure.
-- No provision for reappointing.
-- Take oath from Governor.
-- After retirement, deputy governor cannot work in other BFIs at least for three years
+- Government of Nepal, the council of Minister shall appoint Deputy Governor on the recommendation of Governor.
+- While making the recommendation for application of Deputy Governor, recommend double the number of the post falling vacant from among the special class officers of the Bank on the basis of their performance and capability.
+- The person appointed in the post of Deputy Governor under this Section shall be deemed to have been automatically retired from the service of the Bank.
 
-### Functions, Duties, and power of Board ( Section 29)
+**(Section 17)** Appointment of the Directors
 
-- To frame monetary and foreign exchange policies
-- To take necessary decisions with regard to denominations of the banknotes, coins, the figures, size, metal, materials for printing notes, and other materials. Also, frame appropriate policies with regard to their issue.
-- To frame necessary policies for causing the supervision and inspection of BFIs.
-- To frame the applicable policies for other BFIs.
-- To frame policies with regards to the appointment, promotion, transfer, dismissal, remuneration, pension, provident fund, leave, code of conduct and other terms and conditions relating to the services of the employees of the bank.
-- To approve the necessary policy for the issue of license to commercial banks and financial institutions.
-- To approve the limit of the loan to be provided to the Government of Nepal by the bank.
-- To fix the amount, limit, terms and conditions about providing loan to the BFIs.
-- To make a decision with regards to the bank's membership to international organizations.
-- To frame the policy for investment and mobilizations of the Bank's financial resources.
+**(Section 18) Tenure of Office of the Directors**
 
-### Functions, Duties, and power of the Governor (Section 30)
+- The tenure of office of the Governor, Deputy Governor and Directors shall be of 5 years.
+- GoN may reappoint the retiring Governor for one term and the retiring Directors for any term, if it is deemed necessary.
 
-- Implement decisions made by the board.
-- Operate and manage the bank.
-- Systematize the functions to be carried out by the bank.
-- Represent the Nepal Rastra Bank in the international platform.
-- Implement and cause to implement the policies relating to monetary and foreign exchange matters.
-- Fix the interest rate related policies of other BFIs.
-- Formulate the policy related to the liquidity of the other BFIs.
-- Formulate the terms and conditions of the gold and other precious metal related transactions.
-- To fix the fees and commission of BFIs.
-- To take the decision about operating and expanding the branches of the BFIs.
-- To make the necessary arrangement for the development and operation of the information system of other banks.
-- To formulate the policy relating the revocation of the license provided to commercial banks.
-- To take decisions on any other subject matter to the power delegated by the BOD.
+**(Section 19)** Remuneration and other benefits to the Directors
 
-### Audit committee (Section 34)
+**(Section 20)** Qualifications of the Directors
+
+**(Section 23)** Constitution, functions and duties of inquiry committee
+
+**(Section 29) Functions, Duties, and power of Board**
+
+(a) To frame monetary and foreign exchange policies;
+(b) To take necessary decisions with regard to the denominations of bank notes and coins, the figures, size, metal, materials for printing notes, and other materials; and to frame appropriate policies with regard to their issue;
+(c) To frame necessary policies for causing the supervision and inspection of commercial banks and financial institutions and banking and financial arrangement.
+(d) To approve Rules and Bye-laws of the Bank and to frame policies applicable to the operation and management of the Bank;
+(e) To frame policies with regard to the appointment, promotion, transfer, dismissal, remuneration, pension, gratuity, provident fund, leave, code of conduct and other terms and conditions relating to the service of the employees of the Bank;
+(f) To approve the annual programs and budget of the Bank and the annual auditing of accounts, and to submit its report to Government of Nepal for information;
+(g) To approve the annual report on the activities of the Bank;
+(h) To frame necessary policy for the issue of license to commercial banks and financial institutions and for revoking such license;
+(i) To approve the limit of the loan to be provided to GoN by the Bank;
+(j) To fix the amount, limit and terms and conditions of the loan and refinance which the Bank provides to the commercial banks and financial institutions;
+(k) To make decision with regard to the Bank's membership to international organizations, associations;
+(l) To frame policy for the mobilization and investment of Bank's financial resource;
+(m) To submit proposal to Government of Nepal along with the reasons there for if it is necessary to make amendment to this Act;
+(n) To take decision on all other matters excluding the matters which are within the authority of Governor under this Act; and
+(o) To delegate the powers vested on the Board to the Governor or the subcommittee constituted by the Board with or without fixing the time limit.
+
+**(Section 30) Functions, Duties, and power of the Governor**
+
+- To implement decisions made by the board;
+- To operate and manage the bank;
+- To systematize the functions to be carried out by the bank;
+- To represent the Nepal Rastra Bank in the international platform;
+- To implement and cause to implement the policies relating to monetary and foreign exchange matters;
+- To formulate necessary policy on rates of interest for deposits and loan with commercial banks and financial institutions;
+- To formulate necessary policies with regard to rate of interest to be paid by commercial banks and financial institutions on deposit and loan or the rate of interest to be charged by them on deposits and loan;
+- To formulate necessary policies relating to liquidity to be maintained by commercial banks and financial institutions;
+- To make necessary arrangement with regard to the basis, amount, methods, conditions and duration of compulsory deposit to be maintained by commercial banks and financial institutions, and its use;
+- To fix the terms and conditions relating to adequacy of the capital fund of commercial banks and financial institutions;
+- To take decision with regard to the procedures and terms and conditions to be followed while purchasing and selling gold and other precious metals;
+- To fix charge on the services to be provided by the Bank;
+- To take decision for opening and closing branch offices and other offices of the Bank as may be necessary;
+- To establish and close the agency of the Bank;
+- To make necessary arrangement for development and operation of information system of Bank;
+- To make necessary arrangement for supervision of commercial banks and financial institutions;
+- To take decision with regard to revocation of the license provided to commercial banks and financial institutions.
+- To take decisions on any other matters subject to the powers delegated by the Board of Directors;
+
+The powers to be exercised by the Governor of a Central Bank in accordance with international practice shall be vested in the Governor.
+
+**(Section 33)** Management committee
+
+**(Section 34) Audit committee**
 
 The government shall constitute an audit committee comprising of the following members
 
@@ -512,7 +521,7 @@ The government shall constitute an audit committee comprising of the following m
 - One subject expert designated by the Board $\longrightarrow$ Member
 - Chief of internal audit department of the bank $\longrightarrow$ Member
 
-### Function, Duties, and power of the audit committee (Section 35)
+**(Section 35) Function, Duties, and power of the audit committee**
 
 - Submit audit report to the NRB board.
 - The audit committee can recommend for the preparation of budget and audit procedure, support to prepare a periodic balance sheet and other documents.
@@ -520,42 +529,90 @@ The government shall constitute an audit committee comprising of the following m
 - Audit managerial and performance appraisal of the NRB entity.
 - Frame bylaws relating to audit under the provision of prevailing law.
 
-### Relation with Government of Nepal (Chapter 8, Section 69)
+**(Section 37)** Professional code of conduct and official responsibility
 
-- Work as bank of the government
-- Work as a financial agent of the government
-- Work as a financial advisor of the government
-- NRB provide consultation to reform the financial laws
-- Provide advice to the consultation relating to external debt
-- Issuing currency for the government of Nepal
-- Policy formulator of the government of Nepal (Monetary Policy, FOREX policy)
-- Policy enforcer
-- System builder for payment, settlement house, credit creation, clearing house
+**(Section 38)** Confidentiality
 
-### State of problematic commercial banks and financial institution (Section 86B)
+**(Chapter 4)** Financial provisions
 
-- Act against the interest of depositor, shareholder, and promoters.
-- Act of not fulfilling the financial liabilities.
-- If BFIs are going toward insolvency
-- If BFIs submit the fake document and acknowledge later. (while getting a license)
-- If BFIs are unable to maintain the capital structure and capital fund.
-- If BFIs initiate the process of volunteer liquidation undue delay.
-- If BFIs carry out the businesses which are restricted by NRB.
-- Unable to pay the due amount.
+- The capital of the Bank shall be 5 billion rupees. (Section 39)
 
-### Action taken by NRB to problematic BFIs (Section 86C)
+**(Chapter 5)** Monetary functions and operation of open market
 
-- Can issue an order to issue new shares.
-- NRB can suspend the right of voting for the shareholder.
-- Stop the dividend payment to any other amount to the shareholder.
-- Determine the limitation to the bonus, salary, compensation and other expenses.
-- Can maintain efficient arrangement to liquidity management/corporate governance.
-- Can limit the transaction of BFIs.
-- Prohibit for doing specific business.
-- Can issue an order to remove director/manager/staff.
-- Can suspend the BOD.
-- Can issue an order to delist from the stock market.
+- Monetary policy (Section 44)
+- Operation of open market transaction (Section 45)
+- Compulsory deposit of commercial banks and financial institutions (Section 46)
+- Loan and refinance to commercial banks and financial institutions (Section 49)
 
+**(Chapter 6)** Monetary unit, banknote and coins
+
+**(Chapter 7)** Foreign exchange policy, regulation and reserve
+
+**(Chapter 8, Section 69) Relation with Government of Nepal**
+
+- Bank, advisor and financial agent (Section 69)
+- Consultation and information relating to external debt (Section 70)
+- Deposit collection (Section 71)
+- Functions of fiscal agent (Section 72)
+- Bank may ask for Particulars, Statistics and Documents (Section 73)
+- Consultation on the matter of law reform (Section 74)
+- Credit to GoN and Purchase of Government Debt Bonds
+
+**(Chapter 9)** Regulation, inspection and supervision of the banks
+
+- Bank's approval required for accepting deposits or giving credits (Section 76)
+- Restriction on rate of interest (Section 77)
+- License to be obtained from Bank (Section 78)
+- Regulatory powers of Bank (Section 79)
+- Banking and financial system and credit control (Section 80)
+- Credit to prescribed sectors (Section 81)
+- Information to be furnished to Bank (Section 82)
+- Approval required to issue debentures and financial instruments (Section 83)
+- Inspection and supervision (Section 84)
+- Exchange of mutual cooperation (Section 85)
+- Commercial banks and financial institutions to provide information to the Bank (Section 86A)
+- Commercial banks and financial institution deemed to be problematic (Section 86B)
+  - Acting against the interest of depositor, shareholder, and promoters,
+  - Not fulfilling the financial liabilities,
+  - Insolvency or going to be insolvent,
+  - Non-compliance with or breach of this Act, prevailing laws, terms of license or regulation, directives or order of Bank,
+  - Obtained the license on the basis of submitting false, fraudulent, wrong document or data,
+  - Inability to maintain the capital fund as dictated by the law,
+  - Initiation of the legal proceedings for liquidation or resolution or insolvency,
+  - In case of undue delay in the process of voluntary liquidation where such proceeding has been initiated,
+  - Carry out of the businesses or transaction in joint venture with foreign commercial bank or financial institutions which are insolvent or for which liquidator is appointed or the license is terminated under the provision of the law of respective country or transaction is banned fully or partially.
+  - Unable to pay the due amount.
+- Bank to take action against problematic commercial bank or financial institution (Section 86C)
+  - Issue an order to issue new shares
+  - Suspend the right of voting for the shareholder
+  - Stop the dividend payment to any other amount to the shareholder
+  - Determine the limitation to the bonus, salary, compensation and other expenses
+  - Make necessary arrangement for corporate governance, internal control and risk management
+  - Maintain sufficient capital and high proportion of liquidity or prohibit business transaction
+  - Limit the transaction or prohibit sale of property or expansion/closure of branch
+  - Prohibit from doing specific business
+  - Issue an order to remove director/manager/staff
+  - Receive prior approval of the bank for major capital expenditure, substantial commitments having major liabilities or for the expenditure of contingent liabilities
+  - Suspend the Board of Director and takeover the management
+  - Issue an order to remove from the post to single or more director or manager or employee
+  - Issue an order to delist from the stock market
+  - To prohibit payment of interest and principal for time bond auxiliary loan without having securities.
+- Effect of the control of the Bank to any Commercial Bank or Financial Institution (Section 86D)
+- The reformative measures and power to be used by the bank or the official appointed by the bank (Section 86E).
+- Power of the bank for corrective action (Section 86F)
+- Can be subject of resolution (Section 86G)
+- Decreasing the capital of problematic commercial bank or financial institution (Section 86H)
+- Right to appeal against the order of the bank (Section 86I)
+- Establishment of Information Network (Section 87)
+- Establishment of Credit Information Center (Section 88)
+
+**(Chapter 9)** Provisions relating to resolution (Chapter added by amendment)
+
+**(Chapter 10)** Balance sheet, auditing and report
+
+**(Chapter 11)** Offenses, punishment and proceedings
+
+**(Chapter 12)** Miscellaneous
 
 ### Major features of the amended NRB Act
 
@@ -570,14 +627,13 @@ The government shall constitute an audit committee comprising of the following m
 - The provision of open market operation for maintaining liquidity has been reformulated in the Act. Besides repor and reverse repo, NRB could use other appropriate instruments and other measures for the purpose of OMO.
 - Under section 79, NRB can issue to BFIs directives on Anti-Money Laundering (AML) and Combating Financing of Terrorism (CFT) covering areas like identification of clients as well as the classification of client risks and their management, fund transfer, furnishing of details on border of suspicious transactions including deposits to the FIU.
 - The amendment has increased the power of NRB for remedial action in the resolution process of problem bank and financial institutions.
-
-- A separate Chapter has been provided for the resolution process.
-- Under this provision, Special Administration Group shall be formed for the settlement of the problem BFIs.
-- The group shall operate BFI except collecting deposit and providing loan.
-- There is also the provision of Bridge Institution or Unit for the operationalization of resolution of BFI.
-- During the resolution process, the rights of all the staff shall be suspended. Special Administration Group shall prepare new balance sheet and shall recommend for the improvement of financial status of BFIs.
-- All the actions and activities commenced prior to the resolution shall be suspended.
-- Special Administration Group could also request for, and obtain, mutual assistance from concerned institutions in foreign countries, if so required, to support resolution process, with the prior approval of the NRB.
+- A separate Chapter has been provided for the resolution process. Under this, following provisions are included,
+  - Special Administration Group shall be formed for the settlement of the problem BFIs.
+  - The group shall operate BFI except collecting deposit and providing loan.
+  - There is also the provision of Bridge Institution or Unit for the operationalization of resolution of BFI.
+  - During the resolution process, the rights of all the staff shall be suspended. Special Administration Group shall prepare new balance sheet and shall recommend for the improvement of financial status of BFIs.
+  - All the actions and activities commenced prior to the resolution shall be suspended.
+  - Special Administration Group could also request for, and obtain, mutual assistance from concerned institutions in foreign countries, if so required, to support resolution process, with the prior approval of the NRB.
 
 ## Banking Offence and Punishment Act, 2064
 
@@ -589,36 +645,36 @@ The government shall constitute an audit committee comprising of the following m
 - Chapters: 21
 - Sections : 188
 
-### Objectives
+**Objectives**
 
 - To create dynamism into the economic development of the nation by promoting investment in industries, trade, and business.
 - To promote the use of economic liberalization.
 - To make legal provision relating to incorporation, operation, management, and administration of the company much simpler, easier and more transparent.
 
-### Major Provisions
+**Features and provisions**
 
-- It has the provision of incorporation of the company
-- It has the provision to promote corporate good governance.
-- It defines the management tools of the company such as AOA, MOA, and BOD.
-- It creates the features of a legal person.
-- All the company must use suffix as Pvt. Ltd. or Ltd as per their nature.
+- Incorporation of the company
+- Promotion of corporate good governance
+- Defines the management tools of the company such as AOA, MOA, and BOD.
+- Creates the features of a legal person.
+- All companies must use suffix as Pvt. Ltd. or Ltd as per their nature.
 - Few types of companies should be incorporated only as a public company
-- It has provision relating to the conversion of private company into public and vice versa.
-- Provision of Office of Company Registrar (OCR) can provide service from branch office and outlets.
-- It has the provision relating to share, capita , and debenture of companies.
-- It has the provision of Board of Director (BOD) formation, Types of director and their rights and liabilities and also BOD meeting procedures.
-- It has the provision of general meeting its types and agendas of the company.
-- It has the provision of account record keeping and auditing.
-- Provision of company winding up as per the voluntary, compulsory and with deregistration process
-- It has provision relating to the protection of shareholders.
-- It has provision relating to private, holding, subsidiary and foreign company.
-- It has provision relating to control the use of ultra vires by BOD. (Company should not go beyond the AOA & MOA)
-- It has provision relating to a proceeding of lawsuits and punishment.
+- Provision relating to the conversion of private company into public and _vice versa_.
+- Establishment of Office of Company Registrar (OCR) which can provide service from branch office and outlets.
+- Provision relating to share, capita , and debenture of companies.
+- Board of Director (BOD) formation, Types of director and their rights and liabilities and also BOD meeting procedures.
+- General meeting its types and agendas of the company.
+- Account record keeping and auditing.
+- Company winding up as per the voluntary, compulsory and with deregistration process
+- Provision relating to the protection of shareholders.
+- Provision relating to private, holding, subsidiary and foreign company.
+- Provision relating to control the use of ultra vires by BoD. (Company should not go beyond the AOA and MOA)
+- Provision relating to a proceeding of lawsuits and punishment.
 - Provision of the substantial shareholder
 - Compulsory provision of company secretary for a company which has more than 1 crore capital
-- It is in compliance with the Money Laundering Prevention Act
-- It has the provision of merger and acquisition of the company.
-- Development committee can be converted into the public company if the government gives permission.
+- Compliance with the Money Laundering Prevention Act
+- Provision of merger and acquisition of the company.
+- Provision for conversion of a Development Committee into public company if the government gives permission.
 
 ### Types of general meeting
 
@@ -638,7 +694,7 @@ The government shall constitute an audit committee comprising of the following m
 - If a company can not conduct AGM within the predefined time, OCR schedule the time.
 - If the company still do not call for AGM, the stakeholders can file a case in court for calling up AGM
 
-Process of Calling AGM
+_Process of Calling AGM_
 
 - AGM notice should be published before 21 days of the AGM date mentioning the date/time, venue and agendas.
 - AGM notice should be published at least two times in the national level newspaper.

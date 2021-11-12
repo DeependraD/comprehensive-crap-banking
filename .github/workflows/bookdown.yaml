@@ -39,13 +39,21 @@ jobs:
       - name: Build site
         run: Rscript -e 'rmarkdown::render_site(output_format = "bookdown::pdf_book", encoding = "UTF-8")'
 
-      - name: Upload pdf build to release
-        uses: svenstaro/upload-release-action@v2
+      - name: Build site
+        run: Rscript -e 'rmarkdown::render_site(output_format = "bookdown::pdf_book", encoding = "UTF-8")'
+      - name: Upload pdf build as artifact
+        uses: actions/upload-artifact@v2
         with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: _book/*
-          # asset_name: concise-plbgen
-          file_glob: true
-          tag: ${{ github.ref }}
-          overwrite: true
-          body: "pdf build of the book"
+          name: pdf build
+          path: _book/ # or path/to/artifact
+
+      # - name: Upload pdf build to release
+      #   uses: svenstaro/upload-release-action@v2
+      #   with:
+      #     repo_token: ${{ secrets.GITHUB_TOKEN }}
+      #     file: _book/*
+      #     # asset_name: concise-plbgen
+      #     file_glob: true
+      #     tag: ${{ github.ref }}
+      #     overwrite: true
+      #     body: "pdf build of the book"
