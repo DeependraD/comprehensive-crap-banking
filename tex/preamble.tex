@@ -1,6 +1,16 @@
 \usepackage{booktabs}
 
 \usepackage{geometry} % for custom layout of book and landscape geometry support
+\geometry{
+  a4paper,
+  left=2.5cm,
+  right=2.5cm,
+  headheight=2.5cm,
+  top=3cm,
+  bottom=3cm,
+  footskip=2cm
+}
+
 \usepackage{amsthm}
 \makeatletter
 \def\thm@space@setup{%
@@ -8,6 +18,24 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+% \renewcommand{\chaptermark}[1]{%
+% \markboth{\thechapter.\ #1}{}}
+%
+\newcommand{\TheAuthor}{} % As given in documentation of **fancyhdr**
+\newcommand{\Author}[1]{\renewcommand{\TheAuthor}{#1}}
+\fancyhead{} % clear all fields
+% \fancyhead[LE]{\slshape \leftmark \\ \TheAuthor}
+\fancyhead[LE]{\small \itshape \begin{minipage}{0.8\textwidth}\raggedright \leftmark \end{minipage}\\[2pt]}
+\fancyhead[RE]{\slshape \TheAuthor}
+\fancyhead[RO]{\small \slshape \rightmark}
+\fancyhead[LO]{\slshape \TheAuthor}
+\fancyfoot[C]{\thepage}
+% \renewcommand{\headrulewidth}{0.4pt}
+% \renewcommand{\footrulewidth}{0.6pt}
+\Author{Deependra Dhakal}
 
 \usepackage{enumerate}
 \usepackage{longtable}
@@ -27,7 +55,7 @@
 \usepackage{rotating}
 \newcommand{\blandscape}{\begin{landscape}}
 \newcommand{\elandscape}{\end{landscape}}
-\usepackage[format=hang,labelfont=bf,margin=0.5cm,justification=centering]{caption}
+\usepackage[format=hang,labelfont=bf,margin=0.5cm,justification=justified,font=footnotesize]{caption}
 % \usepackage{exam} % this and exam.sty cause error
 \usepackage{pdfpages}
 \usepackage{siunitx}
