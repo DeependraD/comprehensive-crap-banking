@@ -637,7 +637,22 @@ The government shall constitute an audit committee comprising of the following m
 
 ## Banking Offence and Punishment Act, 2064
 
-(Continue from page 557 of Advanced Banking Knowledge book)
+A bank is an institution licensed by Nepal Rastra Bank to carry out "A" category financial transactions, pursuant to prevailing law. As per the chapter 2 of the act, following comprise punishable offences:
+
+1. Not to open an account or demand cash payment in an unauthorized manner
+2. Not to obtain or issue cheques, cheque-books or bank statements in an unauthorized manner.
+3. Not to make unauthorized withdrawls or payments
+4. Not to obtain or make payment by way of abuse of unauthorized use of electronic means
+5. Not to avail or provide loans in an unauthorized manner
+6. Not to misuse credit
+7. Not to misuse banking resources, means and assets
+8. Not to acquire assets or open account by borrower who has over dues.
+9. Not to stop credit facility in the way to loss working project of borrower.
+10. Not to make loss by making alteration in the account or ledger or by committing forgery or fraud.
+11. Not to derive excess, low or false valuation
+12. Not to carry out and cause to carry out irregular economic or financial transactions.
+
+(For a detailed discussion, continue from page 557 of Advanced Banking Knowledge book)
 
 ## Company act, 2063
 

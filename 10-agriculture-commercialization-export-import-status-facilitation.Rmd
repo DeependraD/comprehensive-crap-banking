@@ -116,14 +116,15 @@ EXIM Code refers to Export Import code with 13 letters. Any institution or estab
 EXIM Code should be updated or renewed annually extending the Bank Guarantee for one more term. Anyone desirous to update the code exceeding a year can extend by submitting the bank guarantee for more than one year. Previous same EXIM Code remains valid until it is revoked.
 
 The Code is now issued by the Department of Customs. In order to obtain the EXIM Code, following documents should be submitted to the Department of Customs website.
- - Application form (downloaded from the website)
- - Company/firm registration Certificate
- - PAN Certificate
- - VAT Certificate
- - Special certificates (if required)
- - Recommendation from the bank where the applicant has an account.
- - Recent photograph
- - Map of the enterprise
+
+- Application form (downloaded from the website)
+- Company/firm registration Certificate
+- PAN Certificate
+- VAT Certificate
+- Special certificates (if required)
+- Recommendation from the bank where the applicant has an account.
+- Recent photograph
+- Map of the enterprise
 
 The applicant also needs to provide an NRS 300,000 cheque deposit issued by a Class A bank certified by Nepal Rastra Bank. The Code will be issued one week after the complete submission of the application.
 
@@ -187,7 +188,7 @@ Exporting Edible Products:
 source("./scripts/trade_status.R")
 ```
 
-```{r countrywise-trade-balance, out.width="60%", fig.height=4, fig.width=4, fig.cap="Balance of payment (import-export) status of recent years."}
+```{r countrywise-trade-balance, out.width="80%", fig.height=3, fig.width=5, fig.cap="Balance of payment (import-export) status of recent years."}
 ## Countrywise trade balance
 # ls(pattern = "balance_country")
 balance_2017_19 <- reduce(list(ft_2017_balance_country %>% mutate(year = 2017), 
